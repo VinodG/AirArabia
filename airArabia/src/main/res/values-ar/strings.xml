@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title_adt">
+        <item>MR</item>
+        <item>MRS</item>
+        <item>MS</item>
+    </string-array>
+    <string-array name="title_chd">
+        <item>MSTR</item>
+        <item>MISS</item>
+    </string-array>
+    <string-array name="title_inf">
+        <item>MSTR</item>
+        <item>MISS</item>
+    </string-array>
+    <string-array name="title_adt_desc">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+    </string-array>
+    <string-array name="title_chd_desc">
+        <item>Master</item>
+        <item>Miss</item>
+    </string-array>
+    <string-array name="title_inf_desc">
+        <item>Master</item>
+        <item>Miss</item>
+    </string-array>
+
+    <string name="InternetProblem">لا اتصال إنترنت المتوفرة. يرجى المحاولة مرة أخرى.</string>
+    <string name="alert_msg_fill_all_fields">الرجاء ملء جميع الحقول</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger">الرجاء ملء بينات المسافر المطلوبة.</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger_info">يرجى تعبئة جميع الحقول المطلوبة.</string>
+    <string name="Select_Date">ختيار التاريخ</string>
+    <string name="Departing">الذهاب</string>
+    <string name="Departing_depart">المغادرة</string>
+    <string name="Arriving">وصوله</string>
+    <string name="January">    يناير
+</string>
+    <string name="February">    فبراير
+</string>
+    <string name="March">    مارس
+</string>
+    <string name="April">    إبريل
+</string>
+    <string name="May">    مايو
+</string>
+    <string name="June">    يونية
+</string>
+    <string name="July">    يولية
+</string>
+    <string name="August">   أغسطس
+</string>
+    <string name="September">    سبتمبر
+</string>
+    <string name="October">    أكتوبر
+</string>
+    <string name="November">    نوفمبر
+</string>
+    <string name="December">    ديسمبر
+</string>
+
+    <string-array name="ArrMonth">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>إبريل</item>
+        <item>مايو</item>
+        <item>يونية</item>
+        <item>يولية</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </string-array>
+
+    <string name="Sunday">    الأحد
+</string>
+    <string name="Monday">    الاثنين
+</string>
+    <string name="Tuesday">    الثلاثاء
+</string>
+    <string name="Wednessday">    الأربعاء
+</string>
+    <string name="Thursday">    الخميس
+</string>
+    <string name="Friday">    الجمعة
+</string>
+    <string name="Saturday">    السبت
+</string>
+    <string name="AdditionalServices">    خدمات إضافية
+</string>
+    <string name="AddServices">   إضافة خدمات
+</string>
+    <string name="AdminiFee">    رسوم إدارية
+</string>
+    <string name="Adult">     البالغون
+</string>
+    <string name="adult_flight_summary">بالغ</string>
+    <string name="adult_flight_fareselection">الكبار</string>
+    <string name="Adultss">البالغون</string>
+    <string name="you_have_been_succesfully_logout">لقد تم تسجيل بنجاح.</string>
+    <string name="selectDate">اختيار التاريخ</string>
+    <string name="selectDate_dep">تاريخ الذهاب</string>
+    <string name="selectDate_return">تاريخ العودة</string>
+    <string name="selectCurrency">اختر العملة </string>
+    <string name="rememberMe">تذكر بياناتي</string>
+    <string name="remembered">تذكر</string>
+    <string name="categoryClass">الصف</string>
+    <string name="Best_Fare">	أفضل أجرة
+</string>
+    <string name="Flight_Timing">	توقيت الرحلة
+</string>
+    <string name="AdultChildCountErrorMessage">    عدد البالغين والأطفال غير صحيح
+</string>
+    <string name="Adults">    شخص بالغ
+</string>
+    <string name="AirportService">    خدمات المطارات
+</string>
+    <string name="AirportServices">اختر خدمات المطار</string>
+    <string name="Arrival">    الوصول
+</string>
+    <string name="ArrivalAirportErr">   يرجى إدخال مطار الوصول
+</string>
+    <string name="Available">    متوفر
+</string>
+    <string name="Available_seatselection">متوفر</string>
+    <string name="Back">رجوع</string>
+    <string name="Baggage">    الأمتعة
+</string>
+    <string name="Baggages">    الأمتعة
+</string>
+    <string name="BookAFlight">    احجز رحلة
+</string>
+    <string name="BookFlight">    حجز رحلات
+</string>
+    <string name="BookFlight_dashboard">حجز الرحلات</string>
+    <string name="BookingSummary">   ملخص الحجز
+</string>
+    <string name="BuyTravelInsurance">   اشترِ تأمينًا على السفر
+</string>
+    <string name="CardExpiryErr">   لقد انتهت صلاحية بطاقتك
+</string>
+    <string name="CardNameErr">    يرجى إدخال اسم صاحب البطاقة
+</string>
+    <string name="CardNameInvalid">   يرجى إدخال اسم صاحب البطاقة كما يظهر على البطاقة
+</string>
+    <string name="CardNumErr">   يرجى إدخال رقم البطاقة
+</string>
+    <string name="CardNumInvalid">    رقم بطاقة غير صالح
+</string>
+    <string name="CardSecurityErr">   يرجى إدخال رمز الحماية
+</string>
+    <string name="CardSecurityInvalid">    يجب أن يضم رمز الحماية 3 أو 4 حروف
+</string>
+    <string name="CardTypeErr">   يرجى اختيار نوع بطاقتك
+</string>
+    <string name="CheckInOnline">إنجاز إجراءات السفر  
+</string>
+    <string name="CheckInOnline_title">إنجاز إجراءات السفر</string>
+    <string name="airewards">    برنامج الولاء
+</string>
+    <string name="Child">    الأطفال
+</string>
+    <string name="Childs">    طفل
+</string>
+    <string name="Child2to12Yrs">   (طفل (من سنتين إلى 12 سنة
+</string>
+    <string name="Children">    أطفال
+</string>
+    <string name="Confirm">    تأكيد
+</string>
+    <string name="ConfirmSeat">    تأكيد المقعد
+</string>
+    <string name="Continue">    مواصلة
+</string>
+    <string name="CopyRight">    جميع الحقوق محفوظة للعربية للطيران ©
+</string>
+    <string name="Country">البلد:</string>
+    <string name="Country_withoutColan">البلد</string>
+    <string name="CountryError">    يرجى اختيار الدولة
+</string>
+    <string name="Daily">    يوميًا
+</string>
+    <string name="Depart">    مغادرة
+</string>
+    <string name="Departure">    المغادرة
+</string>
+    <string name="DaysOfOperation">أيام الرحلات</string>
+    <string name="FlightNumber">رقم الرحلة</string>
+    <string name="DepartureAirportErr">    يرجى تحديد مطار المغادرة
+</string>
+    <string name="DepartureDateErr">    يرجى اختيار تاريخ المغادرة
+</string>
+    <string name="DestinationErrorMessage">    يرجى اختيار مطار الوجهة
+</string>
+    <string name="DOB">تاريخ الميلاد</string>
+    <string name="DOBError">    يرجى تحديد تاريخ الولادة
+</string>
+    <string name="EmailId">    معرِّف البريد الإلكتروني
+</string>
+    <string name="EmailIdError">    يرجى إدخال معرف البريد الإلكتروني
+</string>
+    <string name="EnterDetails">    أدخل التفاصيل
+</string>
+    <string name="Login_For_Faster_Booking">سجيل الدخول لتسريع الحجز</string>
+    <string name="FirstName">    الاسم الأول
+</string>
+    <string name="FirstNameError">    يرجى إدخال الاسم الأول
+</string>
+    <string name="FlexiFare">سعر مرن
+</string>
+    <string name="FlexiFare_details">تفاصيل السعر المرن</string>
+    <string name="FlightDays">    الرحلة/ الأيام
+</string>
+    <string name="FlightNo">    رقم الرحلة
+</string>
+    <string name="FlightSchedule">    جدول الرحلات
+</string>
+    <string name="FlightSummary">تلخيص الحجز</string>
+    <string name="TimeTable">مواعيد الرحلات</string>
+    <string name="FlightScheduleDesc">    تطير بك العربية للطيران إلى سلسلة واسعة من المدن المثيرة في أنحاء الشرق الأوسط وشمال إفريقيا وأوروبا وبلدان رابطة الدول المستقلة وشبه القارة الهندية وآسيا الوسطى. حدد وجهات المغادرة والوصول للاطلاع على معلومات حول الرحلات الشهرية للعربية للطيران.
+</string>
+    <string name="From">    من
+</string>
+    <string name="FlyingFrom">    من
+</string>
+    <string name="FromTo">    من / إلى
+</string>
+    <string name="IAccept">    أوافق على شروط وأحكام شركة الطيران
+</string>
+    <string name="ImpNote">    ملاحظة هامة
+</string>
+    <string name="Inbound">    رحلة العودة
+</string>
+    <string name="Infant">    الرضع
+</string>
+    <string name="Infants">    الرضع:</string>
+    <string name="InfantBelow2Yrs">    (رضيع (أقل من سنتين
+</string>
+    <string name="InvalidEmail">    البريد الإلكتروني غير صالح
+</string>
+    <string name="InvalidMobile">    رقم الهاتف الجوَّال غير صالح
+</string>
+    <string name="InvalidVisaCard">    رقم بطاقة تأشيرة غير صالح
+</string>
+    <string name="InvlaidMasterCard">    رقم بطاقة ماستر كارد غير صالح
+</string>
+    <string name="ISDError">    برجى إدخال رمز البلد
+</string>
+    <string name="ItMayTakeFewSeconds">    قد تستغرق بضع دقائق
+</string>
+    <string name="LastName">    اسم العائلة
+</string>
+    <string name="LastNameError">    يرجى إدخال اسم العائلة
+</string>
+    <string name="ContactPersonsLastName">اسم العائلة</string>
+    <string name="EnterContactPersonsLastName">الرجاء إدخال إسم العائلة</string>
+    <string name="Loading">    التحميل جاري
+</string>
+    <string name="ManageYourBooking">    تعديل الحجز
+</string>
+    <string name="Meals">الوجبات</string>
+    <string name="Menu">    قائمة الطعام
+</string>
+    <string name="MobileError">    يرجى إدخال رقم الهاتف الجوال
+</string>
+    <string name="MobileError_10_digit">Please enter your 10 digits modile number.</string>
+    <string name="MobileNumber"> رقم الهاتف</string>
+    <string name="ModifySearch">    عدِّل البحث
+</string>
+    <string name="More">    المزيد
+</string>
+    <string name="NaArr">    الوصول
+</string>
+    <string name="NaDep">    المغادرة
+</string>
+    <string name="Name">    الاسم
+</string>
+    <string name="Services">الخدمات</string>
+    <string name="Address">عنوان</string>
+    <string name="Nationality">    الجنسية
+</string>
+    <string name="NationalityError">    يجرى إدخال الجنسية
+</string>
+    <string name="NoAirportsFound">    لم يعثر على مطارات
+</string>
+    <string name="NoBaggage">    الأمتعة غير متوفرة
+</string>
+    <string name="NoFlightsAvailable">لا توجد رحلات جوية</string>
+    <string name="NoHala">    خدمات هلا غير متوفرة
+</string>
+    <string name="NoInsurance">    التامين غير متوفر
+</string>
+    <string name="NoMeals">    الوجبات غير متوفرة
+</string>
+    <string name="NoSeat">    تفاصيل المقعد غير متوفرة
+</string>
+    <string name="NoSeatMap">    خارطة المقعد غير متوفرة
+</string>
+    <string name="NoStops">    دون توقف
+</string>
+    <string name="NotAvailable">    غير متوفر
+</string>
+    <string name="NoThanks">    لا، شكرًا
+</string>
+    <string name="Occupied">غير متوفر</string>
+    <string name="OneWay">طريقة واحدة</string>
+    <string name="OneWay_bookflight">ذهاب</string>
+    <string name="OriginDestinationErrorMessage">    يرجى اختيار مطاري الإقلاع والوجهة
+</string>
+    <string name="OriginErrorMessage">    يرجى اختيار مطار الإقلاع أولاً ثم اختر الوجهة
+</string>
+    <string name="Outbound">    رحلة الذهاب
+</string>
+    <string name="PassengerInfo">    بيانات الراكب
+</string>
+    <string name="Passengers">    المسافرون
+</string>
+    <string name="Passenger">    الركاب
+</string>
+    <string name="Payment">    الدفع
+</string>
+    <string name="PersonaliseYourTrip">الخدمات الاضافية</string>
+    <string name="PleaseDoNotRefresh">    يرجى عدم إعادة تنشيط الصفحة أو الضغط على زر العودة أثناء عملنا على تلبية طلبك
+</string>
+    <string name="PoweredBy">    يتم التشغيل باستخدام
+</string>
+    <string name="Price">    السعر
+</string>
+    <string name="PromoFare">    سعر ترويجي
+</string>
+    <string name="PromoFare_details">تفاصيل السعر الترويجي</string>
+    <string name="Return">العودة</string>
+    <string name="Return_bookflight">ذهاب وعودة</string>
+    <string name="RoundTrip">    رحلة ذهاب وعودة
+</string>
+    <string name="Route">    مسار الرحلة
+</string>
+    <string name="SearchFlight">البحث عن رحلات</string>
+    <string name="Show_Result_Based_On">    عرض النتائج على أساس
+</string>
+    <string name="Seat">    المقعد
+</string>
+    <string name="SeatNo">    رقم المقعد
+</string>
+    <string name="Seats">المقاعد</string>
+    <string name="SecuredCreditCard">الدفع عبر بطاقة الائتمان</string>
+    <string name="SelectAirport">    اختيار المطار 
+</string>
+    <string name="SelectBaggage">    اختر أمتعتك
+</string>
+    <string name="Selected">اختيارك</string>
+    <string name="SelectHala">    اختر خدمات هلا
+</string>
+    <string name="SelectMeal">    إختر وجبتك
+</string>
+    <string name="SelectMenuCategory">    اختيار فئة قائمة الطعام
+</string>
+    <string name="SelectSeat">    اختر مقعدك
+</string>
+    <string name="Stops">    التوقف
+</string>
+    <string name="TaxSurcharge">الرسوم والضرائب</string>
+    <string name="TermsAndConditions">    شروط وأحكام
+</string>
+    <string name="TermsErrorMessage">    يجب أن توافق على شروطنا وأحكامنا
+</string>
+    <string name="Time">    الوقت
+</string>
+    <string name="Title">    اللقب
+</string>
+    <string name="TitleError">    يرجى اختيار اللقب
+</string>
+    <string name="To">    إلى
+</string>
+    <string name="To_colon">    :إلى
+</string>
+    <string name="FlyingTo">   إلى
+</string>
+    <string name="TotalAmount">    المبلغ  الإجمالي
+</string>
+    <string name="TotalAmount_Payment">المجموع الكلي المستحق</string>
+    <string name="Total"> المجموع</string>
+    <string name="ReturnDiscount">      العودة الحجز الخصم
+</string>
+    <string name="TotalFlightsServices">مجموع الرحلات + الخدمات</string>
+    <string name="TotalFlightsServices_Payment">مجموع الرحلات والخدمات</string>
+    <string name="TotalInboundFlight">    إجمالي رحلة العودة
+</string>
+    <string name="TotalOutboundFlight">    إجمالي رحلة الذهاب
+</string>
+    <string name="TotalPrice">    السعر الإجمالي
+</string>
+    <string name="TotalPrice_payment">المجموع الكلي المستحق</string>
+    <string name="TravelSecure">    وثيقة تأمين السفر
+</string>
+    <string name="TravelSecure_PriceSummmary">    وثيقة تأمين السفر
+</string>
+    <string name="WinIT">    ونيت
+</string>
+    <string name="Yes">    نعم
+</string>
+    <string name="no">   لا
+</string>
+    <string name="SelectFlight">    اختيار الرحلة
+</string>
+    <string name="Stop">    المباشر
+</string>
+    <string name="AirArabia">    العربية للطيران
+</string>
+    <string name="AmjanSalesShop">    محل مبيعات عجمان
+</string>
+    <string name="AmjanSalesShopAddr">    شارع الشيخ راشد بن حميد، قرب مركز بحر الأحلام للملابس
+</string>
+    <string name="AmjanSalesShopli1">    للحجز:  من السبت حتى الخميس من 8:30 صباحًا حتى 8:30 مساءً/ الجمعة من 5:00 مساءً حتى 8:30 مساءً
+</string>
+    <string name="AmjanSalesShopli2">    لطلب تأشيرة جديدة واستلام التأشيرات الموافق عليها: من السبت حتى الخميس من 8:30 صباحًا حتى 8:30 مساءً
+</string>
+    <string name="AmjanSalesShopli3">    لاسترداد التأمين وتمديد التأشيرة: من السبت حتى الخميس من 8:30 صباحًا حتى 1:00 ظهرًا
+</string>
+    <string name="ApplyFromOutSideTheUAE">    التقديم من خارج الإمارات العربية المتحدة
+</string>
+    <string name="ApplyFromOutSideTheUAEDescription">    لطلب تأشيرة زيارة من خارج دولة الإمارات العربية المتحدة، يرجى الاتصال بمراكز مبيعات العربية للطيران في دولكم للحصول على التفاصيل
+</string>
+    <string name="ApplyFromTheUAE">    تقديم الطلبات من الإمارات
+</string>
+    <string name="ApplyNow">    أطلب الآن
+</string>
+    <string name="CallCenter">    مركز الإتصال
+</string>
+    <string name="CallCenterNumber">رقم مراكز الاتصال</string>
+    <string name="Timings">المواعيد</string>
+    <string name="CallCentersDescription1">    إننا نشجع المسافرين معنا على الاستفادة من خدمات الإنتنت سهلة الاستخدام عند حجز رحلاتهم، إلا أننا لا نبعد عنك إلا مسافة إتصال هاتفي في أي وقت من اليوم.
+</string>
+    <string name="CallCentersIn">    مراكز الإتصال في
+</string>
+    <string name="City">المدينة:</string>
+    <string name="ClosingDate">    تاريخ انتهاء العرض
+</string>
+    <string name="ContactInfo">    معلومات الاتصال
+</string>
+    <string name="ChooseNumber">اختر رقم إلى الطلب</string>
+    <string name="ContactUs"> إتصل بنا
+</string>
+    <string name="Description">    الوصف
+</string>
+    <string name="Details">    تفاصيل
+</string>
+    <string name="DetailsDescription">    تذاكر ذهاب وعودة وتأشيرة مقابل 1050 درهم إماراتي
+</string>
+    <string name="DocumentsFromApplicant">    وثائق من مقدم الطلب
+</string>
+    <string name="DocumentsFromApplicantDescription">    يجب أن يقدم مقدم الطلب الوثائق التالية شخصياً
+</string>
+    <string name="DubaiSalesShop">    مكتب مبيعات دبي
+</string>
+    <string name="DubaiSalesShopAddr">    بناية بورسعيد، بجوار بنك دبي الإسلامي، شارع آل، قرب برج الساعة- الديرة
+</string>
+    <string name="DubaiSalesShopli1">    للحجز: من السبت حتى الخميس من 8:30 صباحًا حتى 8:00 مساءً، الجمعة من 5:00 مساءً حتى 8:00 مساءً.
+</string>
+    <string name="DubaiSalesShopli2">    لطلب تأشيرة جديدة واستلام التأشيرات الموافق عليها: من السبت حتى الخميس من 8:30 صباحًا حتى 7:00 مساءً
+</string>
+    <string name="DubaiSalesShopli3">    لاسترداد التأمين وتمديد التأشيرة: من السبت حتى الخميس من 8:30 صباحًاا حتى الواحدة ظهرًا
+</string>
+    <string name="ForFeedbacksOrSuggestions">    للملاحظات والإقتراحات
+</string>
+    <string name="ForGeneralEnquiryAndFollowUp">    للاستفسارات العامة والمتابعة
+</string>
+    <string name="ForGeneralEnquiryAndFollowUpDescription">    للاستفسارات العامة  بخصوص التأشيرات أو للاستيضاح حول وضع طلب تأشيرتك يمكنك الاتصال بنا على هاتف 065237100 (الشارقة)
+من السبت حتى الخميس من 8:30 صباحًا حتى 5:00 مساءً، كما يمكن للعملاء الاتصال بنا على البريد الإلكتروني
+</string>
+    <string name="LatestOffers">    أحدث العروض
+</string>
+    <string name="LatestOffersDescription">    إن عروض العربية للطيران التي توفر أفضل قيمة مقابل المال هي صيد ثمين حقًا - لا تُفَوِّت عروضنا التي لا تقاوم! بصرف النظر عن تذاكر السفر الرخيصة الثمن المتاحة دائمًا، فإن شركتنا تطلق باستمرار عروضًا ترويجية كل يوم تقريبًا! اشترك الآن وابْقَ على اطلاع على عروضنا المثيرة وعلى الخصومات الكبيرة على أجور السفر الجوي.
+</string>
+    <string name="Location">    الموقع
+</string>
+    <string name="Map">    خارطة
+</string>
+    <string name="OfficeLocation">مواقع مكاتبنا</string>
+    <string name="OfficeLocationDescription1">    بغض النظر عن مكان وجودك، نحن دائمًا هناك لخدمتك.
+</string>
+    <string name="OfficeLocationsIn">    مواقع المكتب في
+</string>
+    <string name="CallCenterLocationsIn">الاتصال بمركز المواقع في</string>
+    <string name="OurOffersFromToSharjah">    عروضنا من/ إلى الشارقة
+</string>
+    <string name="Phone">    الهاتف
+</string>
+    <string name="PNRNumber">    رقم الحجز
+</string>
+    <string name="ViewReservation">    مشاهدة الحجز
+</string>
+    <string name="ModifyReservation">    تعديل الحجز
+</string>
+    <string name="CancelReservation">    إلغاء الحجز
+</string>
+    <string name="FindBooking">    البحث عن الحجز
+</string>
+    <string name="RasAlKhaimahSalesShop">    محل مبيعات رأس الخيمة
+</string>
+    <string name="RasAlKhaimahSalesShopAddr">    طريقة عُمان، شارع النخيل (خلف سوبرماركت لولو)
+</string>
+    <string name="RasAlKhaimahSalesShopli1">    للحجز:  من السبت حتى الخميس من 8:30 صباحًا حتى 9:00 مساءً/  الجمعة من 5:00 مساءً حتى 9:00 مساءً
+</string>
+    <string name="RasAlKhaimahSalesShopli2">    لطلب تأشيرة جديدة واستلام التأشيرات الموافق عليها: من السبت حتى الخميس 8:30 صباحًا حتى 9:00 مساءً
+</string>
+    <string name="RasAlKhaimahSalesShopli3">    لاسترداد التأمين وتمديد التأشيرة: من السبت حتى الخميس من 8:30 صباحًا حتى 9:00 مساءً
+</string>
+    <string name="ReachUs">    إتصل بنا
+</string>
+    <string name="RegulationsForChildren">    أنضمة الأطفال
+</string>
+    <string name="RegulationsForChildrenDescriptionli1">    إذا كان الأطفال المرافقون مضافين لجوازات سفر أمهاتهم فانه لا يلزم تأشيرات خاصة لهم.
+</string>
+    <string name="Reset">    إعادة تهيئة
+</string>
+    <string name="SharjahRollaSalesShop">    محل المبيعات، رولا الشارقة
+</string>
+    <string name="SharjahRollaSalesShopAddr">    شارع العروبة، رولا- منطقة أم طرفة
+</string>
+    <string name="SharjahRollaSalesShopli1">    للحجز:  من السبت حتى الخميس من 9:00 صباحًا حتى 1:00 ظهرًا/ ومن 4:30 مساءً حتى 9:00 مساءً / الجمعة من 4:30 عصرًا حتى 9:00 مساءً
+</string>
+    <string name="SharjahRollaSalesShopli2">    لطلب تأشيرة جديدة واستلام التأشيرات الموافق عليها: من السبت حتى الخميس من 9:00 صباحًا حتى 1:00 ظهرًا/ ومن 4:30 عصرًا حتى 9:00 مساءً
+</string>
+    <string name="SharjahRollaSalesShopli3">    لاسترداد التأمين وتمديد التأشيرة: من السبت حتى الخميس من 9:00 صباحًا حتى 1:00 ظهرًا
+</string>
+    <string name="SharjaIndustrialSalesShop">    محل مبيعات الشارقة الصناعية
+</string>
+    <string name="SharjaIndustrialSalesShopAddr">    بناية خان صاحب، المنطقة الصناعية رقم 10 - قرب دوار جيكو، منطقة الشارقة الصناعية
+</string>
+    <string name="SharjaIndustrialSalesShopli1">    للحجز: السبت - الخميس 9:30 صباحًا حتى 9:30 مساءً/ الجمعة من 5:00 مساءً حتى 9:00مساءً
+</string>
+    <string name="SharjaIndustrialSalesShopli2">    لطلب تأشيرة جديدة - تمديد التأشيرة واسترداد التأمين: السبت - الخميس 9:30 صباحًا حتى 9:30 مساءً
+</string>
+    <string name="SharjaSalesShop">    متجر الشارقة للمبيعات
+</string>
+    <string name="SharjaSalesShopAddr">    البرج 400- طريق مينا - منطقة أم طرفة
+</string>
+    <string name="SharjaSalesShopli1">    لحجز التذاكر: من السبت حتى الخميس: من 8 صباحًا حتى 10 مساءً/ الجمعة: من 5 مساءً حتى 9 مساءً
+</string>
+    <string name="SharjaSalesShopli2">    لطلب تأشيرة جديدة واستلام التأشيرات الموافق عليها: من السبت حتى الخميس من 8 صباحًا حتى 10 مساءً
+</string>
+    <string name="SharjaSalesShopli3">    لاسترداد التأمين وتمديد التأشيرة: من السبت حتى الخميس من 8 صباحًا حتى 1:00 ظهرًا
+</string>
+    <string name="SpecialOffers">    عروض خاصة
+</string>
+    <string name="Subject">    الموضوع
+</string>
+    <string name="Submit">    قدِّم
+</string>
+    <string name="TravelTill">    سافر حتى 2012/11/30
+</string>
+    <string name="UAEImmigrationAuthorityRegulations">    أنظمة دائرة الهجرة والجوازات في دولة الإمارات
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescription">    تأشيرات الدخول مطلوبة لجميع الزوار باستثناء مواطني الدول الثلاثة و الثلاثين التالية:
+</string>
+    <string name="VisaAssistance">    المساعدة بشأن التأشيرات
+</string>
+    <string name="VisaRegulations">    تعليمات إصدار التأشيرات
+</string>
+    <string name="VisaRegulationsDescription">    إن كنت مقيمًا في دولة الإمارات العربية المتحدة وأردت تقديم طلب لتأشيرات لأسرتك أو أقاربك أو أصدقائك، فإنه سيكون من دواعي سروري العربية للطيران المساعدة في ذلك.
+نقدم خدمات المساعدة بشأن التأشيرات للزوار القادمين من أيٍّ من وجهاتنا، وكل ما يتطلبه الأمر هو تذكرة باتجاهين.
+</string>
+    <string name="VisaRequirements">    شروط الحصول على التأشيرات
+</string>
+    <string name="VisaRequirementsDescription">    إن كنت مقيمًا في دولة الإمارات العربية المتحدة وأردت تقديم طلب لتأشيرات لأسرتك أو أقاربك أو أصدقائك، فإنه سيكون من دواعي سروري العربية للطيران المساعدة في ذلك. نقدم خدمات المساعدة بشأن التأشيرات للزوار القادمين من أيٍّ من وجهاتنا، وكل ما يتطلبه الأمر هو تذكرة باتجاهين.
+</string>
+    <string name="VisaValidityDescription">    الصلاحية والتجديد
+</string>
+    <string name="VisaValidityHead">    مطلوب جواز السفر الأصلي مع التأشيرة الأصلية ودفع مبلغ 870 درهمًا إماراتيًا للحصول على تأشيرة لدبي أو للشارقة
+</string>
+    <string name="DocumentsFromApplicantDescription1">    تأشيرة سياحية صادرة عن دائرة الهجرة والجوازات في دبي والشارقة لأبناء أسرته وللأصدقاء والأقارب.
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli1">    الحد الأدنى للراتب 3000 درهم إماراتي
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli2">    صورة جواز السفر وتأشيرة الإقامة بصلاحية لا تقل عن ثلاثة أشهر.
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli3">    كشف حساب مصرفي لآخر ثلاثة أشهر ممهور بختم البنك أو شهادة بآخر راتب + عقد استئجار بصلاحية لا تقل عن ثلاثة أشهر.
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli4">    صورتان واضحتان عن جواز سفر الزائر بصلاحية لا تقل عن ستة أشهر.
+</string>
+    <string name="RegulationsForChildrenDescriptionli2">    الأطفال الذين يحملون جوازات سفر خاصة بهم يلزمهم تأشيرة خاصة لهم.
+</string>
+    <string name="RegulationsForChildrenDescriptionli3">    مطلوب شيك ضمان بمبلغ 7500 درهم إماراتي عن كل طفل يقل عمره عن عشر سنوات.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli1">    الدول الأعضاء في مجلس التعاون الخليجي: البحرين، الكويت، عُمان، قطر و المملكة العربية السعودية.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli10">    لا يسمح لحامل تأشيرة الزيارة بالعمل في دولة الامارات العربية المتحدة.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli11">    في حالة تجاوز مدة الزيارة، تطبق غرامة مقدارها ٢٠٠ درهم عن اليوم الأول عن كل شخص و ١٠٠ درهم عن كل يوم يلي ذلك.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli2">    دول غرب أوروبا: فرنسا، ايطاليا، المانيا، هولندا، بلجيكا، لوكسمبورغ، سويسرا، النمسا، السويد، النرويج، الدنمارك، البرتغال، ايرلندا، اليونان، فنلندا، اسبانيا، موناكو، الفاتيكان، ايسلندا، أندورا، سان مارينو و ليختنشتاين.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli3">    المملكة المتحدة
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli4">    أمريكا الشمالية: الولايات المتحدة الأمريكية
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli5">    استراليا و نيوزلندا
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli6">    الشرق الأقصى: اليابان، بروناي، سنغافورة، ماليزيا و هونغ كونغ
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli7">    يجب دخول دولة الامارات العربية المتحدة خلال شهرين من تاريخ اصدار التأشيرة
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli8">    يسمح بالدخول لمرة واحدة فقط. و في حالة مغادرة الزائر لدولة الامارات العربية المتحدة، فان التأشيرة تلغى تلقائياً
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli9">    يسمح باعادة الدخول للامارات العربية المتحدة بعد ٣٠ يوم من المغادرة.
+</string>
+    <string name="VisaCancellation">    الغاء التأشيرة
+</string>
+    <string name="VisaCancellationli1">    لا يمكن الغاء تأشيرة تمت الموافقة عليها و لم تستخدم الا بعد انتهاء مدة صلاحيتها (٦٠ يومًا من تاريخ الاصدار)
+</string>
+    <string name="VisaCancellationli2">    على مقدم الطلب دفع مبلغ ١٧٥ درهماً اماراتياً كرسوم الغاء، و بعد ذلك سيتم الغاء التأشيرة. (يرجى الملاحظة أنه لا يمكن استرداد رسوم التأشيرة سواء تم رفضها أو الغاؤها أو الموافقة عليها.
+</string>
+    <string name="VisaCancellationli3">    ذا كانت التأشيرة لا تزال تحت المعالجة ونشأت حاجة لإلغائها، فعلى مقدم الطلب دفع مبلغ 175 درهمًا إماراتيًا. ويتطلب هذا ما بين خمسة إلى ستة أيام من تاريخ تقديم طلب الإلغاء.
+</string>
+    <string name="VisaValidityDescriptionli1">    التأشيرة السياحية صالحة لمدة 30 يومًا من تاريخ دخول دولة الأمارات العربية المتحدة، ويمكن تمديدها لمدة 30 يومًا أخرى قبل انتهائها.
+</string>
+    <string name="VisaValidityDescriptionli2">    يجب تقديم طلب تمديد التأشيرة قبل انتهائها بما لا يقل عن عشرة أيام.
+</string>
+    <string name="VisaValidityDescriptionli3">    في حالة تمديد صلاحية التأشيرة، يجب تمديد التأمين الصحي بكلفة 50 درهمًا إماراتيًا.
+</string>
+    <string name="VisaValidityDescriptionli4">    مطلوب جواز السفر الأصلي مع التأشيرة الأصلية ودفع مبلغ 870 درهمًا إماراتيًا للحصول على تأشيرة لدبي أو للشارقة
+</string>
+    <string name="AdditionalServiceDetails">    تفاصيل إضافية للخدمات
+</string>
+    <string name="AdminFee">    رسوم إدارية
+</string>
+    <string name="AirFare">    أجرة السفر
+</string>
+    <string name="AmountPaid">    المبلغ المدفوع
+</string>
+    <string name="Arrive">    الوصول
+</string>
+    <string name="BaggageSelection">    اختيار الأمتعة
+</string>
+    <string name="BookingDetails">    تفاصيل الحجز
+</string>
+    <string name="BookingSuccess">    تم تنفيذ حجزك بنجاح
+</string>
+    <string name="CardExpiryDate">    تاريخ انتهاء صلاحية البطاقة
+</string>
+    <string name="Click">    أنقر
+</string>
+    <string name="ConfirmPayment">    تأكيد الدفع
+</string>
+    <string name="CountryOfResidence">    بلد الإقامة
+</string>
+    <string name="Email">    البريد الإلكتروني
+</string>
+    <string name="Finish">    إنهاء
+</string>
+    <string name="HaveASafeJourney">    نتمنى لك رحلة آمنة
+</string>
+    <string name="Here">    هنا
+</string>
+    <string name="Insurance">تأمين:
+</string>
+    <string name="MealSelection">    اختيار وجبة
+</string>
+    <string name="Mobile">رقم الجوّال</string>
+    <string name="OtherTaxeFeeSurcharge">    رسوم إضافية/ضرائب أخرى
+</string>
+    <string name="otherPassengers">المسافرون الآخرون</string>
+    <string name="PassengersWhoBought">    سيطلب موظفو المطار من المسافرين الذين اشتروا تذاكرهم بواسطة بطاقات اعتماد اثباتا بالدفع.
+</string>
+    <string name="PaymentDetails">    تفاصيل الدفع
+</string>
+    <string name="PolicyCode">    رقم البوليصة
+</string>
+    <string name="ReservationDate">    تاريخ الحجز
+</string>
+    <string name="ReservationNumber">    رقم الحجز
+</string>
+    <string name="EnterReservationNumber">إدخال رقم الحجز</string>
+    <string name="ReservationSummary">    ملخص الحجز
+</string>
+    <string name="SeatSelection">المقاعد</string>
+    <string name="SecurityCode">    رمز الحماية
+</string>
+    <string name="Taxes">    ضرائب
+</string>
+    <string name="ThankYou">    شكرًا لك
+</string>
+    <string name="ThankYouForChoosing">    شكرًا لاختيارك العربية للطيران
+</string>
+    <string name="ToReturnHomePage">    للعودة إلى الصفحة الرئيسية
+</string>
+    <string name="TryAgain">    حاول مرة أخرى
+</string>
+    <string name="YourBookingHasBeenSuccess">    تم تنفيذ حجزك بنجاح وأُرسل خط سير رحلتك إليك بالبريد الإلكتروني
+</string>
+    <string name="YourItinerary">    خط سير رحلتك
+</string>
+    <string name="InvalidName">    اسم غير صالح
+</string>
+    <string name="OfficeLocationDescription2">    إننا نشجعك دائمًا على الحجز بواسطة الإنترنت، إلا أننا نرحب بك أيضًا لزيارة أي من مكاتب مبيعاتنا الموجودة في منطقتك. تغطي مكاتب مبيعاتنا مختلف أنحاء شبكتنا. للحصول على نصائح لضمان رحلات جوية رخيصة الثمن، وخصومات على الرحلات الجوية، وأفضل الصفقات، فإن وكلاءنا مستعدون دائمًا لمساعدتك.
+</string>
+    <string name="OfficeLocationDescription3">    حدد المدينة التي تقيم فيها، وطالع مواقع مكاتب مبيعاتنا وأرقام هواتفها في بلدك
+</string>
+    <string name="OfficeLocationDescription4">    ما عليك إلا الاتصال بنا أو زيارتنا وسنعتني نحن بالباقي
+</string>
+    <string name="CallCentersDescription2">    لقد خصصنا مراكز اتصال متاحة في جميع أنحاء شبكتنا لمساعدتكم في تنفيذ حجوزاتكم وكذلك لإعلامكم عن العربية للطيران وعن عروضنا وخدماتنا الرائعة التي نقدمها.
+</string>
+    <string name="CallCentersDescription3">    حدد البلد الذي تقيم فيه واتصل برقم الهاتف المذكور أدناه، وستجد وكلاء مركز اتصالنا هناك لمساعدتك.
+</string>
+    <string name="CallCenters">مراكز الإتصال</string>
+    <string name="CategoryError">يرجى إختيار الفئة
+</string>
+    <string name="DepartureDate">تاريخ المغادرة
+</string>
+    <string name="returnDate">تاريخ العودة</string>
+    <string name="EnterDepartureDate">أدخل تاريخ المغادرة</string>
+    <string name="EnterYourReservationDetails">إدخال تفاصيل الحجز الخاص بك لتحميل الحجز:</string>
+    <string name="FlightScheduleDescription1">تطير بك العربية للطيران إلى سلسلة واسعة من المدن المثيرة في أنحاء الشرق الأوسط وشمال إفريقيا وأوروبا وبلدان رابطة الدول المستقلة وشبه القارة الهندية وآسيا الوسطى.</string>
+    <string name="FlightScheduleDescription2">حدد وجهات المغادرة والوصول للاطلاع على معلومات حول الرحلات الشهرية للعربية للطيران</string>
+    <string name="InvalidPNR">    سجل رقم مسافر غير صحيح (8 خانات فقط)
+</string>
+    <string name="MessageError">    يرجى إدخال رسالتك
+</string>
+    <string name="PNRError">    يرجى إدخال رقم الحجز
+</string>
+    <string name="Search">    بحث</string>
+    <string name="SubjectError">    يرجى إدخال الموضوع
+</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="ComingSoon">    قريباً
+</string>
+    <string name="HalaP1">    إرتق بسفرك إلى تجربة أفضل مع خدمات هلا. تقدم هلا مجموعة فريدة من الخدمات ذات القيمة المضافة للركاب المسافرين عبر الشارقة، بما في ذلك خدمات الاستقبال والمساعدة، وأولوية في المرور عبر إجراءات الهجرة، وسرعة إنهاء إجراءات السفر قدومًا ومغادرةً وصالة رجال الأعمال وحمل الأمتعة.
+</string>
+    <string name="InsFinalSelection">يرجى تحديد خيارك النهائي</string>
+    <string name="InsPopupHead">    هل تسافر دون تأمين؟ قبل أن تقرر، نوصيك بالنظر في بعض الحقائق الهامة.
+</string>
+    <string name="InsPopupNo">    لا، لا أرغب في شراء تأمين
+</string>
+    <string name="InsPopupP1">    هل تعلم أن وثيقة حماية السفر (Travel Secure) واحدة من أسهل الطرق وأكثرها اقتصادًا لحماية رحلتك من الأحداث غير المتوقعة مثل حوادث الطائرات أو تأخير الرحلات؟
+</string>
+    <string name="InsPopupP2">    هل تعلم أنه رغم أن معظم بطاقات الاعتماد تشمل تأمينًا، إلا أن تغطيتها غالبًا ما تكون محدودة؟
+</string>
+    <string name="InsPopupP3">    إن وثيقة حماية السفر (Travel Service) هي تأمين السفر الأكثر شمولية الذي تستطيع شراءه ويوفر لك راحة بال كاملة.
+</string>
+    <string name="InsPopupYes">    نعم أرغب في شراء تأمين
+</string>
+    <string name="InsuranceP1_sub1">أية رحلة لن تكون كاملة بدون تأمين سفر...</string>
+    <string name="InsuranceP1_sub2">سواء كنت في رحلة إجازة أو رحلة عمل, تريد أن تقضي رحلة وبالك مرتاح. اسمح لنا بأن نكون من يقلق بشأن المضايقة الطبية وفي حالات الطوارئ ومضايقات السفر وما عليك سوى شراء خطة تأمين السفر من تون بروتكت.</string>
+    <string name="InsuranceP1_sub3_1">بسعر</string>
+    <string name="InsuranceP1_sub3_2">فقط، سيتم تغطيتك فيما يلي:</string>
+    <string name="InsuranceLi1">      USD 50,000 تعويض طبي عن الحوادث والمرض
+</string>
+    <string name="InsuranceLi2">   	USD 20,000 للإخلاء الطبي في الحالات الطارئة والعودة إلى الوطن
+</string>
+    <string name="InsuranceLi3"> USD 3,000 أمريكي لإلغاء وتقليص السفر
+</string>
+    <string name="InsuranceLi4">        والمزيد......
+</string>
+    <string name="InsurancePurchaseYes">        نعم، أود شراء تأمين السفر​
+</string>
+    <string name="MealsP1">    تمتع مع العربية للطيران برحلة مصممة لك خصيصًا. حدد الوجبة التي تروق لك من قائمة الطعام التي تقدمها سكاي كافيه قبل سفرك.
+</string>
+    <string name="MealsP2">    لاختيار وجبتك، حدد اسم المسافر والوجبة التي ترغبها.
+</string>
+    <string name="Ok">نعم</string>
+    <string name="SeatPopupHead">    إذا رغب المسافر في الجلوس على المقعد المحاذي لباب الطواريء، فيجب توفر الشروط التالية فيه:
+</string>
+    <string name="SeatPopupP1">    أن يتجاوز عمره ١٥ عاماً.
+</string>
+    <string name="SeatPopupP2">    أن يكون سليماً تماماً من ناحية السمع و البصر و قادراً على ادراك تعليمات طاقم الطائرة.
+</string>
+    <string name="SeatPopupP3">    أن يتمتع بصحة جيدة و بكامل قواه العقلية و الجسدية.
+</string>
+    <string name="SeatPopupP4">    أن لا يعاني من صعوبة في التحرك السريع بسبب العمر أو الوزن أو كتلة الجسم.
+</string>
+    <string name="SeatPopupP5">    أن لا يكون محتجزاً أو مصنفاً كشخص مبعد.
+</string>
+    <string name="SeatPopupP6">    أن يكون مستعداً للمشاركة بنشاط اذا لزم الأمر في فتح باب الطوارئ عند الطلب منه. على أية حال، تحتفظ الشركة لنفسها بالحق بتخصيص المقاعد أو اعادة تخصيصها في أي وقت من الأوقات، حتى بعد الصعود الى الطائرة، و ذاك لأسباب تشغيلية أو لأسباب تتعلق بالسلامة. في حالة نشوء أي حادث فيما يتعلق باختيار المقعد، يرجى الاتصال بقسم خدمة العملاء. يرجى الملاحظة أن المقاعد في الصف رقم ١١ لا تنحني الى الخلف. أوافق على الشروط و الأحكام الخاصة بالمقعد المحاذي لباب الطوارئ.
+</string>
+    <string name="TypeToSearch">    اكتب للبحث
+</string>
+    <string name="Arr">الوصول:</string>
+    <string name="Dep">المغادرة:</string>
+    <string name="Alert">إنذار</string>
+    <string name="CardType">    نوع البطاقة
+</string>
+    <string name="ErrorWhileProcessing">    خطأ أثناء تنفيذ طلبك
+</string>
+    <string name="PaymentDescription">    الموافقة على الصعود الى الطائرة: على المسافرين القادمين من الهند أو الباكستان أو بنغلاديش الى دولة الامارات العربية المتحدة بتأشيرة زيارة أو بموجب صورة (غير أصلية) لتأشيرة سياحية أو بتأشيرة الكترونية أن يضمنوا تجديد الموافقة على الصعود الى الطائرة على تذاكرهم من جانب الكفيل، و في حالة عدم القيام بذلك فانه لن يسمح لهم بالسفر مع العربية للطيران.
+</string>
+    <string name="SelectedFlightsCannot">    لا يمكن حجز الرحلات المختارة
+</string>
+    <string name="SessionExpired">    لقد انتهت صلاحية جلستك
+</string>
+    <string name="StartAgain">    يرجى البدء مرة أخرى
+</string>
+    <string name="StartOver">    يرجى البدء من جديد
+</string>
+    <string name="TechProblem">    حدثت مشكلة فنية معينة أثناء تنفيذ طلبك
+</string>
+    <string name="TryAgainAfter">    يرجى المحاولة مرة أخرى بعد بضع لحظات
+</string>
+    <string name="CreditBalance">    الرصيد الائتمان
+</string>
+    <string name="DateOfBooking">    تاريخ الحجز
+</string>
+    <string name="DepartureDateMismatch">    تاريخ المغادرة غير مطابق
+</string>
+    <string name="Flight">    الرحلة
+</string>
+    <string name="InvalidPNRCB">    رقم سجل المسافر غير مطابق
+</string>
+    <string name="LastNameMismatch">    اسم العائلة غير مطابق
+</string>
+    <string name="ManageBooking">إدارة الحجز</string>
+    <string name="ModifySegment">    تعديل الرحلة
+</string>
+    <string name="Status">    حالة الحجز
+</string>
+    <string name="Surcharges">    رسوم إضافية
+</string>
+    <string name="TotalCharges">    المبلغ الإجمالي
+</string>
+    <string name="TotalPaid">    إجمالي المدفوع
+</string>
+    <string name="Select">اختر</string>
+    <string name="BalanceToPay">    التوازن على الدفع
+</string>
+    <string name="ReservationCredit">    تحفظ الائتمان
+</string>
+    <string name="CardHolderName">    اسم حامل البطاقة
+</string>
+    <string name="CardNumber">    بطاقة رقم
+</string>
+    <string name="ReturnJourney">    رحلة العودة
+</string>
+    <string name="language">لغة</string>
+    <string name="register">الإنضمام</string>
+    <string name="earning">كسب النقاط</string>
+    <string name="redeeming">إستخدام النقاط</string>
+    <string name="faq">الأسئلة الشائعة</string>
+    <string name="join_now">التسجيل</string>
+    <string name="email_us">راسلنا</string>
+    <!-- <string name="info">مرحبا بكم فيمرحبا بكم في AIREWARDS، برنامج ولاء العربية للطيران. AIREWARDS برنامج سهل الاستخدام، ويعتمد على اكتساب واستخدام النقاط ببساطة لتحسين تجربة سفرك مع العربية للطيران.</string> -->
+
+    <string name="currency">عملة</string>
+    <string name="settings">إعدادات</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="my_profile">حسابي الشخصي</string>
+    <string name="guest">ضيف</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="continue_as_guest">المواصلة كضيف</string>
+    <string name="register_caps">سجل</string>
+    <string name="SelectDestination">اختر الوجهة</string>
+    <string name="SelectOrigin">حدد المنشأ</string>
+    <string name="done">تم</string>
+    <string name="select_country">اختر الدولة</string>
+    <string name="select_language">اختار اللغة</string>
+    <string name="logged_in_succesfully">تسجيل الدخول ناجح! أهلا بك</string>
+    <string name="success">نجاح</string>
+    <!-- newly added for paymentnnew.xml -->
+    <string name="CardNumbernew">1234</string>
+    <string name="expiration">انتهاء الصلاحية</string>
+    <string name="cvccode">رمز cvc</string>
+    <string name="Confirm_payment">تأكيد الدفع</string>
+    <!-- added for my profile -->
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="passPortNo">رقم جواز السفر</string>
+    <string name="airewardsId">Airewards رقم</string>
+    <string name="contactdetails">بيانات الاتصال</string>
+    <string name="contactdetails_myprofile">بيانات الاتصال</string>
+    <string name="preferences">اختيارات</string>
+    <string name="fav_destinstion">الوجهات المفضلة</string>
+    <string name="direct">مباشرة</string>
+    <string name="edit">تعديل</string>
+    <!-- Total Price -->
+    <string name="Select_Fare">اختر أجرة</string>
+    <!-- Flight Details -->
+    <string name="SaverFare">سعر توفيري</string>
+    <string name="SaverFare_details">تفاصيل السعر التوفيري</string>
+    <string name="SuperFare">سعر سوبر</string>
+    <string name="basicFare">أساسي</string>
+    <string name="ValueFare">توفيري</string>
+    <string name="ExtraFare">إكسترا</string>
+    <string name="SuperFare_details">تفاصيل السعر السوبر</string>
+    <string name="basicFare_details">تفاصيل السعر الأساسي</string>
+    <string name="ValueFare_details">تفاصيل السعر التوفيري</string>
+    <string name="ExtraFare_details">تفاصيل السعر الإكسترا</string>
+    <string name="add">إضافة</string>
+
+    <!-- Passenger Info -->
+    <string name="Collect_points">جمع النقاط</string>
+    <string name="Airewards_ID">Airewards ID</string>
+    <string name="ContactPerson">الشخص الذي يمكن الاتصال به</string>
+    <string name="Please_enter_details">يرجى إدخال تفاصيل الاتصال الخاصة بك</string>
+    <string name="Please_enter_all_details">الرجاء إدخال جميع الحقول</string>
+    <string name="Please_enter">تفضل</string>
+    <string name="Please_select_passenger_type">الرجاء اختيار نوع الركاب.</string>
+    <string name="Passanger_one_contact_person">سيتم التواصل مع المسافر 1</string>
+    <string name="PriceSummary">ملخص السعر</string>
+    <string name="seatselection">المقاعد</string>
+    <string name="mealselection">وجبات الطعام</string>
+    <string name="travelinsurance">تامين السفر</string>
+    <string name="airportservice">خدمات المطار</string>
+    <string name="Baggageselection">الأمتعة</string>
+    <string name="Select_Baggage">الأمتعة</string>
+    <string name="Select_Meal">اختر وجبة</string>
+    <string name="Select_seat">حدد مقعد</string>
+    <string name="Select_travel_insurance">تامين السفر</string>
+    <string name="Select_travel_insurance_header">إختر تأمين</string>
+    <string name="economy">اقتصاد</string>
+    <string name="business">عمل</string>
+    <string name="selectClass">حدد فئة</string>
+    <string name="class_name">الدرجة</string>
+    <string name="selectYourClass">اختر الفئة الخاصة بك</string>
+    <string name="FlexiDetails">تعديل وإلغاء بدون رسوم إلى غاية 4 ساعات قبل الاقلاع</string>
+    <string name="PromoDetails">أرخص سعر متوفر</string>
+    <string name="PromoDetails_title">تفاصيل السعر الترويجي</string>
+    <string name="seatnumber">رقم المقعد</string>
+    <string name="meal">قائمة الطعام</string>
+    <string name="seatdescription">ماذا ستختار ؟ مقعد النافذة أم الممر ؟ إحجز مقعدك مسبقاً.</string>
+    <string name="insurancedescription">احصل على تأمين شامل يتضمن التأمين على الحوادث الشخصية والطبية و الإخلاء...</string>
+    <string name="airportdescription">اختر من بين مجموعة من الخدمات المصممة لتحسين تجربتك في المطار.</string>
+    <string name="mealdescription">اختر وجبة مسبقاً من قائمة سكاي كافيه.</string>
+    <string name="save_profile">حفظ الملف</string>
+    <string name="passenger_details_saved">تفاصيل الركاب المحفوظة.</string>
+    <string name="saved_passengers">تفاصيل المحفوظة</string>
+    <string name="select_from_saved">اختر من القائمة المحفوظة</string>
+    <string name="airewardsId_cap">ID AIREWARDS (البريد الإلكتروني)</string>
+    <string name="passPortNoOptional">(رقم جواز السفر (اختياري</string>
+    <string name="countrycode">رمز</string>
+    <string name="noCurrency">لم يتم العثور على العملات</string>
+    <string name="noLanguageFound">لغة لم يتم العثور.</string>
+    <string name="registorinfo">حدد أحد الخيارات أدناه للمضي قدما في التسجيل في برنامج الولاء AIREWARDS</string>
+    <string name="PassError">الرجاء إدخال كلمة المرور.</string>
+    <string name="i_travel_mainly_from_to_via_UAE">أسافر بشكل رئيسي من / إلى / عبر الامارات</string>
+    <string name="i_travel_mainly_from_to_via_Morocco">أسافر بشكل رئيسي من / إلى / عبر المغرب</string>
+    <string name="i_travel_mainly_from_to_via_Egypt">أسافر بشكل رئيسي من / إلى / عبر مصر</string>
+    <string name="i_travel_mainly_from_to_via_Jordan">أسافر بشكل رئيسي من / إلى / عبر الاردن</string>
+    <string name="registerNow">سجل الان</string>
+    <string name="selectCountry">إختر البلد</string>
+    <string name="selectNationality">اختر الجنسية</string>
+    <string name="selectCity">إختر المدينة</string>
+    <string name="OfficeLocationinfo">إختر البلد ومدينة الاقامة لعرض رقم وموقع مراكز مبيعاتنا </string>
+    <string name="Colon"> : </string>
+    <string name="phonetext">الهاتف</string>
+    <string name="alert_msg_empty_city">يرجى تحديد أي مدينة.</string>
+    <string name="alert_msg_empty_country">يرجى تحديد أي بلد الأولى.</string>
+    <string name="select_u_origin">حدد مطار المغادرة</string>
+    <string name="select_u_destination">اختر الوجهة</string>
+    <string name="please_select_your_flight">الرجاء إختيار الرحلات:</string>
+    <string name="message_colon">:الرسالة</string>
+    <string name="message">الرسالة</string>
+    <string name="Send">إرسال</string>
+    <string name="closest_Airport">المطارات القريبة</string>
+    <string name="recent_Airport">المطارات السابقة</string>
+    <string name="all_Airport">جميع المطارات</string>
+    <string name="favourite_Airport">مفضل</string>
+    <string name="invaild_email">يرجى إدخال عنوان بريد إلكتروني صالح.</string>
+    <string name="invaild_airewards">الرجاء إدخال AIREWARDS البطاقة الشخصية سارية المفعول ( البريد الإلكتروني) .</string>
+    <string name="invaild_airewards_incomplete">الرجاء إدخال AIREWARDS البطاقة الشخصية سارية المفعول ( البريد الإلكتروني) .</string>
+    <string name="invaild_country_of_residence">الرجاء تحديد بلد الإقامة.</string>
+    <string name="PassengerDetails">تفاصيل المسافرين</string>
+    <string name="Returning">العودة</string>
+    <!-- Login -->
+    <string name="Email_Address">البريد الإلكتروني</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="callcenterinfo">.إختر البلد ومدينة الاقامة وإتصل بالرقم الموضح أدناه</string>
+    <string name="EnterYourReservationDetails1">إدخال تفاصيل الحجز الخاص بك لتحميل الحجز</string>
+    <string name="Alert_MSG_NoFlightAvailable1">لا توجد الرحلات المتوفرة على التاريخ المحدد الخاص بك.</string>
+    <string name="Alert_MSG_NoFlightAvailable2">يرجى تغيير التاريخ الخاص بك أو اختيار طريق آخر.</string>
+    <string name="Subject_colon">    :الموضوع
+</string>
+    <string name="Cc_Bcc_no_colon">Cc\/Bcc</string>
+    <string name="AlertMsgSelectBaggage">الرجاء اختيار أمتعتك</string>
+    <string name="please_Select_Fare">الرجاء إختيار السعر</string>
+    <string name="please_Select_Fare_error">الرجاء إختيار السعر</string>
+    <string name="calendar">التاريخ</string>
+    <string name="contact_details">بيانات الاتصال</string>
+    <string name="SelectBaggagesmall">إختر الأمتعة</string>
+    <string name="SelectSeatsmall">اختر مقعدك</string>
+    <string name="SelectMealsmall">اختر وجبتك</string>
+    <string name="choosecategory">اختر نوع الوجبة</string>
+    <string name="ChooseItem">اختر الوجبة</string>
+    <string name="save_and_continue">حفظ ومتابعة</string>
+    <string name="noCountry">لا البلد العثور على.</string>
+    <string name="noNationality">لم يتم العثور على الجنسية.</string>
+    <string name="Baggagetext">أمتعة</string>
+    <string name="mealText">وجبة</string>
+    <string name="fare_note">الأسعار المذكورة أعلاه لشخص واحد فقط</string>
+    <string name="login_error">خطأ الدخول يرجى المحاولة مرة أخرى .</string>
+    <string name="SelectAirportServices">اختر خدمات المطار</string>
+    <string name="noCity">لا مدينة العثور.</string>
+    <string name="currency_exchange_not_avail">يرجى تحديد عملة أخرى أو جعل البحث في </string>
+    <string name="please_select_another_currency"> نتائج المسار المحدد لا يمكن عرضها في </string>
+    <string name="Please_select_destination">يرجى تحديد أي جهة مفضلة.</string>
+    <string name="NoDestination">لا الوجهة العثور.</string>
+    <string name="DOB_Optional">تاريخ الميلاد (اختياري)</string>
+    <string name="all_nationality">كل الجنسية</string>
+    <string name="all_country">كل البلد</string>
+    <string name="profile_saved">تم حفظ الملف الشخصي بنجاح.</string>
+    <string name="sure_to_logout">هل أنت متأكد من الخروج؟</string>
+    <string name="please_enable_your_location">يرجى تمكين موقعك .
+</string>
+    <string name="enable_location">السماح</string>
+    <string name="skip">المتابعة</string>
+    <string name="SelectTravekInsurance">حدد التأمين على السفر الخاصة بك</string>
+    <string name="SeatSelectionError">لا يمكن حجز هذا المقعد لمسافر معه رضيع.</string>
+    <string name="add_new">إضافة جديدة</string>
+    <string name="Logoutq">تسجيل الخروج؟</string>
+    <string name="surelogout">هل أنت متأكد من الخروج؟</string>
+    <string name="saveProfile">هل تريد حفظ الملف الشخصي.</string>
+    <string name="SuperFar">سعر سوبر</string>
+    <string name="SaverFar">سعر توفيري</string>
+    <string name="SmartFare">سعر ذكي</string>
+    <string name="SmartFare_details">تفاصيل السعر الذكي</string>
+    <string name="BundleFare">أجرة الباقة:</string>
+    <string name="superFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 40 KG حرة فحص الأمتعة ، 1 الساخن وجبة + 1 المياه، و الصف الأمامي أو المقعد الخروج و تسجيل الوصول السريع أو خروج سريع</string>
+    <string name="saverFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 20 KG حرة فحص الأمتعة ، 1 ساندوتش و المقعد المخصص مجانا من الصف 5 فصاعدا</string>
+    <string name="smartFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، صف أو خروج المقعد الأمامي و الاختيار في سريعة أو خروج سريع</string>
+    <string name="xFaredesc">لدينا أرخص أجرة متوفرة أو تعديل أو إلغاء ممكنة تصل إلى 24 قبل المغادرة و تخضع ل رسوم .</string>
+    <string name="please_enable_your_location_for_closest_airport">يرجى السماح للتطبيق بمعرفة موقعك.</string>
+    <string name="do_you_want_to_save_profile">إحفظ الحساب الشخصي?</string>
+    <string name="noData">لاتوجد بيانات.</string>
+    <string name="CardNumberCapital">رقم البطاقة</string>
+    <string name="cvvcodecapital">رمز التحقق</string>
+    <string name="CardHolderNamecapital">اسم حامل البطاقة</string>
+    <string name="CardExpiryDatecapital">تاريخ الصلاحية</string>
+    <string name="CardNumErrNew">يجب أن يكون رقم البطاقة من 16 رقما.</string>
+    <string name="CardSecurityErrNew">يجب أن يكون الرمز الامني (CVV) من 3 أو 4 أرقام.</string>
+    <string name="please_select_country">الرجاء اختيار بلدك</string>
+    <string name="please_select_your_country">الرجاء اختيار بلدك</string>
+    <string name="please_select_your_nationality">الرجاء اختيار الجنسية</string>
+    <string name="please_select_your_currancy">الرجاء تحديد عملتك</string>
+    <string name="btn_save">حفظ</string>
+    <string name="guest_user">زائر</string>
+    <string name="settings_pop_msg">تم حفظ الإعدادات بنجاح.</string>
+    <string name="detail">التفاصيل</string>
+    <string name="BookFlighta">حجز رحلات</string>
+    <string name="from">من</string>
+    <string name="Back_book_flight">رجوع</string>
+    <string name="year">عام</string>
+    <string name="add_from_contact">إختر من قائمة جهات اتصال الهاتف</string>
+    <string name="english">الإنجليزية</string>
+    <string name="french">اللغة الفرنسية</string>
+    <string name="arabic">العربية</string>
+    <string name="russion">الروسية</string>
+    <string name="Infantc">رضيع</string>
+    <string name="Childc">طفل</string>
+    <string name="Passengers_flight_summary">المسافرون</string>
+    <string name="cur_head">عملة</string>
+    <string name="no_flights">هاب من القائمة أعلاه </string>
+    <string name="to"> ريخ </string>
+    <string name="on"> رجو تغيي </string>
+    <string name="please_change_your_depart">المرجو تغيير تاريخ الذهاب من القائمة أعلاه.</string>
+    <string name="please_change_your_return"> المرجو تغيير تاريخ العودة من القائمة أعلاه</string>
+    <string name="change_flights">للا توجد رحلات جوية في التواريخ المختارة. المرجو تغيير تاريخ السفر أو إختيار وجهة أخرى</string>
+    <string name="g_PromoDetails">أرخص سعر متوفر</string>
+    <string name="o_PromoDetails">أرخص سعر متوفر</string>
+    <string name="e_PromoDetails">أرخص سعر متوفر</string>
+    <string name="P_PromoDetails">أرخص سعر متوفر</string>
+    <string name="g_FlexiDetails">تغيير أو الغاء الحجز بدون دفع رسومإلى غاية 4 ساعات قبل موعد الاقلاع</string>
+    <string name="o_FlexiDetails">تغيير الحجز بدون دفع رسوم إلى غاية 8 ساعات قبل موعد الاقلاع</string>
+    <string name="e_FlexiDetails">تعديل وإلغاء بدون رسوم إلى غاية 4 ساعات قبل الاقلاع</string>
+    <string name="p_FlexiDetails">تعديل وإلغاء بدون رسوم إلى غاية 4 ساعات قبل الاقلاع</string>
+    <string name="g_saverFareDes">تغيير أو الغاء الحجز بدون دفع رسوم إلى غاية 4 ساعات قبل موعد الاقلاع، 20 كجم وزن للأمتعة، 
+
+ساندويتش، مقعد ابتداءا من الصف الخامس</string>
+    <string name="o_saverFareDes">تغيير الحجز بدون دفع رسوم إلى غاية 8 ساعات قبل موعد الاقلاع، 20 كجم وزن للأمتعة، ساندويتش، مقعد 
+
+ابتداءا من الصف الخامس</string>
+    <string name="e_saverFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 20 KG حرة فحص الأمتعة ، 1 ساندوتش و المقعد 
+
+المخصص مجانا من الصف 5 فصاعدا</string>
+    <string name="P_saverFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 20 KG حرة فحص الأمتعة ، 1 ساندوتش و المقعد 
+
+المخصص مجانا من الصف 5 فصاعدا</string>
+    <string name="g_superFareDes">تغيير أو الغاء الحجز بدون دفع رسوم إلى غاية 4 ساعات قبل موعد الاقلاع، 40 كجم وزن للأمتعة، وجبة ساخنة  + 
+
+قنينة مياه، مقعد في الصف الامامي أو بجانب بوابات الاغاثة</string>
+    <string name="o_superFareDes">تغيير الحجز بدون دفع رسوم إلى غاية 8 ساعات قبل موعد الاقلاع، 30 كجم وزن للأمتعة، وجبة ساخنة، مقعد في 
+
+الصف الامامي أو بجانب بوابات الاغاثة</string>
+    <string name="e_superFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 40 KG حرة فحص الأمتعة ، 1 الساخن وجبة + 1 
+
+المياه، و الصف الأمامي أو المقعد الخروج و تسجيل الوصول السريع أو خروج سريع</string>
+    <string name="P_superFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، 40 KG حرة فحص الأمتعة ، 1 الساخن وجبة + 1 
+
+المياه، و الصف الأمامي أو المقعد الخروج و تسجيل الوصول السريع أو خروج سريع</string>
+    <string name="g_smartFareDes">وزن الأمتعة 20 كجم، سندوتش مع قنينة مياه</string>
+    <string name="o_smartFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، صف أو خروج المقعد الأمامي و الاختيار في سريعة أو 
+
+خروج سريع</string>
+    <string name="e_smartFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، صف أو خروج المقعد الأمامي و الاختيار في سريعة أو 
+
+خروج سريع</string>
+    <string name="P_smartFareDes">1 تعديل وإلغاء دون عقوبة تصل إلى 4 ساعات قبل المغادرة، صف أو خروج المقعد الأمامي و الاختيار في سريعة أو 
+
+خروج سريع</string>
+    <string name="basicDec">أرخص سعر متوفر</string>
+    <string name="g_ValueDes"> وزن أمتعة 20 إلى 40 كجم (حسب الوجهة)، سندويش  مع قنينة مياه</string>
+    <string name="g_ExtraDes">تغيير أو الغاء الحجز بدون دفع رسوم إلى غاية 4 ساعات قبل موعد الاقلاع، 40 كجم وزن للأمتعة، سندويش أو وجبة ساخنة، مقعد محجوز</string>
+    <string name="o_ValueDes">وزن أمتعة 15 كجم، سندويش</string>
+    <string name="o_ExtraDes">تغيير الحجز بدون دفع رسوم إلى غاية 8 ساعات قبل موعد الاقلاع، 30 كجم وزن للأمتعة، وجبة ساخنة، مقعد محجوز</string>
+    <string name="e_ValueDes">وزن أمتعة 40 كجم، سندويش</string>
+    <string name="e_ExtraDes">تغيير أو الغاء الحجز بدون دفع رسوم إلى غاية 8 ساعات قبل موعد الاقلاع، 40 كجم وزن للأمتعة، وجبة ساخنة، مقعد محجوز</string>
+    <string name="p_ValueDes">وزن أمتعة 20 كجم ، سندويش</string>
+    <string name="p_ExtraDes">تغيير أو الغاء الحجز بدون دفع رسوم إلى غاية 4 ساعات قبل موعد الاقلاع، 30 كجم وزن للأمتعة، وجبة ساخنة، مقعد محجوز</string>
+    <string name="payment_currency_mad">نحن نقبل بطاقات الائتمان المغربية. إذا كنت ترغب في الدفع بواسطة بطاقة ائتمان دولية ، يرجى إعادة الحجز و اختيار عملة اليورو</string>
+    <string name="payment_currency_EUR">نحن نقبل بطاقات الائتمان الدولية ,إذا كنت ترغب في الدفع بواسطة بطاقة ائتمان مغربية ، يرجى إعادة الحجز و اختيار عملة اليورو</string>
+    <string name="payment_currency_other">نحن نقبل بطاقات الائتمان الدولية</string>
+    <string name="payment_accept">سيتم خصم المبلغ ب %s</string>
+    <string name="under_dev">هده الصفحة قيد الانشاء. لادارة الحجز الرجاء استخدام موقعنا على الانترنت عبر الحاسوب</string>
+
+</resources>

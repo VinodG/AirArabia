@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llSelectFlightMain"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/round_white_bg_minor"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_small"
+    android:paddingLeft="@dimen/margin_small"
+    android:paddingRight="@dimen/margin_small"
+    android:paddingTop="@dimen/margin_small" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text=":"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:id="@+id/tvTitledetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_small"
+            android:gravity="right"
+            android:text="@string/Details"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/text_size_normal"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_small"
+            android:gravity="right"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/text_size_normal" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal" />
+
+</LinearLayout>

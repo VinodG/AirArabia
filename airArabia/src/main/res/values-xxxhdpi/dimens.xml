@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Margin Sizes -->
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_very_small">3dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_ex_large">25dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="margin_xxx_large">60dp</dimen>
+    <!-- Text Sizes -->
+    <dimen name="text_size_extra_large">22sp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_very_small">10sp</dimen>
+    <dimen name="text_size_btn">14sp</dimen>
+    <dimen name="text_size_very_large">19sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+
+    <!-- Other Sizes -->
+    <dimen name="home_lang_mar_top">80px</dimen>
+    <dimen name="home_lang_mar_bottom">60px</dimen>
+    <dimen name="office_loc_textwidth">80sp</dimen>
+    <dimen name="call_center_textWidth">130dp</dimen>
+    <dimen name="pager_hieght">113dp</dimen>
+    <dimen name="spinner_baggage_height">30dp</dimen>
+    <dimen name="margin_login_top">50dp</dimen>
+
+    <!-- BaseActivity -->
+    <dimen name="headersize">20sp</dimen>
+    <dimen name="backsize">14sp</dimen>
+    <dimen name="searchflightsize">21sp</dimen>
+
+    <!-- BookFlight Activity -->
+
+    <dimen name="tiles_text">16sp</dimen>
+    <dimen name="top_fillform_text">10dp</dimen>
+    <dimen name="top_fillform_text_pad">2dp</dimen>
+    <dimen name="onewaysize">16sp</dimen>
+    <dimen name="arraivalsize">19sp</dimen>
+    <dimen name="passcountsize">28sp</dimen>
+    <dimen name="llretutn_top">11dp</dimen>
+    <dimen name="tvreturnedit_bot">8dp</dimen>
+
+    <!-- View Pager Margin -->
+    <dimen name="pager_margin_top">15sp</dimen>
+    <dimen name="field_hgt">30dp</dimen>
+    <dimen name="field_txt_sz">17sp</dimen>
+    <dimen name="meals_width1">120dp</dimen>
+
+</resources>

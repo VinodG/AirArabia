@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+  <MoreCountry value="373" name="Afghanistan">
+    <city callcenter="0093796600002/93796800002" name="Kabul"/>
+  </MoreCountry>
+  <MoreCountry value="374" name="Armenia">
+    <city callcenter="0037410525499" name="Yerevan"/>
+  </MoreCountry>
+  <MoreCountry value="375" name="Bangladesh">
+    <city callcenter="008801713482193" name="Chittagong" />
+    <city callcenter="00881730037750" name="Dhaka" />
+  </MoreCountry>
+  <MoreCountry value="376" name="Belgium">
+    <city callcenter="090233920" name="Brussels" />
+  </MoreCountry>
+  <MoreCountry value="377" name="Egypt">
+    <city callcenter="002034543001-Hotline16278" name="Alexandria" />
+    <city callcenter="Hotline16278" name="Assiut" />
+    <city callcenter="002034543001-Hotline16278" name="Cairo" />
+    <city callcenter="Hotline16278" name="Luxor" />
+    <city callcenter="002034543001-Hotline16278" name="Sohag" />
+  </MoreCountry>
+  <MoreCountry value="404" name="France">
+    <city callcenter="0899190023" name="France" />
+    <city callcenter="0899190023" name="Lyon" />
+    <city callcenter="0899190023" name="Montpellier" />
+    <city callcenter="0899190023" name="France" />
+  </MoreCountry>
+  <MoreCountry value="1670" name="Georgia">
+    <city callcenter="00995322400040" name="Tiblisi" />
+  </MoreCountry>
+  <MoreCountry value="378" name="Germany">
+    <city callcenter="0900100099" name="Frankfurt" />
+  </MoreCountry>
+  <MoreCountry value="188" name="India">
+    <city callcenter="01243366444" name="Ahmedabad" />
+    <city callcenter="01243366444" name="Bangalore" />
+    <city callcenter="01243366444" name="Calicut" />
+    <city callcenter="01243366444" name="Chennai" />
+    <city callcenter="01243366444" name="Coimbatore" />
+    <city callcenter="01243366444" name="Goa" />
+    <city callcenter="01243366444" name="Hyderabad" />
+    <city callcenter="01243366444" name="Jaipur" />
+    <city callcenter="01243366444" name="Kochi" />
+    <city callcenter="01243366444" name="Mumbai" />
+    <city callcenter="01243366444" name="Nagpur" />
+    <city callcenter="01243366444" name="New Delhi" />
+    <city callcenter="01243366444" name="Thiruvananthapuram"/>
+  </MoreCountry>
+  <MoreCountry value="380" name="Iran">
+    <city callcenter="00986153345808" name="Abadan" />
+    <city callcenter="00987813334848" name="Lar" />
+    <city callcenter="00985133400437" name="Mashhad" />
+    <city callcenter="00987116271463" name="Shiraz" />
+    <city callcenter="00982188871096" name="Tehran" />
+  </MoreCountry>
+  <MoreCountry value="381" name="Iraq">
+    <city callcenter="009647725461180" name="Baghdad" />
+    <city callcenter="009647725461179" name="Basra" />
+    <city callcenter="009647509652527/009647509652725" name="Erbil" />
+    <city callcenter="009647819288884/009647819288885" name="Najaf" />
+  </MoreCountry>
+  <MoreCountry value="382" name="Italy">
+    <city callcenter="8958953311 (0.24 Eur par appel, 0.96 Eur par minut)" name="Bologna" />
+    <city callcenter="8958953311(0.24 Eur par appel, 0.96 Eur par minute)" name="Milan" />
+    <city callcenter="8958953311(0.24 Eur par appel, 0.96 Eur par minute)" name="Venice" />
+  </MoreCountry>
+  <MoreCountry value="383" name="Jordan">
+    <city callcenter="00962797500003" name="Amman" />
+  </MoreCountry>
+  <MoreCountry value="384" name="Kazakhstan">
+    <city callcenter="0077272726681/77273173111" name="Almaty" />
+    <city callcenter="0077172466080/90" name="Astana" />
+  </MoreCountry>
+  <MoreCountry value="385" name="Kenya">
+    <city callcenter="00254204452855/537/00254704860711" name="Nairobi" />
+  </MoreCountry>
+  <MoreCountry value="510" name="Kingdom of Bahrain">
+    <city callcenter="0097313310444" name="Bahrain" />
+  </MoreCountry>
+  <MoreCountry value="387" name="Kuwait">
+    <city callcenter="22254071" name="Kuwait City" />
+  </MoreCountry>
+  <MoreCountry value="388" name="Lebanon">
+    <city callcenter="009611756666" name="Beirut"/>
+  </MoreCountry>
+  <MoreCountry value="389" name="Morocco">
+    <city callcenter="0802000803" name="Casablanca" />
+  </MoreCountry>
+  <MoreCountry value="390" name="Nepal">
+    <city callcenter="0097714444246" name="Kathmandu"/>
+  </MoreCountry>
+  <MoreCountry value="391" name="Netherlands">
+    <city callcenter="09007797790 (In Nederland: € 0,80 per minuut; voor bellen vanaf een mobiel nummer kan een hoger t" name="Netherlands"/>
+  </MoreCountry>
+  <MoreCountry value="393" name="Pakistan">
+    <city callcenter="0092512805345" name="Islamabad"/>
+    <city callcenter="009221111272242/0092213569381617/18/19/21" name="Karachi"/>
+    <city callcenter="00924235774167/68" name="Lahore"/>
+    <city callcenter="009291111272242/0092915250090/91/92" name="Peshawar"/>
+    <city callcenter="0092524603171/72/73/74/75" name="Sialkot"/>
+  </MoreCountry>  
+  <MoreCountry value="394" name="Qatar">
+    <city callcenter="+974 44 07 3434" name="Doh" />
+  </MoreCountry>
+  <MoreCountry value="395" name="Russia">
+    <city callcenter="0074959375925" name="Moscow" />
+  </MoreCountry>
+  <MoreCountry value="396" name="Saudi Arabia">
+    <city callcenter="920011969" name="Dammam" />
+    <city callcenter="920011969" name="Gassim" />
+    <city callcenter="920011969" name="Jeddah" />
+    <city callcenter="920011969" name="Medinah" />
+    <city callcenter="920011969" name="Riyadh" />
+  </MoreCountry>
+  <MoreCountry value="397" name="Spain">
+    <city callcenter="807299517 Coste máx. con IVA incluido: 0,87 EUR/nin. (desdofijo) 1,54 EUR/min (desde movil))" name="Madrid" />
+  </MoreCountry>
+  <MoreCountry value="398" name="Sri Lanka">
+    <city callcenter="0094115777999" name="Colombo" />
+  </MoreCountry>
+  <MoreCountry value="399" name="Sudan">
+    <city callcenter="00249183770977" name="Khartoum" />
+  </MoreCountry>
+  <MoreCountry value="392" name="Sultanate of Oman">
+    <city callcenter="0096824700828" name="Muscat"/>
+    <city callcenter="0096823297796/98" name="Salalah"/>
+  </MoreCountry>
+  <MoreCountry value="400" name="Switzerland">
+    <city callcenter="0900000435 Les appels sont facturés 1.20CHF la minute. Les appels depuis un téléphone portable pe" name="Basel-Mulhouse" />
+  </MoreCountry>
+  <MoreCountry value="401" name="Turkey">
+    <city callcenter="00902122415184" name="Istanbul" />
+  </MoreCountry>
+  <MoreCountry value="402" name="Ukraine">
+    <city callcenter="00380623040766" name="Donetsk" />
+    <city callcenter="00380577328791" name="Kharkiv" />
+    <city callcenter="00380444906500" name="Kiev" />
+    <city callcenter="00380487772550" name="Odessa" />
+  </MoreCountry>
+  <MoreCountry value="300" name="United Arab Emirates">
+    <city callcenter="0097126315888" name="Abu Dhabi" />
+    <city callcenter="0097165580000" name="Sharjah" />
+  </MoreCountry>
+  <MoreCountry value="185" name="United Kingdom">
+    <city callcenter="09069590004" name="London" />
+  </MoreCountry>
+</countries>

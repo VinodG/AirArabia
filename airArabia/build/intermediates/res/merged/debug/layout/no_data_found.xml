@@ -1,0 +1,12 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvNoDataAvailable"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:padding="10dp"
+    android:text="@string/noData"
+    android:textColor="@color/text_color"
+    android:textSize="@dimen/text_size_small"
+    android:visibility="visible" />

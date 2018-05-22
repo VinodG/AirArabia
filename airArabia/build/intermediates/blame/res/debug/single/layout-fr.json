@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\homepage.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\homepage.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\passengerinformation.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\passengerinformation.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\activity_managebooking_webview.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\activity_managebooking_webview.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\select_flight_list_item_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\select_flight_list_item_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\calender_month_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\calender_month_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-fr\\activity_pre_login.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-fr\\activity_pre_login.xml"
+    }
+]

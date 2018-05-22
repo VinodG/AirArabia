@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/InsFinalSelection"
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/text_color" />
+
+    <Button
+        android:id="@+id/btnInsurancePopupYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:text="@string/InsurancePurchaseYes"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_size_small"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="5dp" />
+
+    <Button
+        android:id="@+id/btnInsurancePopupNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_bg"
+        android:text="@string/InsPopupNo"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_size_small"
+        android:padding="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+</LinearLayout>

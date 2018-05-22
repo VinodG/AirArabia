@@ -1,0 +1,150 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_normal" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1" >
+            <TextView
+                android:id="@+id/tvEmailToTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@null"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:text="@string/To_colon"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/text_size_large" />
+
+            <TextView
+                android:id="@+id/tvEmailTo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@null"
+                 android:paddingBottom="@dimen/margin_normal"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:text="customerrelations@airarabia.com"
+                android:textColor="@color/text_color_gray" />
+            <!-- android:hint="thatsmerahul1@gmail.com" -->
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_normal"
+                android:layout_marginRight="@dimen/margin_normal"
+                android:background="@drawable/seperator_full" />
+
+            <TextView
+                android:id="@+id/tvCc_bccTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:text="Cc/Bcc:"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/text_size_normal"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/etCc_bcc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@null"
+                android:hint="Cc/Bcc"
+                android:inputType="textEmailAddress"
+                android:paddingBottom="10dp"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:textColor="@color/text_color"
+                android:singleLine="true"
+                android:textSize="@dimen/text_size_normal" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/seperator_full" />
+            
+                <TextView
+                android:id="@+id/tvSubjectFeedbackTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/Subject_colon"
+                android:textColor="@color/text_color_red"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/etSubjectFeedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:hint="@string/Subject"
+                android:paddingBottom="@dimen/margin_normal"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:textColor="@color/text_color"
+               android:inputType="text"
+                android:singleLine="true"
+                 android:textSize="@dimen/text_size_normal" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_normal"
+                android:layout_marginRight="@dimen/margin_normal"
+                android:background="@drawable/seperator_full" />
+            
+            <TextView
+                android:id="@+id/tvMessageTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@null"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:text="@string/message_colon"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/text_size_normal"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/etMessage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@null"
+                android:gravity="top"
+                android:hint="@string/message"
+                android:paddingBottom="@dimen/margin_normal"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingRight="@dimen/margin_normal"
+                android:textSize="@dimen/text_size_normal" />
+
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

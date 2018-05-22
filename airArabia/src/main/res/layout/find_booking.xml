@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/margin_large"
+    android:layout_marginLeft="@dimen/margin_10"
+    android:layout_marginRight="@dimen/margin_10"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:id="@+id/llViewReservation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_10"
+    	android:layout_marginRight="@dimen/margin_10"
+        android:background="@drawable/topbg"
+        android:layout_marginTop="@dimen/margin_large"
+        android:gravity="center">        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ViewReservation"
+            android:textSize="@dimen/text_size_16"
+            android:textColor="@color/white"/>        	
+    </LinearLayout>
+    
+
+    <LinearLayout 
+        android:id="@+id/llModify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/topbg"
+        android:layout_marginLeft="@dimen/margin_10"
+    	android:layout_marginRight="@dimen/margin_10"
+        android:layout_marginTop="@dimen/margin_large"
+        android:gravity="center">        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ModifyReservation"
+            android:textSize="@dimen/text_size_16"
+            android:textColor="@color/white"/>        	
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/llCancelFlight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/topbg"
+        android:layout_marginLeft="@dimen/margin_10"
+    	android:layout_marginRight="@dimen/margin_10"
+        android:layout_marginTop="@dimen/margin_large"
+        android:gravity="center">        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/CancelReservation"
+            android:textSize="@dimen/text_size_16"
+            android:textColor="@color/white"/>        	
+    </LinearLayout>
+    
+
+</LinearLayout>

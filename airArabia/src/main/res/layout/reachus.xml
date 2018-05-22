@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_book_flight"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_large"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_large"
+        android:background="@drawable/reachus"
+        android:paddingBottom="60dp"
+        android:paddingTop="60dp" />
+
+    <Button
+        android:id="@+id/btn_callcenters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginBottom="@dimen/margin_very_small"
+        android:background="@drawable/background_with_shadow"
+        android:drawableRight="@drawable/arrow"
+        android:gravity="start|center"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/CallCenters"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal" />
+
+    <Button
+        android:id="@+id/btn_officelocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginBottom="@dimen/margin_very_small"
+        android:background="@drawable/background_with_shadow"
+        android:drawableRight="@drawable/arrow"
+        android:gravity="start|center"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/OfficeLocation"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal" />
+
+    <Button
+        android:id="@+id/btnEmailUs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:background="@drawable/background_with_shadow"
+        android:drawableRight="@drawable/arrow"
+        android:gravity="start|center"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/email_us"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal" />
+
+</LinearLayout>

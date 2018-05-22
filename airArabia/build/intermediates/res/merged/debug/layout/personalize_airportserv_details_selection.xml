@@ -1,0 +1,555 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/img_redbg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_color_red"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/lltop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/topbg"
+            android:orientation="vertical"
+            android:padding="@dimen/margin_small"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/margin_normal" >
+
+                <TextView
+                    android:id="@+id/tvCancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:text="@string/Back"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/textsize_17"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/tvSelectHeader"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="@dimen/margin_normal"
+                    android:text="@string/airportservice"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_header_all_screen"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/tvDone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:text="@string/Ok"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/textsize_17"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_selecTiltle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/margin_normal"
+                android:paddingTop="@dimen/margin_normal"
+                android:text="@string/SelectAirportServices"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_18" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_7"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/background_with_shadow"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+
+                    <LinearLayout
+                        android:id="@+id/llPersonalTripItemDataSource"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <ImageView
+                            android:id="@+id/flightLogo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:src="@drawable/flight_oneway" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripDetailsItemSource"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="@dimen/margin_normal"
+                            android:text=""
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="@dimen/margin_normal"
+                            android:background="@drawable/flight_connecting" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripDetailsItemDest"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text=""
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_heading"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemNameTitle"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="@dimen/margin_small"
+                            android:text="@string/Name"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemAmounttile"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/margin_small"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:text="@string/Services"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/tvPersonalTripItemAEDValueTitle"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="AED"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_16"
+                                android:visibility="visible" />
+
+                            <!-- <LinearLayout -->
+                            <!-- android:id="@+id/llPersonalTripItemCrossTitle" -->
+                            <!-- android:layout_width="wrap_content" -->
+                            <!-- android:layout_height="wrap_content" -->
+                            <!-- android:layout_marginLeft="2dp" -->
+                            <!-- android:layout_marginRight="3dp" -->
+                            <!-- android:layout_weight="0" -->
+                            <!-- android:background="@drawable/img_redcircle" -->
+                            <!-- android:gravity="center" -->
+                            <!-- android:visibility="gone" > -->
+
+
+                            <!-- <ImageView -->
+                            <!-- android:layout_width="wrap_content" -->
+                            <!-- android:layout_height="wrap_content" -->
+                            <!-- android:background="@drawable/alert_dialog_cancel" /> -->
+                            <!-- </LinearLayout> -->
+
+                            <LinearLayout
+                                android:id="@+id/llPersonalTripItemCrossTitle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:layout_marginTop="2dp"
+                                android:gravity="center"
+                                android:visibility="invisible" >
+
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/img_cancel_meal_new" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_small"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/margin_small"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:text="@string/Name"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemAmount"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="@string/Select"
+                            android:textColor="@color/text_color_red"
+                            android:textSize="@dimen/textsize_16"
+                            android:visibility="visible" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/tvPersonalTripItemAEDValue"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginRight="@dimen/margin_very_small"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical|right"
+                                android:paddingRight="12dp"
+                                android:text="-"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_16"
+                                android:visibility="visible" />
+
+                            <!-- <LinearLayout -->
+                            <!-- android:id="@+id/llPersonalTripItemCross" -->
+                            <!-- android:layout_width="20dp" -->
+                            <!-- android:layout_height="20dp" -->
+                            <!-- android:layout_marginLeft="@dimen/margin_small" -->
+                            <!-- android:layout_marginRight="@dimen/margin_small" -->
+                            <!-- android:layout_weight="0" -->
+                            <!-- android:gravity="center" -->
+                            <!-- android:padding="3dp" -->
+                            <!-- android:visibility="gone" > -->
+
+
+                            <!-- <ImageView -->
+                            <!-- android:layout_width="match_parent" -->
+                            <!-- android:layout_height="match_parent" -->
+                            <!-- android:background="@drawable/img_cancel_meal_new" /> -->
+                            <!-- </LinearLayout> -->
+
+                            <LinearLayout
+                                android:id="@+id/llPersonalTripItemCross"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:layout_marginTop="2dp"
+                                android:gravity="center"
+                                android:paddingRight="2dp"
+                                android:visibility="visible" >
+
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/img_cancel_meal_new" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llReturnWay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/background_with_shadow"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+
+                    <LinearLayout
+                        android:id="@+id/llPersonalTripItemDataSource1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <ImageView
+                            android:id="@+id/flightLogo1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:src="@drawable/flight_return" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripDetailsItemSource1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="@dimen/margin_normal"
+                            android:text=""
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="@dimen/margin_normal"
+                            android:background="@drawable/flight_connecting" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripDetailsItemDest1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text=""
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_heading1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemNameTitle1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="@dimen/margin_small"
+                            android:text="@string/Name"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemAmounttile1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/margin_small"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:text="@string/Service"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/tvPersonalTripItemAEDValueTitle1"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:text="AED"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_16"
+                                android:visibility="visible" />
+
+                            <!-- <LinearLayout -->
+                            <!-- android:id="@+id/llPersonalTripItemCrossTitle" -->
+                            <!-- android:layout_width="wrap_content" -->
+                            <!-- android:layout_height="wrap_content" -->
+                            <!-- android:layout_marginLeft="2dp" -->
+                            <!-- android:layout_marginRight="3dp" -->
+                            <!-- android:layout_weight="0" -->
+                            <!-- android:background="@drawable/img_redcircle" -->
+                            <!-- android:gravity="center" -->
+                            <!-- android:visibility="gone" > -->
+
+
+                            <!-- <ImageView -->
+                            <!-- android:layout_width="wrap_content" -->
+                            <!-- android:layout_height="wrap_content" -->
+                            <!-- android:background="@drawable/alert_dialog_cancel" /> -->
+                            <!-- </LinearLayout> -->
+
+                            <LinearLayout
+                                android:id="@+id/llPersonalTripItemCrossTitle1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:layout_marginTop="2dp"
+                                android:gravity="center"
+                                android:visibility="invisible" >
+
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/img_cancel_meal_new" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_small"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemName1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/margin_small"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:text="@string/Name"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_16" />
+
+                        <TextView
+                            android:id="@+id/tvPersonalTripItemAmount1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="@string/Select"
+                            android:textColor="@color/text_color_red"
+                            android:textSize="@dimen/textsize_16"
+                            android:visibility="visible" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/tvPersonalTripItemAEDValue1"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginRight="@dimen/margin_very_small"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical|right"
+                                android:paddingRight="12dp"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_16"
+                                android:visibility="visible" />
+
+                            <!-- <LinearLayout -->
+                            <!-- android:id="@+id/llPersonalTripItemCross" -->
+                            <!-- android:layout_width="20dp" -->
+                            <!-- android:layout_height="20dp" -->
+                            <!-- android:layout_marginLeft="@dimen/margin_small" -->
+                            <!-- android:layout_marginRight="@dimen/margin_small" -->
+                            <!-- android:layout_weight="0" -->
+                            <!-- android:gravity="center" -->
+                            <!-- android:padding="3dp" -->
+                            <!-- android:visibility="gone" > -->
+
+
+                            <!-- <ImageView -->
+                            <!-- android:layout_width="match_parent" -->
+                            <!-- android:layout_height="match_parent" -->
+                            <!-- android:background="@drawable/img_cancel_meal_new" /> -->
+                            <!-- </LinearLayout> -->
+
+                            <LinearLayout
+                                android:id="@+id/llPersonalTripItemCross1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:layout_marginTop="2dp"
+                                android:gravity="center"
+                                android:paddingRight="2dp"
+                                android:visibility="visible" >
+
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/img_cancel_meal_new" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llBaggageMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_small"
+                android:visibility="gone" >
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

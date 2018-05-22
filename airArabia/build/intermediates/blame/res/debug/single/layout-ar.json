@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalize_meal_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalize_meal_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\login_screen.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\callcenters.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\callcenters.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalizeyourtrip.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalizeyourtrip.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_add_new_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_add_new_passenger.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_currency_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_currency_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\selectflight_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\selectflight_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\find_booking.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\find_booking.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\feedback_user.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\feedback_user.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalize_seat_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalize_seat_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\drawer_menu_list_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\drawer_menu_list_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalizeyourtrip_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalizeyourtrip_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\passengerinformation.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\passengerinformation.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalize_trip_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalize_trip_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_airewards.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_airewards.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_airport_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_airport_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\calenderdob.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\calenderdob.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\payment_summary.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\payment_summary.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\totalprice_flight_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\totalprice_flight_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\custom_popup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\custom_popup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\flightschedule_check.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\flightschedule_check.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\popup_title_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\popup_title_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\passengerinformation_contact.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\passengerinformation_contact.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_meal_item_sub_meal.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_meal_item_sub_meal.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\layoutcitycallcenterscell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\layoutcitycallcenterscell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_trip_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_trip_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\pay_sum_flight_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\pay_sum_flight_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\adult_info_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\adult_info_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_favourite_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_favourite_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_flight_list_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_flight_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\airportlistspinner_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\airportlistspinner_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_signup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\settings.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\settings.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\fare_list_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\fare_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\summary_person_info_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\summary_person_info_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_managebooking_webview.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_managebooking_webview.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\seat_gate_error.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\seat_gate_error.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\flightschedule.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\flightschedule.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\popup_titles.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\popup_titles.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_meal_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_meal_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\airportlistspinner.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\airportlistspinner.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\insurance_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\insurance_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\fare_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\fare_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\email_us.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\email_us.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\reachus.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\reachus.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_trip_details_item_sub.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_trip_details_item_sub.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalise_trip_details_item_sub_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalise_trip_details_item_sub_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_flight_list_item_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_flight_list_item_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\airportlistspinner_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\airportlistspinner_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\more.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\more.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\saved_passanger_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\saved_passanger_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\flight_schedule_names_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\flight_schedule_names_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\totalprice.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\totalprice.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalize_airportserv_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalize_airportserv_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\payment.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\payment.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\visaassistance.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\visaassistance.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\currency_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\currency_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\managebooking.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\managebooking.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\layoutcitylocationcell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\layoutcitylocationcell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_currency.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_currency.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\homepage.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\homepage.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\summary_person_info_item_sub.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\summary_person_info_item_sub.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_airport.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_airport.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\personalize_travelinsurance_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\personalize_travelinsurance_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\select_flight_list_item_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\select_flight_list_item_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\selectflight.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\selectflight.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\paymentnnew.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\paymentnnew.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\flight_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\flight_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\insurance_item_popup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\insurance_item_popup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\meal_sub_item_text.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\meal_sub_item_text.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\officelocation.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\officelocation.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\calendar_main.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\calendar_main.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\citylistspinner.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\citylistspinner.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_pre_login.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_pre_login.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\bookingsummary.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\bookingsummary.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_saved_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_saved_passenger.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\meal_sub_item_text_price.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\meal_sub_item_text_price.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_myprofile.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\activity_myprofile.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\bookflight.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\bookflight.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\flight_names_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\flight_names_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout-ar\\baggagelist_spinner_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout-ar\\baggagelist_spinner_item.xml"
+    }
+]

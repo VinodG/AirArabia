@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirArabia.iml" filepath="$PROJECT_DIR$/AirArabia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airArabia/airArabia.iml" filepath="$PROJECT_DIR$/airArabia/airArabia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/urlImageViewHelper/urlImageViewHelper.iml" filepath="$PROJECT_DIR$/urlImageViewHelper/urlImageViewHelper.iml" />
+    </modules>
+  </component>
+</project>

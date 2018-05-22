@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  	 <integer name="orgn_width">190</integer>
+  	 <integer name="orgn_width_in_summary">160</integer>
+</resources>

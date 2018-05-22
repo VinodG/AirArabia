@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\xml\\ecommerce_tracker.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\xml\\ecommerce_tracker.xml"
+    }
+]

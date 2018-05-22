@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691128499392",
+    "firebase_url": "https://airarabia-fa808.firebaseio.com",
+    "project_id": "airarabia-fa808",
+    "storage_bucket": "airarabia-fa808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691128499392:android:41f89b1a26d9f88b",
+        "android_client_info": {
+          "package_name": "com.winit.airarabia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691128499392-egc4g6rhft65hmla3t0t4vbah72ru0mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAel3gF_0ZIGRo9Iptql4sVj7R1NmySw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

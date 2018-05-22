@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirArabia</string>
+    <string name="action_settings">Settings</string>
+    <!-- Needed Strings -->
+    <string name="seatSelected">seatSelected</string>
+    <string name="seatRowNo">seatRowNo</string>
+    <string name="hala_flight_tag">hala_flight_tag</string>
+    <string name="hala_name_tag">hala_name_tag</string>
+    <string name="hala_person_tag">hala_person_tag</string>
+    <string name="hala_check_tag">hala_check_tag</string>
+    <string name="seatNo">seatNo</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="InternetProblem">No Internet Connection Available. Please try again.</string>
+    <string name="quantity">Qty:</string>
+    <string name="no">No</string>
+    <string name="all">All</string>
+    <string name="No_Cities_Found">No city Found</string>
+    <string name="Payment_Error">Payment Error</string>
+    <string name="noData">Data not available.</string>
+    <string name="alert_card_expirydate">Please enter card expiry date.</string>
+    <string name="english">английский</string>
+    <string name="french">Français</string>
+    <string name="arabic">арабский</string>
+    <string name="russion">русский</string>
+   <!--  <string name="english_lang_code">English</string>
+    <string name="french_lang_code">Français</string>
+    <string name="arabic_lang_code">العربية</string> -->
+    <string name="language">Language</string>
+    <string name="donecal">Выполнено</string>
+
+    <string-array name="title_adt">
+        <item>MR</item>
+        <item>MRS</item>
+        <item>MS</item>
+    </string-array>
+    <string-array name="title_chd">
+        <item>MSTR</item>
+        <item>MISS</item>
+    </string-array>
+    <string-array name="title_inf">
+        <item>MSTR</item>
+        <item>MISS</item>
+    </string-array>
+    <string-array name="title_adt_desc">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+    </string-array>
+    <string-array name="title_chd_desc">
+        <item>Master</item>
+        <item>Miss</item>
+    </string-array>
+    <string-array name="title_inf_desc">
+        <item>Master</item>
+        <item>Miss</item>
+    </string-array>
+    <string-array name="lang">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+        <item>Turkish</item>
+    </string-array>
+    <string-array name="passenger_type">
+        <item>Adult</item>
+        <item>Ребенок</item>
+        <item>Младенец</item>
+    </string-array>
+
+    <!-- English -->
+    <string-array name="ArrMonth">
+        <item>Январь</item>
+        <item>February</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="ArrDays">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>пятница</item>
+        <item>Суббота</item>
+    </string-array>
+
+    <string name="ReturnDiscount">Return Booking Discount</string>
+    <string name="January">Январь</string>
+    <string name="February">Февраль</string>
+    <string name="March">Март</string>
+    <string name="April">Апрель</string>
+    <string name="May">Май</string>
+    <string name="June">Июнь</string>
+    <string name="July">Июль</string>
+    <string name="August">Август</string>
+    <string name="September">September</string>
+    <string name="October">Октябрь</string>
+    <string name="November">Ноябрь</string>
+    <string name="December">Декабрь</string>
+    <string name="Sunday">Sun</string>
+    <string name="Monday">Mon</string>
+    <string name="Tuesday">Tues</string>
+    <string name="Wednessday">Wed</string>
+    <string name="Thursday">Thurs</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="alert_msg_fill_all_fields">Пожулуйста заполните все поля</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger">Please fill all passenger required fields.</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger_info">Please fill all passenger required fields.</string>
+    <string name="Select_Date">Select Date</string>
+    <string name="Arriving">Arriving</string>
+    <string name="AddServices">Добавить услуги</string>
+    <string name="Adult">Adult</string>
+    <string name="adult_flight_summary">Adult</string>
+    <string name="adult_flight_fareselection">Adult</string>
+    <string name="Adultc">ADULT</string>
+    <string name="selectDate">Select Date</string>
+    <string name="selectDate_dep">Select Date</string>
+    <string name="selectDate_return">Select Date</string>
+    <string name="selectCurrency">Выберите валюту</string>
+    <string name="rememberMe">Запомнить меня</string>
+    <string name="remembered">remembered</string>
+    <string name="Best_Fare">Лучший тариф</string>
+    <string name="Flight_Timing">Расписание рейса</string>
+    <string name="AdultChildCountErrorMessage">Неверное количество Взрослых и Детей</string>
+    <string name="Arrival">Прилет</string>
+    <string name="Baggage">Багаж</string>
+    <string name="Baggages">Багаж</string>
+    <string name="categoryClass">Класс</string>
+    <string name="BookAFlight">Забронировать перелет</string>
+    <string name="BookFlight">Забронировать перелет</string>
+    <string name="BookFlighta">Забронировать перелет</string>
+    <string name="CheckInOnline">Регистрация</string>
+    <string name="CheckInOnline_title">Онлайн регистрация</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="airewards">AIREWARDS</string>
+    <string name="Child">Child</string>
+    <string name="Childc">CHILD</string>
+    <string name="Childs">Childs</string>
+    <string name="Child2to12Yrs">Ребенок от 2 до 12 лет</string>
+    <string name="Continue">Продолжить</string>
+    <string name="CopyRight">© 2013 Air Arabia. Все права зарегистрированы</string>
+    <string name="Country">Страна:</string>
+    <string name="Country_withoutColan">Страна</string>
+    <string name="CountryError">Выберите страну</string>
+    <string name="Depart">Отправляться</string>
+    <string name="Departing">Departing</string>
+    <string name="Departing_depart">Departing</string>
+    <string name="Departure">Вылет</string>
+    <string name="DaysOfOperation">Days of \nOperation</string>
+    <string name="DestinationErrorMessage">Выберите аэропорт отправления</string>
+    <string name="EmailId">Email Id</string>
+    <string name="EmailIdError">введите email id</string>
+    <string name="EnterDetails">Введите детали</string>
+    <string name="EnterYourReservationDetails">Enter your reservation details to load your booking:</string>
+    <string name="EnterYourReservationDetails1">Please enter your reservation details.</string>
+    <string name="Login_For_Faster_Booking">Login for faster booking</string>
+    <string name="FirstName">Имя</string>
+    <string name="FirstNameError">Введите Имя</string>
+    <string name="FlexiFare">Flexi fare</string>
+    <string name="FlexiFare_details">Flexi fare detail</string>
+    <string name="FlightNo">Flight No</string>
+    <string name="FlightSchedule">Расписание рейса</string>
+    <string name="FlightSummary">Flight Summary</string>
+    <string name="TimeTable">Расписание</string>
+    <string name="From">Из</string>
+    <string name="FlyingFrom">Вылет из</string>
+    <string name="FlyingTo">Прилет в </string>
+    <string name="IAccept">Я принимаю условия Авиакомпании</string>
+    <string name="Inbound">Въездной</string>
+    <string name="Infant">Младенец</string>
+    <string name="Infantc">Младенец</string>
+    <string name="InfantBelow2Yrs">Младенец (младше 2х лет)</string>
+    <string name="InvalidEmail">Младенец (младше 2х лет)Неверный формат электронной почты</string>
+    <string name="InvalidMobile">Некорректный номер телефона</string>
+    <string name="ISDError">Введите код страны</string>
+    <string name="ItMayTakeFewSeconds">это может занять несколько секунд</string>
+    <string name="LastName">Фамилия</string>
+    <string name="LastNameError">Введите фамилию</string>
+    <string name="ContactPersonsLastName">Contact Person\'s Last Name</string>
+    <string name="EnterContactPersonsLastName">Enter Contact Person\'s Last Name</string>
+    <string name="Loading">загрузка</string>
+    <string name="ManageYourBooking">изменить бронирование</string>
+    <string name="MobileError_10_digit">Please enter your 10 digits modile number.</string>
+    <string name="MobileError">Please enter your modile number.</string>
+    <string name="MobileNumber">Номер телефона</string>
+    <string name="ModifySearch">Изменить условия поиска</string>
+    <string name="More">больше</string>
+    <string name="Name">Имя</string>
+    <string name="Address">Address</string>
+    <string name="Nationality">Национальность</string>
+    <string name="NationalityError">Выберите национальность</string>
+    <string name="NoAirportsFound">Не найден такой аэропорт</string>
+    <string name="NoBaggage">Багаж не доступен</string>
+    <string name="NoFlightsAvailable">Рейсы не найдены</string>
+    <string name="NoSeat">Детали места недоступны</string>
+    <string name="NoStops">Без остановок</string>
+    <string name="NotAvailable">Недоступен</string>
+    <string name="NoThanks">Нет, спасибо</string>
+    <string name="OneWay">В одну сторону</string>
+    <string name="OneWay_bookflight">В одну сторону</string>
+    <string name="OriginDestinationErrorMessage">Выберите аэропорт вылета и прилета</string>
+    <string name="OriginErrorMessage">Пожалуйста, сначала выберите аэропорт вылета, а затем - место назначения</string>
+    <string name="Outbound">Выездной</string>
+    <string name="PassengerInfo">Информация о пассажире</string>
+    <string name="PersonaliseYourTrip">Информация о пассажире</string>
+    <string name="PleaseDoNotRefresh">Пожалуйста, не обновляйте страницу и не возвращайтесь на предыдущую, пока обрабатывается Ваш запрос</string>
+    <string name="PoweredBy">Поддерживается</string>
+    <string name="Price">Цена</string>
+    <string name="PromoFare">Promo Fare</string>
+    <string name="PromoFare_details">Promo Fare Details</string>
+    <string name="Return">Обратно</string>
+    <string name="Return_bookflight">Обратно</string>
+    <string name="Returning">Возврат</string>
+    <string name="SearchFlight">Поиск рейсов</string>
+    <string name="Show_Result_Based_On">Показать результаты, основанные на</string>
+    <string name="Seat">Место</string>
+    <string name="SelectAirport">Выбрать аэропорт</string>
+    <string name="SelectBaggage">Выберите Норму провоза багажа</string>
+    <string name="SelectSeat">Веберите место</string>
+    <string name="Stops">Остановки</string>
+    <string name="TaxSurcharge">Таксы и сборы</string>
+    <string name="TermsAndConditions">Условия </string>
+    <string name="TermsErrorMessage">Вы должны согласиться с нашими Сроками и Условиями</string>
+    <string name="Title">Обращение</string>
+    <string name="TitleError">Пожалуйста, выберите обращение</string>
+    <string name="To">В</string>
+    <string name="Cc_Bcc">Cc\/Bcc:</string>
+    <string name="To_colon">В:</string>
+    <string name="TotalOutboundFlight">Всего вылетов за границу</string>
+    <string name="TotalPrice">Итоговая стоимость</string>
+    <string name="TotalPrice_payment">Итоговая стоимость</string>
+    <string name="WinIT">WINIT</string>
+    <string name="Yes">Да</string>
+    <string name="AdditionalServices">Дополнительные услуги</string>
+    <string name="AdminiFee">Административный сбор</string>
+    <string name="Adults">Взрослые</string>
+    <string name="Adultss">Взрослые</string>
+    <string name="you_have_been_succesfully_logout">You have been successfully logged out.</string>
+    <string name="AirportService">Услуги аэропорта</string>
+    <string name="AirportServices">Услуги в аэропорту</string>
+    <string name="ArrivalAirportErr">Выберите аэропорт прибытие</string>
+    <string name="Available">Доступно</string>
+    <string name="Available_seatselection">Доступно</string>
+    <string name="Back">Обратно</string>
+    <string name="BookingSummary">итого по бронированию</string>
+    <string name="BuyTravelInsurance">Купить страховку путешественника</string>
+    <string name="CardExpiryErr">Срок действия Вашей карты истек</string>
+    <string name="CardNameErr">Пожалуйста, введите имя держателя карты</string>
+    <string name="CardNameInvalid">Введите имя держателя карты, как указано на карте</string>
+    <string name="CardNumErr">Пожалуйста, введите номер карты</string>
+    <string name="CardNumInvalid">Недействительный номер карты</string>
+    <string name="CardSecurityErr">Недействительный номер карты. Пожалуйста, введите код безопасности</string>
+    <string name="CardSecurityInvalid">Invalid card number .Security code should have 3 or 4 numerics</string>
+    <string name="CardTypeErr">Пожалуйста веберите тип карты</string>
+    <string name="Children">Дети</string>
+    <string name="Confirm">Подтвердите</string>
+    <string name="ConfirmSeat">Подтвердите место</string>
+    <string name="Daily">Ежедневно</string>
+    <string name="DepartureAirportErr">Пожалуйста, выберите аэропорт вылета</string>
+    <string name="DepartureDateErr">Пожалуйста, выберите дату вылета</string>
+    <string name="ArrivalDateErr">Please select arrival date.</string>
+    <string name="ArrivalDateErr_Incorrect">Please select correct arrival date.</string>
+    <string name="DOB">Дата рождения</string>
+    <string name="DOBError">Выберите дату рождения</string>
+    <string name="FlightDays">Рейсы / Дни</string>
+    <string name="FlightNumber">Flight \nNumber</string>
+    <string name="FlightScheduleDesc">Air Arabia доставит Вас в любой из множества потрясающих городов Среднего Востока, Северной Африки, Европы, СНГ, Индии и Центральной Азии. Для просмотра информации по расписанию рейсов Air Arabia на месяц выберите город вылета и прилета</string>
+    <string name="FromTo">Из / в</string>
+    <string name="ImpNote">Важное сообщение</string>
+    <string name="Infants">Младенец</string>
+    <string name="Infantss">Младенец</string>
+    <string name="InvalidVisaCard">Недействительный номер карты Visa</string>
+    <string name="InvlaidMasterCard">Недействительный номер карты Master Card</string>
+    <string name="Meals">Питание</string>
+    <string name="Menu">Меню</string>
+    <string name="NaArr">Недоступно Прилет</string>
+    <string name="NaDep">NA Dep</string>
+    <string name="NoHala">Услуга Hala Services недоступна</string>
+    <string name="NoInsurance">Страховка недоступна</string>
+    <string name="NoMeals">Питание недоступно</string>
+    <string name="NoSeatMap">Карта мест недоступна</string>
+    <string name="Occupied">Занято</string>
+    <string name="Passengers">Пассажиры</string>
+    <string name="Passenger">Passenger</string>
+    <string name="Payment">Оплата</string>
+    <string name="Paymentpage">Payment Page</string>
+    <string name="RoundTrip">Туда-обратно</string>
+    <string name="Route">Маршрут</string>
+    <string name="SeatNo">Номер места</string>
+    <string name="Seats">Места</string>
+    <string name="SecuredCreditCard">Безопасная оплата кредитной картой</string>
+    <string name="Selected">Выбранный</string>
+    <string name="SelectHala">Выбрать услугу Hala Services</string>
+    <string name="SelectMeal">Веберите место</string>
+    <string name="SelectMenuCategory">Выберите категорию меню</string>
+    <string name="Time">Время</string>
+    <string name="TotalAmount">Итого</string>
+    <string name="TotalAmount_Payment">Total Amount</string>
+    <string name="Total">Total</string>
+    <string name="TotalFlightsServices">Итого Перелеты + Услуги</string>
+    <string name="TotalFlightsServices_Payment">Итого Перелеты + Услуги</string>
+    <string name="TotalInboundFlight">Итого Прибывающий рейс</string>
+    <string name="TravelSecure">Travel Secure</string>
+    <string name="TravelSecure_PriceSummmary">Travel Secure</string>
+    <string name="SelectFlight">Выбрать рейс</string>
+    <string name="Stop">Остановки</string>
+    <string name="AirArabia">Air Arabia</string>
+    <string name="AmjanSalesShop">Офис продаж Amjan</string>
+    <string name="AmjanSalesShopAddr">Sahaikh Rashid Bin Humaid Street - рядом с Dream Sea Discount Center</string>
+    <string name="AmjanSalesShopli1">По вопросам бронирования: СБ - ЧТ с 08:30 до 20:30/ ПТ с 17:00 до 20:30</string>
+<!--     <string name="AmjanSalesShopli1">For Reservation : SAT to THR 0830 am to 0830 pm. / FRI: 0500 pm – 0830 pm.</string> -->
+    <string name="AmjanSalesShopli2">По вопросам подачи документов и получения готовой визы: СБ - ЧТ с 08:30 до 20:30</string>
+<!--     <string name="AmjanSalesShopli2">For applying for a new visa &amp; collecting the approved visas: SAT – THR 0830 am to 0830 pm.</string> -->
+    <string name="AmjanSalesShopli3">По вопросам возврата депозита и продления визы: СБ - ЧТ с 08:30 до 13:00</string>
+    <string name="ApplyFromOutSideTheUAE">Обращение за пределами ОАЭ</string>
+    <string name="ApplyFromOutSideTheUAEDescription">Чтобы подать документы на гостевую визу за пределами ОАЭ, пожалуйста, свяжитесь с одним из офисов продаж Air Arabia в Вашем регионе для получения подробной информации</string>
+    <string name="ApplyFromTheUAE">Обращение из ОАЭ</string>
+    <string name="ApplyNow">Обратиться сейчас</string>
+    <string name="CallCenter">Колл центр</string>
+    <string name="CallCenterNumber">Номер колл центра</string>
+    <string name="Timings">Расписание</string>
+    <string name="CallCentersIn">Кол центры в </string>
+    <string name="City">Город</string>
+    <string name="ClosingDate">Closing Date</string>
+    <string name="ContactInfo">в контактной информации</string>
+    <string name="ChooseNumber">Выберите номер для набора</string>
+    <string name="ContactUs">Свяжитесь с нами</string>
+    <string name="Description">Описание</string>
+    <string name="Details"> Детали</string>
+    <string name="DetailsDescription">Авиабилеты в оба конца и виза за AED 1050</string>
+    <string name="DocumentsFromApplicant">Документы от Заявителя</string>
+    <string name="DocumentsFromApplicantDescription">Заявитель должен лично предоставить следующие документы </string>
+    <string name="DubaiSalesShop">Магазин в Дубае</string>
+    <string name="DubaiSalesShopAddr">Здание Port Saeed, рядом с Dubai Islamic Bank, Al Maktoum Street  – рядом с Clock Tower – Deira.</string>
+    <string name="DubaiSalesShopli1">По вопросам бронирования: СБ - ЧТ с 08:30 до 20:00/ ПТ с 17:00 до 20:00</string>
+    <string name="DubaiSalesShopli2">По вопросам подачи документов и получения готовой визы: СБ - ЧТ с 08:30 до 19:00</string>
+    <string name="DubaiSalesShopli3">По вопросам возврата депозита и продления визы: СБ - ЧТ с 08:30 до 13:00</string>
+    <string name="ForFeedbacksOrSuggestions">Для получения обратной связи или Ваших предложений</string>
+    <string name="ForGeneralEnquiryAndFollowUp">По общим вопросам и по отслеживанию обращений</string>
+    <string name="ForGeneralEnquiryAndFollowUpDescription">По общим визовым вопросам или по вопросам отслеживания статуса получения визы Вы можете связаться с нами по номеру телефона: 06 523 71 00 (Шарджа) с субботы по четверг с 8.30 am до 17:00. Клиенты могут также связаться с нами по</string>
+    <string name="LatestOffers">Последние предложения</string>
+    <string name="LatestOffersDescription">Не упустите выгодные предложения от Air Arabia! Помимо доступных авиабилетов, наши авиалинии все время предлагают своим клиентам специальные акции! Подпишитесь сейчас и оставайтесь в курсе наших специальных предложений и скидок на перелеты.</string>
+    <string name="Location">Расположение </string>
+    <string name="Map">Карта </string>
+    <string name="OfficeLocation">Расположение офиса</string>
+    <string name="OfficeLocationsIn">Адреса офисов в</string>
+    <string name="CallCenterLocationsIn">Call Center Locations In</string>
+    <string name="OurOffersFromToSharjah">Наши предложения из / в Шарджу</string>
+    <string name="Phone">Номер телефона</string>
+    <string name="PNRNumber">Номер бронирования (PNR)</string>
+    <string name="RasAlKhaimahSalesShop">Магазин в Рас-аль-Хайме</string>
+    <string name="RasAlKhaimahSalesShopAddr">Oman road, Al Nakheel Street (за супермаркетом Lulu)</string>
+    <string name="RasAlKhaimahSalesShopli1">По вопросам брониования: СБ - ЧТ с 08:30 до 21:00 /ПТ: с 17:00 до 21:00</string>
+    <string name="RasAlKhaimahSalesShopli2">По вопросам подачи документов и получения готовой визы: СБ - ЧТ с 08:30 до 21:00</string>
+    <string name="RasAlKhaimahSalesShopli3">По вопросам возврата депозита и продления визы: СБ - ЧТ с 08:30 до 21:00</string>
+    <string name="ReachUs">Свяжитесь с нами</string>
+    <string name="RegulationsForChildren">Правила для детей</string>
+    <string name="RegulationsForChildrenDescriptionli1">Виза для детей не нужна в том случае, если они путешествуют с матерью и вписаны в ее паспорт</string>
+    <string name="Reset">Сброс</string>
+    <string name="SharjahRollaSalesShop">Офис продаж Sharjah Rolla</string>
+    <string name="SharjahRollaSalesShopAddr">Al Arouba Street, Rolla – Umm Al Tarafa Area</string>
+    <string name="SharjahRollaSalesShopli1">>По вопросам бронирования: СБ - ЧТ с 09:00 до 13:00 / с 16:30 до 21:00; ПТ: с 16:30 до 21:00</string>
+    <string name="SharjahRollaSalesShopli2">По вопросам подачи документов и получения готовой визы: СБ - ЧТ с 09:00 до 13:00/ с 16:30 до 21:00</string>
+    <string name="SharjahRollaSalesShopli3">По вопросам возврата депозита и продления визы: СБ - ЧТ с 09:00 до 13:00</string>
+    <string name="SharjaIndustrialSalesShop">Офис продаж SHARJAH INDUSTRIAL</string>
+    <string name="SharjaIndustrialSalesShopAddr">Здание Khan Saheb, Industrial area number 10 – Near Geeco roundabout,  Sharjah industrial</string>
+    <string name="SharjaIndustrialSalesShopli1">По вопросам бронирования: СБ - ЧТ с 09:30 до 21:30 / ПТ с 05:00 до 21:00</string>
+    <string name="SharjaIndustrialSalesShopli2">For Applying a new visa – Visa Extension &amp; Deposit Refund: SAT – THR 0930 am to 0930 pm.</string>
+    <string name="SharjaSalesShop">Офис продаж Шарджа</string>
+    <string name="SharjaSalesShopAddr">TOWER 400 – Mina Road – Um Tarafa Area</string>
+    <string name="SharjaSalesShopli1">По вопросам бронирования билетов: СБ - ЧТ с 08:00 до 22:00 / ПТ с 05:00 до 21:00</string>
+    <string name="SharjaSalesShopli2">По вопросам подачи документов и получения готовой визы: СБ - ЧТ с 08:00 до 22:00</string>
+    <string name="SharjaSalesShopli3">По вопросам возврата депозита и продления визы: СБ - ЧТ с 08:00 до 13:00</string>
+    <string name="SpecialOffers">Специальные предложения</string>
+    <string name="Subject">Предмет</string>
+    <string name="Submit">Подавать</string>
+    <string name="TravelTill">Осуществить поездку до 30/06/2012</string>
+    <string name="UAEImmigrationAuthorityRegulations">UAE Immigration Authority Regulations</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescription">Всем въезжающим в страну необходимо получить визу за исключением граждан следующих 33 стран</string>
+    <string name="VisaAssistance">Помощь в получении визы</string>
+    <string name="VisaRegulations">Правила получения визы</string>
+    <string name="VisaRegulationsDescription">Если Вы проживаете в ОАЭ и хотите подать на визу для членов своей семьи или друзей, Air Arabia с радостью поможет Вам в этом. Мы оказываем визовую поддержку для путешественников из любой страны, откуда летает Air Arabia. Все, что Вам нужно, это обратный билет.</string>
+    <string name="VisaRequirements">Требования для получения визы</string>
+    <string name="VisaRequirementsDescription">Если Вы проживаете в ОАЭ и хотите подать на визу для членов своей семьи или друзей, Air Arabia с радостью поможет Вам в этом. Мы оказываем визовую поддержку для путешественников из любой страны, откуда летает Air Arabia. Все, что Вам нужно, это обратный билет.</string>
+    <string name="VisaValidityDescription">Срок действия и обновление</string>
+    <string name="VisaValidityHead">Срок действия визы, обновление и отмена</string>
+    <string name="DocumentsFromApplicantDescription1">Туристическая виза в Дубай и Шарджу для близких членов семьи, друзей и родственников</string>
+    <string name="DocumentsFromApplicationsDescriptionli1">Минимальный доход AED 3,000/- </string>
+    <string name="DocumentsFromApplicationsDescriptionli2">Копия паспорта и виза резидента, срок действия которой не менее 3 месяцев</string>
+    <string name="DocumentsFromApplicationsDescriptionli3">Выписка из банка за последние 3 месяца с печатью банка или справка о зарплате + контракт на аренду жилья со сроком окончания действия не ранее 3 месяцев</string>
+    <string name="DocumentsFromApplicationsDescriptionli4">2 четких копии паспорта с минимальным сроком действия шесть месяцев</string>
+    <string name="RegulationsForChildrenDescriptionli2">Для детей с отдельными паспортами требуется оформление отдельной визы</string>
+    <string name="RegulationsForChildrenDescriptionli3">Для детей до 10 лет необходимо внести гарантийный депозит в размере AED 7,500/-</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli1">Совет сотрудничества арабских государств Персидского залива (ССАГПЗ): Бахрейн, Кувейт, Оман, Катар и Саудовская Аравия</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli10">Подающий документы на гостевую визу не имеет права работать в ОАЭ</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli11">В первый день после истечения срока действия визы взимается штраф AED 200, за каждый последующий день пребывания по просроченной визе взимается штраф в размере AED 100</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli2">Западная Европа: Франция, Италия, Германия, Голландия, Бельгия, Люксембург, Швейцария, Австрия, Швеция, Норвегия, Дания, Португалия, Ирландия, Греция, Финляндия, Испания, Монако, Ватикан, Исландия, Андорра, Сан-Марино и Лихтенштейн</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli3">Великобритания</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli4">Серевная Америка: США</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli5">Австралия и Новая Зеландия</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli6">Дальний Восток: Япония, Бруней, Сингапур, Малайзия и Гонконг</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli7">Турист должен въехать на территорию ОАЭ в течение 2 месяцев со дня выдачи визы</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli8">Возможен только один въезд. При выезде туриста из ОАЭ виза автоматически аннулируется</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli9">Повторный въезд на территорию ОАЭ возможен только по истечении 30 дней с момента выезда</string>
+    <string name="VisaCancellation">Отмена визы:</string>
+    <string name="VisaCancellationli1">Отмена подтвержденной неиспользованной визы возможна только по истечении срока действия гостевой визы (60 дней) с даты выдачи</string>
+    <string name="VisaCancellationli2">Заявитель должен заплатить сбор в размере AED 175 за отмену визы, после оплаты виза будет считаться недействительной (визовый сбор не подлежит возврату в случае отказа от визы, отмены или утверждения)</string>
+    <string name="VisaCancellationli3">Если виза находится в процесее рассмотрения, а заявитель хочет ее отменить, он должен заплатить AED 175. На процесс отмены процедуры получения визы требуется 5-6 дней с момента данного запроса.</string>
+    <string name="VisaValidityDescriptionli1">Туристическая виза действует в течение 30 дней с даты въезда в ОАЭ и может быть продлена еще на 30 дней до истечения ее срока действия</string>
+    <string name="VisaValidityDescriptionli2">Запрос на продление визы должен быть сделан как минимум за 10 дней до истечения срока действия визы</string>
+    <string name="VisaValidityDescriptionli3">В случае продления визы срок действия медицинской страховки также должен быть продлен по цене AED 50</string>
+    <string name="VisaValidityDescriptionli4">Необходимо предъявить оригинал паспорта и оригинал визы, а также оплатить сбор в размере AED 870 для получения визы в Дубай или Шарджу</string>
+    <string name="AdditionalServiceDetails">Дополнительные детали сервиса</string>
+    <string name="AdminFee">Admin Fee</string>
+    <string name="AirFare">Тариф пассажирской авиаперевозки</string>
+    <string name="AmountPaid">Уплаченная сумма</string>
+    <string name="Arrive">Прибытие</string>
+    <string name="BaggageSelection">Выбор багажа</string>
+    <string name="BookingDetails">Детали бронирования</string>
+    <string name="BookingSuccess">Ваше бронирование было успешно завершено</string>
+    <string name="CardExpiryDate">Срок окончания действия карты</string>
+    <string name="Click">Клик</string>
+    <string name="ConfirmPayment">Подтвердите платеж</string>
+    <string name="CountryOfResidence">Страна проживания</string>
+    <string name="Email">Email</string>
+    <string name="Finish">Закончить</string>
+    <string name="HaveASafeJourney">Безопасного путешествия</string>
+    <string name="Here">Сдесь</string>
+    <string name="Insurance">Страховка</string>
+    <string name="MealSelection">Выбор питания</string>
+    <string name="Mobile">Мобильный</string>
+    <string name="OtherTaxeFeeSurcharge">Другие налоги/ пошлины/ сборы</string>
+    <string name="otherPassengers">Saved Passengers</string>
+    <string name="PassengersWhoBought">Пассажиры, приобретающие авиабилеты по кредитным картам, должны иметь при себе данную карту для предъявления в аэропорту на регистрации</string>
+    <string name="PaymentDetails">Детали оплаты</string>
+    <string name="PolicyCode">Policy Code</string>
+    <string name="ReservationDate">Дата бронирования</string>
+    <string name="ReservationNumber">Номер бронирования </string>
+    <string name="EnterReservationNumber">Введите номер бронирования</string>
+    <string name="ReservationSummary">Сводка по бронированию</string>
+    <string name="SeatSelection">Выбор места</string>
+    <string name="SecurityCode">Код безопасности </string>
+    <string name="Taxes">Налоги</string>
+    <string name="ThankYou">Спасибо!</string>
+    <string name="ThankYouForChoosing">Спасибо за то, что выбрали Air Arabia</string>
+    <string name="ToReturnHomePage">Вернуться на главную страницу</string>
+    <string name="TryAgain">Попробуйте снова</string>
+    <string name="YourBookingHasBeenSuccess">Ваше бронирование было успешно завершено и маршрутная квитанция направлена на Ваш email</string>
+    <string name="YourItinerary">Маршрутная квитанция</string>
+    <string name="InvalidName">Неверное имя</string>
+    <string name="SeatSelectionError">Это место не может быть забронировано пассажиром, путешествующим с младенцем</string>
+    <string name="CallCentersDescription1">Несмотря на то, что мы всегда поощряем наших пассажиров пользоваться нашими онлайн сервисами, легкими и удобными в использовании, для бронирования перелетов, мы также всегда готовы ответить на телефонный звонок </string>
+    <string name="CallCentersDescription2">Во всех странах нашей полетной сети сотрудники наших колл-центров помогут Вам осуществить бронирование, а также проинформируют Вас об услугах и предложениях Air Arabia</string>
+    <string name="CallCentersDescription3">Выберите страну Вашего проживания и позвоните по номеру телефона, указанному ниже. Квалифицированные агенты наших колл-центров будут рады помочь Вам.</string>
+    <string name="OfficeLocationDescription1">Неважно, где Вы, мы всегда там для Вас</string>
+    <string name="OfficeLocationDescription2">Несмотря на то, что мы поощряем бронирования онлайн, Вас всегда рады видеть в наших офисах продаж в Вашем городе. Наши офисы продаж находятся во всех городах полетной сети Air Arabia. Наши агенты всегда рады проконсультировать Вас по нашим специальным предложениям на перелеты и скидкам на авиабилеты.</string>
+    <string name="OfficeLocationDescription3">Выберите город Вашего проживание и просмотрите телефонные номера и адреса наших офисов продаж в Вашей стране</string>
+    <string name="OfficeLocationDescription4">Просто позвоните нам или приходите в наш офис продаж, об остальном мы позаботимся!</string>
+    <string name="CallCenters">Колл-центры</string>
+    <string name="PNRError">Пожалуйста, введите PNR</string>
+    <string name="CategoryError">Пожалуйста, выберите категорию</string>
+    <string name="DepartureDate">Дата вылета</string>
+    <string name="EnterDepartureDate">Введите дату вылета</string>
+    <string name="FlightScheduleDescription1">Air Arabia доставит Вас в любой из множества потрясающих городов Среднего Востока, Северной Африки, Европы, СНГ, Индии и Центральной Азии. </string>
+    <string name="FlightScheduleDescription2">Для просмотра расписания рейсовAir Arabia на месяц выберите город вылета и прилета</string>
+    <string name="InvalidPNR">Неверный PNR (всего 8 цифр)</string>
+    <string name="MessageError">Пожалуйста, введите Ваше сообщение</string>
+    <string name="Search">Поиск </string>
+    <string name="SubjectError">Пожалуйста, введите тему</string>
+    <string name="Cancel">Отменить </string>
+    <string name="ComingSoon">Скоро</string>
+    <string name="HalaP1">Сделайте Ваше путешествие комфортнее с Hala Services. Hala - это уникальный комплекс дополнительных услуги для пассажиров, летящих через Шарджу, в том числе: Meet &amp; Assist, быстрое прохождение паспортно-визового контроля, Quick Check-in и Quick Exit, Бизнес-зал, подносчик багажа</string>
+    <string name="InsFinalSelection">Пожалуйста, сделайте окончательный выбор</string>
+    <string name="InsPopupHead">Путешествуете без страховки? До Вашего окончательного решения, мы хотели бы порекомендовать Вам обратить внимание на некоторые факты</string>
+    <string name="InsPopupNo">Нет, я не хочу покупать страховку</string>
+    <string name="InsPopupP1">1. Знаете ли Вы, что страхование путешественника Travel Secure - это самый доступны и легкий способ защиты Вашей поездки от таких неожиданностей, как несчастные случаи и задержки рейсов?</string>
+    <string name="InsPopupP2">2. Знаете ли Вы, что то страховое покрытие, которое включают многие кредитные карты. Часто ограниченно малыми суммами?</string>
+    <string name="InsPopupP3">3. Travel Secure - комплексная страховка путешественника, которую Вы можете приобрести и быть абсолютно спокойны на протяжении всей Вашей поезки</string>
+    <string name="InsPopupYes">Да, я хочу приобрести страховку</string>
+    <string name="InsuranceP1_sub1">Любая поездка будет неполноценной без страховки путешественника…</string>
+    <string name="InsuranceP1_sub2">На отдыхе ли Вы или в командировке, мы хотим, чтобы Ваша поездка прошла спокойно. Позвольте нам взять на себя заботу о медицинских проблемах, экстренных ситуациях и любой неприятности в путешествии. Все, что Вам необходимо, это приобрести страховой план TUNE PROTECT PLATINUM</string>
+    <string name="InsuranceP1_sub3_1">Всего за </string>
+    <string name="InsuranceP1_sub3_2">per person, you will be covered for:</string>
+    <string name="InsuranceLi1">USD 50,000 при несчастном случае и возмещение медицинских расходов</string>
+    <string name="InsuranceLi2">Страхование Li2 = "USD 20,000 на экстренную медицинскую эвакуацию и репатриацию останков"</string>
+    <string name="InsuranceLi3">USD 3,000 за отмену поездки или Curtailment</string>
+    <string name="InsuranceLi4">и более…</string>
+    <string name="InsurancePurchaseYes">Да, я хочу приобрести страховку</string>
+    <string name="MealsP1">Насладитесь более персонализированным подходом от Air Arabia. Перед полетом выберите питание на Ваш вкус, предлагаемое в меню нашего Sky Café </string>
+    <string name="MealsP2">Для выбора питания/ закусок, выберите имя пассажира и желаемое питание/ закуску</string>
+    <string name="Ok">Ok</string>
+    <string name="SeatPopupHead">Для того, чтобы занять место у аварийного выхода, пассажир должен отвечать следующим требованиям:</string>
+    <string name="SeatPopupP1">- Быть старше 15 лет </string>
+    <string name="SeatPopupP2">Обладать полноценными зрительными и слуховыми способностями и быть способным понимать инструкции экипажа</string>
+    <string name="SeatPopupP3">Быть морально и физически здоровым</string>
+    <string name="SeatPopupP4">- Не иметь трудностей с быстрым передвижением из-за возраста, веса или массы тела</string>
+    <string name="SeatPopupP5">Не находиться под арестом или не относиться к категории депортированных</string>
+    <string name="SeatPopupP6">При необходимости быть готовым активно участвовать в процессе открытия аварийной двери. Во всех случаях авиакомпания оставляет за собой право, по соображениям безопасности или в операционных целях, распределять и перераспределять места в любой момент, даже после посадки самолета. По вопросам любых инцидентов, которые могут возникнуть в связи с выбором места, свяжитесь с нашим клиентским сервисом. Обратите внимание, что места в 11 ряду не откидываются в целях безопасности. Я принимаю условия, предусмотренные для мест у аварийного выхода.</string>
+    <string name="TypeToSearch">Наберите для поиска</string>
+    <string name="Arr">Прилет</string>
+    <string name="Dep">Вылет</string>
+    <string name="Select">Выбрать</string>
+    <string name="Alert">Предупреждение</string>
+    <string name="CardType">Тип карты</string>
+    <string name="ErrorWhileProcessing">Произошла ошибка во время обработки Вашего запроса</string>
+    <string name="PaymentDescription">Разрешение на посадку: пассажиры из Индии, Пакистана или Бангладеш, прибывающие в ОАЭ по гостевой визе, туристической визе копия (не оригинал) или по визе онлайн, должны обеспечить </string>
+    <string name="SelectedFlightsCannot">Выбранные рейсы не могут быть забронированы</string>
+    <string name="SessionExpired">Время Вашего сеанса истекло</string>
+    <string name="StartAgain">Пожалуйста, начните снова</string>
+    <string name="StartOver">Начать заново</string>
+    <string name="TechProblem">Во время обработки Вашего запроса произошла ошибка. Повторите запрос.</string>
+    <string name="TryAgainAfter">Пожалуйста, попробуйте снова через некоторое время</string>
+    <string name="CreditBalance">Начисленный кредит</string>
+    <string name="DateOfBooking">Дата бронирования</string>
+    <string name="DepartureDateMismatch">Несоответствие даты вылета</string>
+    <string name="Flight">Рейс</string>
+    <string name="InvalidPNRCB">неправильный номер бронирования</string>
+    <string name="LastNameMismatch">Несоответствие фамилии</string>
+    <string name="ManageBooking">Управлять бронированием</string>
+    <string name="ManageBooking1">Flight + Hotel</string>
+    <string name="ModifySegment">Изменить сегмент</string>
+    <string name="Status">Статус</string>
+    <string name="Surcharges">Сборы</string>
+    <string name="TotalCharges">Итоговая стоимость</string>
+    <string name="TotalPaid">Итого уплачено</string>
+    <string name="BalanceToPay">Баланс к оплате</string>
+    <string name="ReservationCredit">Кредитный баланс</string>
+    <string name="CardHolderName">Имя держателя карты</string>
+    <string name="CardNumber">Card Number</string>
+    <string name="ReturnJourney">Return Journey</string>
+    <string name="ConnenectivityTimeOutExpMsg">Unable to connect server, please try again.</string>
+    <string name="title_activity_register">Register</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="info">Добро пожаловать в новую программу лояльности Air Arabia, предоставляющую дополнительные преимущества нашим пассажирам на земле и в воздухе. Простая в использовании и основанная на простых принципах накопления и использования баллов, Airewards сделает ваше путешествие с Air Arabia еще более выгодным. Расправьте крылья и откройте новые возможности с Airewards.</string>
+    <string name="earning">Накопление</string>
+    <string name="redeeming">Потратить баллы</string>
+    <string name="faq">Часто задаваемые вопросы</string>
+    <string name="join_now">Присоединяйтесь сейчас</string>
+    <string name="email_us">Email Us</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="currency">Currency</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="guest">Guest</string>
+    <string name="login">Войти</string>
+    <string name="register_caps">Зарегистрироваться</string>
+    <string name="continue_as_guest">Продолжить как гость</string>
+    <string name="SelectDestination">Select Destination</string>
+    <string name="SelectOrigin">Select Origin</string>
+    <string name="done">Done</string>
+    <string name="select_country">Выберите страну</string>
+    <string name="logged_in_succesfully">Вход выполнен успешно! Добро пожаловать</string>
+    <string name="success">Success</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="title_activity_favourite_destination">FavouriteDestination</string>
+    <string name="title_activity_favourite_list">FavouriteListActivity</string>
+    <!-- newly added for Payment New.xml -->
+    <string name="CardNumbernew">1234</string>
+    <string name="Confirm_payment">Подтвердить платеж</string>
+    <string name="cvc">cvc</string>
+    <string name="cvccode">CVC Code</string>
+    <string name="expiration">EXPIRATION</string>
+    <string name="country_prompt">Month     (1)</string>
+
+    <string-array name="country_arrays">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>August</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <!-- added for my profile -->
+    <string name="date_of_birth">DoB</string>
+    <string name="passPortNo">Passport Number</string>
+    <string name="airewardsId">Airewards Id</string>
+    <string name="airewardsIdError">Airewards id error.</string>
+    <string name="contactdetails">Contact Details</string>
+    <string name="contactdetails_myprofile">Contact Details</string>
+    <string name="preferences">Preferences</string>
+    <string name="fav_destinstion">Favorite Destinations</string>
+    <string name="direct">Прямой</string>
+    <string name="edit">Редактировать</string>
+
+    <!-- Total Price -->
+    <string name="Select_Fare">Выберите тариф</string>
+    <!-- Flight Details -->
+    <string name="SaverFare">Saver Fare</string>
+    <string name="SaverFare_details">Saver Fare</string>
+    <string name="SuperFare">Super тариф</string>
+    <string name="SuperFare_details">Super Fare</string>
+    <string name="basicFare">Basic</string>
+    <string name="ValueFare">Value</string>
+    <string name="ExtraFare">Дополнительно</string>
+    <string name="basicFare__title">Basic Fare</string>
+    <string name="basicFare_details">Описание тарифа Basic</string>
+    <string name="ValueFare_details">Описание тарифа Value</string>
+    <string name="ExtraFare_details">Описание тарифа Extra</string>
+    <string name="add">Add</string>
+
+    <!-- Passenger Info -->
+    <string name="Collect_points">Collect points</string>
+    <string name="Airewards_ID">Airewards ID</string>
+    <string name="ContactPerson">Contact Person</string>
+    <string name="Please_enter_details">Введите вашу контактную информацию</string>
+    <string name="Please_enter_all_details">Пожалуйста заполните все поля</string>
+    <string name="Please_enter">Please enter</string>
+    <string name="Please_select_passenger_type">Please select a passenger type</string>
+    <string name="Passanger_one_contact_person">Passenger 1 will be the contact person.</string>
+
+    <!-- fav list -->
+    <string name="add_new">Add new passenger</string>
+    <string name="clear_all">Clear All</string>
+    <string name="selectClass">Please select your class</string>
+    <string name="selectYourClass">Select your class</string>
+    <string name="class_name">Class</string>
+    <string name="CardNumberCapital">Номер карты</string>
+    <string name="cvvcodecapital">CVV код</string>
+    <string name="CardHolderNamecapital">CARD HOLDER NAME</string>
+    <string name="CardExpiryDatecapital">Окончание срока действия</string>
+    <string name="CardNumErrNew">Please enter card number</string>
+    <string name="CardSecurityErrNew">Please enter cvv code</string>
+    <string name="PriceSummary">Обоснование цены</string>
+    <string name="seatselection">Выбор места</string>
+    <string name="mealselection">Выбор питания</string>
+    <string name="travelinsurance">Туристическая страховка</string>
+    <string name="airportservice">Аэропортовые услуги</string>
+    <string name="Baggageselection">Pre-booked Baggage</string>
+    <string name="Select_Baggage">Выбор багажа</string>
+    <string name="Select_Meal">Select Meal</string>
+    <string name="Select_seat">Выбрать место</string>
+    <string name="Select_travel_insurance">Туристическая страховка</string>
+    <string name="Select_travel_insurance_header">Туристическая страховка</string>
+    <string name="economy">Экономический</string>
+    <string name="business">Бизнес </string>
+    <string name="PromoDetails">Our Cheapest available fare.</string>
+    <string name="PromoDetails_title">Детали Promo тарифа:</string>
+    <string name="FlexiDetails">1 Modification and cancellation without penalty up to 4 hours prior to departure.</string>
+    <string name="seatnumber">Номер места</string>
+    <string name="meal">Menu</string>
+    <string name="seatdescription">What will it be, window or aisle? Select your preferred seat and guarantee that it is reserved for you.</string>
+    <string name="insurancedescription">Get a comprehensive cover that includes personal accident, medical, evacuation, travel in convenience...</string>
+    <string name="airportdescription">Select from a range of services designed to improve your experience at the airport.</string>
+    <string name="mealdescription">Select the meal of your choice from our sky Cafe menu prior to your flight.</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="passenger_details_saved">Passenger details saved.</string>
+    <string name="PassengerDetails">Информация о пассажире</string>
+    <string name="airewardsId_cap">AIREWARDS ID (Optional)</string>
+    <string name="passPortNoOptional">Passport Number (Optional)</string>
+    <string name="countrycode">Code</string>
+    <string name="noCurrency">No Currency Found.</string>
+    <string name="noLanguageFound">No Language Found.</string>
+    <string name="registorinfo">Please select one of the options below to proceed with your registration to AIREWARDS</string>
+    <string name="i_travel_mainly_from_to_via_UAE">I travel mainly from/to/via UAE</string>
+    <string name="i_travel_mainly_from_to_via_Morocco">I travel mainly from/to/via Morocco</string>
+    <string name="i_travel_mainly_from_to_via_Egypt">I travel mainly from/to/via Egypt</string>
+    <string name="i_travel_mainly_from_to_via_Jordan">I travel mainly from/to/via Jordan</string>
+    <string name="registerNow">Зарегистрируйтесь сейчас</string>
+    <string name="selectCountry">Выберите страну</string>
+    <string name="selectNationality">Select nationality</string>
+    <string name="selectCity">Выберите город</string>
+    <string name="callcenterinfo">Выберите страну и город вашего проживания и позвоните по номеру, указанному ниже. Наши консультанты всегда готовы помочь.</string>
+    <string name="PassError">Введите пароль</string>
+    <string name="OfficeLocationinfo">Для просмотра телефонных номеров и адресов наших офисов продаж в вашей стране, выберите страну и город вашего проживания</string>
+    <string name="Colon"> : </string>
+    <string name="phonetext">Телефон</string>
+    <string name="alert_msg_empty_city">Please select any city.</string>
+    <string name="please_select_your_flight">Пожалуйста, выберите Ваш рейс:</string>
+    <string name="please_select_your_dates">Please select your dates.</string>
+    <string name="alert_msg_empty_country">Please Select Any Country First.</string>
+    <string name="select_u_origin">Выберите страну Вашего проживания </string>
+    <string name="select_u_destination">Выберите пункт прилета</string>
+    <string name="message_colon">Message:</string>
+    <string name="message">Message</string>
+    <string name="Send">Send</string>
+    <string name="closest_Airport">Ближайшие аэропорты</string>
+    <string name="recent_Airport">Последние аэропорты</string>
+    <string name="all_Airport">Все аэропорты</string>
+    <string name="favourite_Airport">Favourite Airports</string>
+    <string name="invaild_email">введите email id</string>
+    <string name="invaild_airewards">Please enter a valid AIREWARDS ID (email).</string>
+    <string name="invaild_airewards_incomplete">Please enter AIREWARDS ID (email).</string>
+    <string name="invaild_country_of_residence">Please select country of residance.</string>
+
+    <!-- Login -->
+    <string name="Email_Address">Адрес электронной почты</string>
+    <string name="Password">пароль</string>
+    <string name="Alert_MSG_NoFlightAvailable1">There are no flights available on your selected date</string>
+    <string name="Alert_MSG_NoFlightAvailable2">Please change your date or select another route.</string>
+    <string name="Cc_Bcc_no_colon">Cc\/Bcc</string>
+    <string name="Subject_colon">Subject:</string>
+    <string name="AlertMsgSelectBaggage">Пожалуйста, выберите Ваш багаж</string>
+    <string name="select_services">Выбор дополнительных услуг</string>
+    <string name="calendar">Календарь</string>
+    <string name="please_Select_Fare">Please select a fare</string>
+    <string name="please_Select_Fare_error">Please select one fare to proceed.</string>
+    <string name="contact_details">Contact details</string>
+    <string name="SelectBaggagesmall">Select your baggage</string>
+    <string name="SelectSeatsmall">Select your seat</string>
+    <string name="SelectMealsmall">Выберите питание</string>
+    <string name="SelectTravekInsurance">Select your travel insurance</string>
+    <string name="choosecategory">Выбрать категорию</string>
+    <string name="ChooseItem">Выбрать наименование</string>
+    <string name="NA">N/A</string>
+    <string name="save_and_continue">Сохранить и продолжить</string>
+    <string name="noCountry">No Country Found.</string>
+    <string name="noNationality">No Nationality Found.</string>
+    <string name="Baggagetext">Baggage</string>
+    <string name="mealText">Meal</string>
+    <string name="fare_note">Цены, указанные выше, только для одного пассажира</string>
+    <string name="login_error">Login error, please try again.</string>
+    <string name="SelectAirportServices">Select airport services</string>
+    <string name="noCity">No City Found.</string>
+    <string name="currency_exchange_not_avail">The results for the route selected cannot be displayed in </string>
+    <string name="please_select_another_currency"> Please select another currency or make your search in </string>
+    <string name="Please_select_destination">Please select any country as your favourite destination.</string>
+    <string name="NoDestination">No Destination Found.</string>
+    <string name="DOB_Optional">Date of Birth (Optional)</string>
+    <string name="all_nationality">All Nationality</string>
+    <string name="all_country">All Country</string>
+    <string name="profile_saved">Profile saved successfully.</string>
+    <string name="Logoutq">Logout?</string>
+    <string name="surelogout">Are you sure to logout?</string>
+    <string name="saveProfile">Do you want to save profile.</string>
+    <string name="saved_passengers">Saved Passengers</string>
+    <string name="select_from_saved">Select from saved</string>
+    <string name="SuperFar">Super тариф</string>
+    <string name="SaverFar">Saver тариф</string>
+    <string name="SmartFare">Smart Fare</string>
+    <string name="SmartFare_details">Smart Fare</string>
+    <string name="BundleFare">Bundle тариф</string>
+    <string name="superFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 40 кг багажа бесплатно, 1 горячее питание + 1 бутылка воды, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="saverFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 20 кг багажа бесплатно, 1 сэндвич и бесплатный резерв кресла начиная с 5 ряда</string>
+    <string name="smartFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="xFaredesc">Наш самый дешевый доступный тариф, изменения и отмена возможны за 24 часа до вылета и подлежат оплате. </string>
+    <string name="sure_to_logout">Are you sure to logout?</string>
+    <string name="please_enable_your_location">Please enable your location.</string>
+    <string name="enable_location">Enable location</string>
+    <string name="skip">Skip</string>
+    <string name="please_enable_your_location_for_closest_airport">Please enable your location.</string>
+    <string name="do_you_want_to_save_profile">Do you want to save profile?</string>
+    <string name="cur_head">Please select your currency</string>
+    <string name="please_select_country">Please select your country</string>
+    <string name="please_select_your_country">Please select your country</string>
+    <string name="please_select_your_nationality">Выберите национальность</string>
+    <string name="please_select_your_currancy">Please select your currency</string>
+    <string name="btn_save">Save</string>
+    <string name="guest_user">Guest User</string>
+    <string name="settings_pop_msg">Setting saved successfully.</string>
+    <string name="Service">Service</string>
+    <string name="Services">Services</string>
+    <string name="detail">detail</string>
+    <string name="from">From</string>
+    <string name="from1">from</string>
+    <string name="Back_book_flight">Обратно</string>
+    <string name="year">Year</string>
+    <string name="year_for_cal">Year</string>
+    <string name="title_activity_saved_passenger">SavedPassenger</string>
+    <string name="title_activity_add_new_passenger">Saved Passenger</string>
+    <string name="add_from_contact">Add from Your phone\'s contact list</string>
+    <string name="Passengers_flight_summary">Passengers</string>
+    <string name="no_flights">No flights available from </string>
+    <string name="to"> В </string>
+    <string name="on"> on </string>
+    <string name="please_change_your_depart"> Please change your departure date from the calendar above.</string>
+    <string name="please_change_your_return"> Please change your return date from the calendar above.</string>
+    <string name="change_flights">There are no flights available on your selected dates. Please change your dates or select another route.</string>
+    <string name="g_PromoDetails">Our Cheapest available fare.</string>
+    <string name="o_PromoDetails">Our Cheapest available fare.</string>
+    <string name="e_PromoDetails">Our Cheapest available fare.</string>
+    <string name="p_PromoDetails">Our Cheapest available fare.</string>
+    <string name="g_FlexiDetails">1 modification and cancellation without penalty up to 4 hours prior to departure.</string>
+    <string name="o_FlexiDetails">1 Modification without penalty up to 8 hours prior to departure</string>
+    <string name="e_FlexiDetails">1 Modification and cancellation without penalty up to 4 hours prior to departure.</string>
+    <string name="p_FlexiDetails">1 Modification and cancellation without penalty up to 4 hours prior to departure.</string>
+    <string name="g_saverFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 20 кг багажа бесплатно, 1 сэндвич и бесплатный резерв кресла начиная с 5 ряда</string>
+    <string name="o_saverFareDes">1 изменение и отмена без штрафа за 8 часа до вылета, 20 кг багажа бесплатно, 1 сэндвич и бесплатный резерв кресла начиная с 5 ряда</string>
+    <string name="e_saverFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 20 кг багажа бесплатно, 1 сэндвич и бесплатный резерв кресла начиная с 5 ряда</string>
+    <string name="P_saverFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 20 кг багажа бесплатно, 1 сэндвич и бесплатный резерв кресла начиная с 5 ряда</string>
+    <string name="g_superFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 40 кг багажа бесплатно, 1 горячее питание + 1 бутылка воды, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="o_superFareDes">1 modification without penalty up to 8 hours prior to departure, 30 kg free checked baggage, 1 hot meal and a front row or exit row seat</string>
+    <string name="e_superFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 40 кг багажа бесплатно, 1 горячее питание + 1 бутылка воды, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="P_superFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, 40 кг багажа бесплатно, 1 горячее питание + 1 бутылка воды, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="g_smartFareDes">20 kg free checked baggage, 1 sandwich + water</string>
+    <string name="o_smartFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="e_smartFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="P_smartFareDes">1 изменение и отмена без штрафа за 4 часа до вылета, передний ряд или кресло у аварийного выхода и быстрая регистрация или быстрый выход</string>
+    <string name="basicDec">Our cheapest available fare</string>
+    <string name="g_ValueDes">Багаж 20-40 кг (в зависимости от направления), сэндвич и вода</string>
+    <string name="g_ExtraDes">Багаж 40 кг, горячее питание или сэндвич, выбор места, 1 изменение и 1 отмена без штрафов за 4 часа до вылета</string>
+    <string name="o_ValueDes">Багаж 15 кг и сэндвич</string>
+    <string name="o_ExtraDes">Багаж 30 кг, горячее питание, выбор места и 2 изменения без штрафов за 8 часов до вылета</string>
+    <string name="e_ValueDes">Багаж 40 кг и сэндвич</string>
+    <string name="e_ExtraDes">Багаж 40 кг, горячее питание, 1 изменение и 1 отмена без штрафов за 8 часов до вылета</string>
+    <string name="p_ValueDes">Багаж 20 кг и сэндвич</string>
+    <string name="p_ExtraDes">Багаж 30 кг, горячее питание, 1 изменение и 1 отмена без штрафов за 4 часа до вылета</string>
+    <string name="payment_error_ogone30051001">
+<![CDATA[<b>The transaction was declined by your bank.</b><br/><br/>For security and privacy purposes, your bank doesn&#39;t provide Air Arabia with information about the reason of payment decline. <br/>We advise you to take the following steps in order to resolve your payment issues:<br/>
+1) Try to use another debit/credit card or another payment method to complete your purchase.<br/>
+2) Check with your bank if your card is authorized to make online purchases. Most banks block some card types for online usage.<br/>
+3) Check with your bank about their payment security policies. Your bank may flag any unexpected activity on your account (first time orders, high value purchases...).]]>
+    </string>
+    <string name="payment_error_ogone30511001">
+<![CDATA[<b>Insufficient funds, transaction declined.</b><br/><br/>Your bank informed Air Arabia that your account doesn&#39;t have sufficient funds to cover for the cost of this transaction. <br/>We advise you to take the following steps in order to resolve your payment issues:<br/>
+1) Try to use another debit/credit card or another payment method to complete your purchase.<br/>
+2) Check if you have enough funds in your account/card to cover the cost of the purchase.<br/>
+3) Contact your bank and ask about daily withdrawal or purchase limits.]]>
+    </string>
+    <string name="payment_error_Default_message">
+<![CDATA[<b>Authorization failed. The transaction was not successful and the amount was not deducted from your credit/debit card. </b><br/><br/>For security and privacy purposes, your bank doesn&#39;t provide Air Arabia with information about the reason of payment decline.
+<br/>We advise you to take the following steps in order to resolve your payment issues:<br/>
+1) Verify if you entered your payment information correctly on your purchase.<br/>
+2) Try to use another debit/credit card or another payment method to complete your purchase.<br/>
+3) Check with your bank about their payment security policies and the daily withdrawal or purchase limits.]]>
+    </string>
+    <string name="payment_currency_mad">Мы принимаем марокканские карты. Если вы хотите оплатить международной картой, пожалуйста, сделайте бронирование заново в EUR</string>
+    <string name="payment_currency_EUR">Мы принимаем международные карты. Если вы хотите оплатить марокканской картой, пожалуйста, сделайте бронирование заново в MAD</string>
+    <string name="payment_currency_other">Мы принимаем международные карты</string>
+    <string name="payment_accept">Платеж будет проведен в %s.</string>
+
+    <!-- for insiderImplementation -->
+    <string name="insider_partner_name">airarabia</string>
+    <string name="google_app_id">765083446640</string>
+    <string name="insider_notification_icon">iconretina</string>
+    <string name="insider_landing_activity">com.winit.airarabia.BookFlightActivity</string>
+
+    <bool name="insider_get_device_location">true</bool>
+    <bool name="insider_push_collapse">true</bool>
+
+    <integer name="insider_geofence_interval">60</integer>
+
+</resources>

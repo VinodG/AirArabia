@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="ga_sessionTimeout">60</integer>
+
+  <!--   <string name="ga_trackingId">UA-86215039-1</string>  -->  <!-- mithilesh -->
+  <!--   <string name="ga_trackingId">UA-86422724-1</string>  -->  <!-- murali sir -->
+<!--     <string name="ga_trackingId">UA-86404821-1</string>   Air Arabia PJSC-->
+    <string name="ga_trackingId">UA-68778288-1</string>  <!--  Client Id -->
+
+</resources>

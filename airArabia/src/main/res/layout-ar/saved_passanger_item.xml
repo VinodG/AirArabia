@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/margin_5"
+    android:layout_marginRight="@dimen/margin_5"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/margin_10"
+         >
+
+        
+
+        <ImageView
+            android:id="@+id/ivArrow"
+            android:layout_width="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/margin_small"
+            android:src="@drawable/arrow_ar" />
+        
+        <TextView
+            android:id="@+id/tvSavedPassengerName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical|right"
+            android:paddingLeft="@dimen/margin_small"
+            android:text="Name"
+            android:textSize="@dimen/text_size_normal" 
+            />
+        
+        <CheckBox
+            android:id="@+id/chSavedPassengerName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_small"
+            android:text="Name"
+            android:textSize="@dimen/text_size_normal"
+            android:visibility="gone" />
+        
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgSeprator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sep"
+        android:visibility="gone" />
+
+</LinearLayout>

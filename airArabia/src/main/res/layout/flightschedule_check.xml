@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!--     android:layout_width="match_parent" -->
+<!--     android:layout_height="match_parent" -->
+<!--     android:background="@drawable/bg_book_flight" -->
+<!--     android:orientation="vertical" -->
+<!--     android:paddingBottom="10dp" -->
+<!--     android:paddingTop="10dp" > -->
+
+<!--     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="fill_parent" > -->
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_book_flight"
+            android:paddingBottom="10dp"
+    		android:paddingTop="10dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/selectflightbg"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/FlightSchedule"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llcheckflightschedule_to"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+
+                <TextView
+                    android:id="@+id/tvNoFlightTo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/round_white_bg"
+                    android:gravity="center"
+                    android:paddingBottom="40dp"
+                    android:paddingTop="40dp"
+                    android:text="@string/NoFlightsAvailable" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/round_white_bg"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+
+                    <!-- Here Routes will be get Printed -->
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="start"
+                            android:background="@drawable/flight_oneway"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp" />
+
+                        <TextView
+                            android:id="@+id/tvcheckflightschedule_toSourceFlight"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="4dp"
+                            android:singleLine="true"
+                            android:text="Sharja"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:background="@drawable/flight_connecting" />
+
+                        <TextView
+                            android:id="@+id/tvcheckflightschedule_toDestFlight"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:singleLine="true"
+                            android:text="Kuwait"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textsize_18" />
+                    </LinearLayout>
+
+                    <!-- End of Routes -->
+
+                    <LinearLayout
+                        android:id="@+id/llHeaderlvflightschedule_to"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:visibility="visible" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.8"
+                            android:gravity="center"
+                            android:text="@string/FlightNumber"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="@string/DaysOfOperation"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:text="@string/Dep"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:text="@string/Arr"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+                    </LinearLayout>
+
+                    <ListView
+                        android:id="@+id/lvflightschedule_to"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:cacheColorHint="@null"
+                        android:listSelector="@color/transparent_color"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llcheckflightschedule_from"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/tvNoFlightFrom"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/round_white_bg"
+                    android:gravity="center"
+                    android:paddingBottom="40dp"
+                    android:paddingTop="40dp"
+                    android:text="@string/NoFlightsAvailable" />
+
+                <LinearLayout
+                    android:id="@+id/llHeaderlvflightschedule_from"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/round_white_bg"
+                    android:orientation="vertical"
+                    android:padding="10dp"
+                    android:visibility="visible" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp" >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="start"
+                            android:background="@drawable/flight_return" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/tvcheckflightschedule_fromSourceFlight"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="4dp"
+                                android:singleLine="true"
+                                android:text="Sharjah"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_18" />
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginLeft="15dp"
+                                android:layout_marginRight="15dp"
+                                android:background="@drawable/flight_connecting" />
+
+                            <TextView
+                                android:id="@+id/tvcheckflightschedule_fromDestFlight"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:singleLine="true"
+                                android:text="Cairo Terminal_18"
+                                android:textColor="@color/text_color"
+                                android:textSize="@dimen/textsize_18" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:visibility="visible" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.8"
+                            android:gravity="center"
+                            android:text="@string/FlightNumber"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="@string/DaysOfOperation"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:text="@string/Dep"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:text="@string/Arr"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/text_size_16" />
+                    </LinearLayout>
+
+
+                        <ListView
+                            android:id="@+id/lvflightschedule_from"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:cacheColorHint="@null"
+                            android:listSelector="@color/transparent_color"
+                            android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+<!--     </ScrollView> -->
+

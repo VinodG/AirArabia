@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfficeLocations>
+	<OfficeLocation value="40" country="Afghanistan">
+	</OfficeLocation>
+	<OfficeLocation value="7" country="Bahrain">
+		<Office name="Bahrain" city="Bahrain" phone="+973 17505111" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="13" country="Bangladesh">
+	</OfficeLocation>
+	<OfficeLocation value="29" country="Belgium">
+		<Office name="Air Arabia Maroc - Belgium" city="Brussels" phone="0900-40072" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="3" name="Egypt">
+		<Office name="Air Arabia Egypt - Alexandria (gleem)" city="Alexandria" phone="03-5858 815 / 5858 372-376" location="Map"></Office>
+		<Office name="Air Arabia Egypt - Luxor (el Awamiya)" city="Luxor" phone="095-2274 005 / 010-1699 924" location="Map"></Office>
+		<Office name="Air Arabia Egypt - Cairo (down Town)" city="Cairo" phone="02-2574 4588 / 010-1699 929-30" location="Map"></Office>
+		<Office name="Air Arabia Egypt - Cairo (el Mohandseen - Giza)" city="Cairo" phone="02-3345 2917/8" location="Map"></Office>
+		<Office name="Air Arabia Egypt - Cairo (giza)" city="Cairo" phone="02-35681098 / 9" location="Map"></Office>
+		<Office name="Air Arabia Egypt - Cairo (madinet Nasr)" city="Cairo" phone="02-22607 533" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="32" name="France">
+		<Office name="Air Arabia Maroc - France" city="Paris" phone="+33 (0)1 53 435338" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="39" name="Germany">
+		<Office name="Air Arabia Maroc - Germany" city="Frankfurt" phone="0900 1 000993 (fur 1,86 EUR p. Minute)" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="2" name="India">
+		<Office name="Air Arabia - Ahmedabad " city="Ahmedabad" phone="079 - 2640 3804 / 5 / 6" location="Map"></Office>
+		<Office name="Air Arabia - Bangalore" city="Bangalore" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Calicut " city="Calicut" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Chennai " city="Chennai" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Coimbatore " city="Coimbatore" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Hyderabad " city="Hyderabad" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Jaipur " city="Jaipur" phone="+91 141 3366444" location="Map"></Office>
+		<Office name="Air Arabia - Cochin " city="Cochin" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Mumbai " city="Mumbai" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Nagpur " city="Nagpur" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Trivandrum " city="Thiruvananthapuram" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Goa " city="Goa" phone="33 66 4444" location="Map"></Office>
+		<Office name="Air Arabia - Delhi (1)" city="Delhi" phone="011 33664444" location="Map"></Office>
+		<Office name="Air Arabia - Delhi (2)" city="Delhi" phone="011 40550815" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="14" name="Iran">
+		<Office name="Air Arabia - Shiraz" city="Shiraz" phone="+98711-6271463" location="Map"></Office>
+		<Office name="Air Arabia - Tehran" city="Tehran" phone="+9821-88650630" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="38" name="Iraq">
+	</OfficeLocation>
+	<OfficeLocation value="33" name="Italy">
+		<Office name="Air Arabia Maroc - Italy" city="Milan" phone="+39 (0)2 43458342" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="6" name="Jordan">
+	</OfficeLocation>
+	<OfficeLocation value="1" name="United Arab Emirates">
+		<Office name="Air Arabia - Sharjah 1" city="Sharjah" phone="+97165580000" location="Map"></Office>
+		<Office name="Air Arabia - Sharjah 2" city="Sharjah" phone="+97165580000" location="Map"></Office>
+		<Office name="Air Arabia - Abu Dhabi" city="Abu Dhabi" phone="+971 2 6315888" location="Map"></Office>
+		<Office name="Air Arabia - Dubai" city="Dubai" phone="+97165580000" location="Map"></Office>
+		<Office name="Air Arabia - Ras Al Khaima" city="Ras Al Khaima" phone="+97165580000" location="Map"></Office>
+		<Office name="Air Arabia - Al Ain" city="Al Ain" phone="+971 3 7666630" location="Map"></Office>
+	</OfficeLocation>
+	<OfficeLocation value="26" name="Yemen">
+		<Office name="Air Arabia - Sanaa" city="Sanaa" phone="+967 735 989 000" location="Map"></Office>
+	</OfficeLocation>
+
+</OfficeLocations>

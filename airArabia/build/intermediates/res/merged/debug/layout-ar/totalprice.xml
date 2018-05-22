@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/img_redbg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvPersonsCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="right|center_vertical"
+        android:paddingBottom="@dimen/margin_normal"
+        android:paddingLeft="@dimen/margin_normal"
+        android:paddingRight="@dimen/margin_normal"
+        android:paddingTop="@dimen/margin_normal"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/headder_size"
+        android:visibility="visible" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_normal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/promodetail_margn"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/llOutSrcDest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_with_shadow"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_normal" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/margin_small"
+                    android:paddingLeft="@dimen/margin_small"
+                    android:paddingRight="@dimen/margin_small"
+                    android:paddingTop="@dimen/margin_small" >
+
+                    <TextView
+                        android:id="@+id/tvOutText"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/margin_normal"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:text="@string/Departing"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/totalprice_text_size" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/flight_return" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llOutFilghtDetails"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingLeft="@dimen/margin_small"
+                    android:paddingRight="@dimen/margin_small"
+                    android:visibility="visible" >
+                </LinearLayout>
+            </LinearLayout>
+            <!-- Need to hide -->
+
+            <LinearLayout
+                android:id="@+id/llInSrcDest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/promodetail_margn"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_normal"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/margin_small"
+                    android:paddingLeft="@dimen/margin_small"
+                    android:paddingRight="@dimen/margin_small"
+                    android:paddingTop="@dimen/margin_small" >
+
+                    <TextView
+                        android:id="@+id/tvInText"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/margin_normal"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:text="@string/Returning"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/totalprice_text_size" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:src="@drawable/flight_oneway" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llInFilghtDetails"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="@dimen/margin_small"
+                    android:paddingRight="@dimen/margin_small"
+                    android:visibility="visible" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/promodetail_margn"
+                android:background="@drawable/background_with_shadow"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_normal" >
+
+                <TextView
+                    android:id="@+id/tv_pricingname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:padding="@dimen/margin_small"
+                    android:text="@string/PriceSummary"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/totalprice_text_size" />
+
+                <LinearLayout
+                    android:id="@+id/llNumOfPersonsADT"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_marginTop="@dimen/margin_small"
+                    android:gravity="right|center_vertical"
+                    android:orientation="horizontal"
+                    android:visibility="visible" >
+
+                    <TextView
+                        android:id="@+id/tvPricePersonADT"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+
+                    <TextView
+                        android:id="@+id/personColan"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:text="@string/Colon"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/text_size_normal" />
+
+                    <TextView
+                        android:id="@+id/tvNumOfPersonsADT"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llNumOfPersonsCHD"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_marginTop="@dimen/margin_small"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tvPricePersonCHD"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+
+                    <TextView
+                        android:id="@+id/colanNumberOfChild"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/Colon"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/text_size_normal" />
+
+                    <TextView
+                        android:id="@+id/tvNumOfPersonsCHD"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llNumOfPersonsINF"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_marginTop="@dimen/margin_small"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tvPricePersonINF"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/Colon"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/text_size_normal" />
+
+                    <TextView
+                        android:id="@+id/tvNumOfPersonsINF"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llTaxNSurcharge"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_small"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:gravity="right|center_vertical"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/tvPriceTax"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+
+                    <TextView
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:text="@string/Colon"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/text_size_normal" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="@string/TaxSurcharge"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/totalprice_traveldet" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llReturnDiscount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="@dimen/margin_normal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text="@string/ReturnDiscount"
+                    android:textSize="@dimen/totalprice_traveldet"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvReturnBookingDiscount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:gravity="right"
+                    android:textColor="@color/text_color_red"
+                    android:textSize="@dimen/totalprice_traveldet"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/promodetail_margn"
+                android:background="@drawable/background_with_shadow"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="@dimen/margin_normal"
+                android:paddingBottom="@dimen/totalprice_strip"
+                android:paddingTop="@dimen/totalprice_strip" >
+
+                <TextView
+                    android:id="@+id/tvPriceTotal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:gravity="right"
+                    android:textColor="@color/text_color_red"
+                    android:textSize="@dimen/tvTotal_size" />
+
+                <TextView
+                    android:id="@+id/tvColan"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text="@string/Colon"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tvTotal_size" />
+
+                <TextView
+                    android:id="@+id/tvPriceTotalTag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:gravity="right"
+                    android:text="@string/Total"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tvTotal_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llTermsCheck"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_normal"
+                android:layout_marginRight="@dimen/margin_small"
+                android:gravity="center_vertical"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/ivTermsCheck"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/uncheck" />
+
+                <TextView
+                    android:id="@+id/tvTermsCheckNew"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:gravity="right"
+                    android:text="@string/IAccept"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/totalprice_traveldet"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvTermsCheck"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:gravity="right"
+                    android:text="@string/TermsAndConditions"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/totalprice_traveldet"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

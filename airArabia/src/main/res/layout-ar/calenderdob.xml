@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llmain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_color_red"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_small" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/margin_normal" >
+
+            <TextView
+                android:id="@+id/tvCancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:text="@string/Back"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_back_all_screen"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvSelectHeader"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.30"
+                android:gravity="center_horizontal"
+                android:paddingLeft="@dimen/margin_normal"
+                android:text="@string/calendar"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_header_all_screen" />
+
+            <TextView
+                android:id="@+id/tvDone"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:paddingBottom="@dimen/margin_very_small"
+                android:paddingTop="@dimen/margin_very_small"
+                android:text="@string/done"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_back_all_screen" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/lltitlebardob"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/ivCalRightArrowdob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_small"
+                android:contentDescription="@string/action_settings"
+                android:padding="@dimen/margin_small"
+                android:src="@drawable/arrow_right_red" />
+
+            <TextView
+                android:id="@+id/tvSelMonthYeardob"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/text_color"
+                android:textIsSelectable="true"
+                android:textSize="@dimen/text_size_header_all_screen" />
+
+            <ImageView
+                android:id="@+id/ivCalLeftArrowdob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_small"
+                android:contentDescription="@string/action_settings"
+                android:padding="@dimen/margin_small"
+                android:src="@drawable/arrow_left_red" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:id="@+id/llcalBodydob"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible" >
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

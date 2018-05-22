@@ -1,0 +1,74 @@
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!-- xmlns:tools="http://schemas.android.com/tools" -->
+<!-- android:layout_width="match_parent" -->
+<!-- android:layout_height="wrap_content" -->
+<!-- android:orientation="vertical" > -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llFlightDetailsPromoFare"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_fare_top_selected"
+    android:gravity="center|center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/margin_normal"
+    android:paddingRight="@dimen/margin_normal" >
+
+    
+
+    
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center|left"
+        android:orientation="vertical" >
+
+
+        <TextView
+            android:id="@+id/tvFlightDetailsFare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/text_color_red"
+            android:textSize="@dimen/tvTotal_size" />
+         <View
+            android:id="@+id/viewTop1"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/margin_normal"
+            android:visibility="visible" />
+    </LinearLayout>
+    
+    <ImageView
+        android:id="@+id/ivFlightDetailsFareInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/info_question_mark"
+        android:visibility="gone" />
+    
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center|left"
+        android:orientation="vertical" >
+
+       
+
+        <TextView
+            android:id="@+id/tvFlightDetailsFareName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right|center_vertical"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textsize_18" />
+        
+         <View
+            android:id="@+id/viewTop"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/margin_normal"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</LinearLayout> <!-- </LinearLayout> -->

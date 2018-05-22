@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical|right"
+    android:orientation="horizontal"
+    android:paddingEnd="10dp"
+    android:paddingLeft="10dp"
+    android:paddingStart="10dp"
+    android:paddingTop="10dp" >
+
+    <TextView
+        android:id="@+id/tvPersonalTripItemAmount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0.65"
+        android:text="@string/Select"
+        android:textColor="@color/text_color_red"
+        android:textSize="@dimen/text_size_16"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/llPersonalTripItemAmount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_weight="1.5"
+        android:background="@drawable/spn_drop"
+        android:gravity="right"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginEnd="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginStart="5dp"
+            android:gravity="right"
+            android:padding="2dp"
+            android:src="@drawable/dropdown" />
+
+        <Spinner
+            android:id="@+id/spPersonalTripItemAmount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/margin_small"
+            android:layout_marginStart="@dimen/margin_small"
+            android:layout_weight="1"
+            android:background="@null"
+            android:cacheColorHint="@null"
+            android:drawSelectorOnTop="true"
+            android:dropDownSelector="@color/transparent_color"
+            android:gravity="center|right"
+            android:listSelector="@color/transparent_color"
+            android:paddingLeft="@dimen/margin_small"
+            android:paddingStart="@dimen/margin_small"
+            android:popupBackground="@color/transparent_color" />
+    </LinearLayout>
+
+    <!--
+    <LinearLayout
+        android:id="@+id/llPersonalTripItemAmount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1.5"
+        android:paddingBottom="@dimen/margin_small"
+        android:paddingTop="@dimen/margin_small"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_normal"
+            android:background="@drawable/spn_drop"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+            
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="3dp"
+                android:gravity="center_vertical"
+                android:padding="2dp"
+                android:src="@drawable/dropdown" />
+
+            <Spinner
+                android:id="@+id/spPersonalTripItemAmount"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:cacheColorHint="@null"
+                android:drawSelectorOnTop="true"
+                android:dropDownSelector="@color/transparent_color"
+                android:gravity="center_vertical"
+                android:listSelector="@color/transparent_color"
+                android:paddingLeft="@dimen/margin_small"
+                android:popupBackground="@color/transparent_color" 
+                />
+
+        </LinearLayout>
+    </LinearLayout>    -->
+
+    <TextView
+        android:id="@+id/tvPersonalTripItemName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.7"
+        android:gravity="center_vertical|right"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textsize_16" />
+
+</LinearLayout>

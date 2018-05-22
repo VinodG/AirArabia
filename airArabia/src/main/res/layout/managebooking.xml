@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:id="@+id/llMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="@drawable/bg_book_flight"
+    android:orientation="vertical" 
+     android:visibility="visible">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp" 
+       >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/manage_flight_cover" />
+
+            <TextView
+                android:id="@+id/tvManageBookingTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/EnterYourReservationDetails"
+                android:textColor="@color/text_color"
+                android:layout_marginBottom="20dp"
+                android:textSize="@dimen/textsize_16" />
+
+            <TextView
+                android:id="@+id/tv_pnrTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/ReservationNumber"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/textsize_12"
+                android:visibility="visible" />
+
+            <EditText
+                android:id="@+id/edt_pnr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:hint="@string/EnterReservationNumber"
+                android:inputType="number"
+                android:maxLength="8"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/text_color_gray"
+                android:textSize="@dimen/textsize_16" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sep" />
+
+            <TextView
+                android:id="@+id/edt_lastnameinmanagebookingTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/ContactPersonsLastName"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/textsize_12"
+                android:visibility="visible" />
+
+            <EditText
+                android:id="@+id/edt_lastnameinmanagebooking"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:background="@null"
+                android:hint="@string/EnterContactPersonsLastName"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:imeOptions="actionDone"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/text_color_gray"
+                android:textSize="@dimen/textsize_16" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sep" />
+
+            <TextView
+                android:id="@+id/tv_depaturedateTag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/DepartureDate"
+                android:textColor="@color/text_color_red"
+                android:textSize="@dimen/textsize_12"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tv_depaturedate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="@null"
+                android:hint="@string/EnterDepartureDate"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/text_color_gray"
+                android:textSize="@dimen/textsize_16" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sep" />
+        </TableLayout>
+    </ScrollView>
+  </LinearLayout>
+ <!--  new added  -->
+    
+    <WebView
+        android:id="@+id/wvMangaeBook"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:visibility="gone" />
+</LinearLayout>

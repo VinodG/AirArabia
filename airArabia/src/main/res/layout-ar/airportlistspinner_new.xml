@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin_normal"
+    android:orientation="vertical" >
+
+  <TextView
+        android:id="@+id/tv_listairportadaptext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textsize_17"/>
+    <TextView
+        android:id="@+id/tv_listairportadaptextCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:gravity="right"
+        android:textColor="@color/text_color_gray"
+        android:textSize="@dimen/textsize_13"/>
+    
+    <ImageView
+        android:id="@+id/imgSep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/seperator_full"
+        android:layout_marginTop="@dimen/margin_small"
+        android:visibility="gone" />
+
+</LinearLayout>

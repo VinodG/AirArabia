@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\add_new_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\add_new_passenger.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\favourite_destination.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\favourite_destination.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\favourite_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\favourite_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\menu\\saved_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\menu\\saved_passenger.xml"
+    }
+]

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_bg"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_lang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:background="@drawable/btn_languagebg"
+        android:visibility="gone" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:scrollbars="none" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/table_margin"
+            android:layout_marginRight="@dimen/table_margin"
+            android:layout_marginTop="@dimen/pager_margin_top"
+            android:stretchColumns="1" >
+
+            <com.winit.airarabia.utils.AutoScrollViewPager
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/pager_hieght"
+                android:overScrollMode="never" >
+            </com.winit.airarabia.utils.AutoScrollViewPager>
+
+            <LinearLayout
+                android:id="@+id/llPagerTab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/pagerstrips_margin_top"
+                android:layout_marginTop="@dimen/pagerstrips_margin_top"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_managebooking"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/manage_booking1"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+                    android:text="@string/ManageBooking"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+
+                <TextView
+                    android:id="@+id/tv_book_flight"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/plane_big"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+					android:singleLine="true"
+                    android:text="@string/BookFlight_dashboard"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_flightschedule"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/timetable"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+                    android:text="@string/TimeTable"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+
+                <TextView
+                    android:id="@+id/tv_check_in"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/checkin"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+                    android:singleLine="true"
+                    android:text="@string/CheckInOnline"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_contactus"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/margin_small"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/contactus"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+                    android:text="@string/ContactUs"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+
+                <TextView
+                    android:id="@+id/tv_airRewards"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_middle_small"
+                    android:drawablePadding="-10dp"
+                    android:drawableTop="@drawable/air_rewards"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/margin_very_small"
+                    android:paddingRight="@dimen/margin_very_small"
+                    android:paddingTop="@dimen/margin_normal"
+                    android:text="@string/airewards"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/tiles_text" />
+            </LinearLayout>
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

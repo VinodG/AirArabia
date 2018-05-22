@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:background="@drawable/rect_bg_white"
+    android:gravity="center_vertical" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@drawable/rect_bg_white"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/llPersonalTripItemCross"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="3dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp"
+            android:visibility="visible" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img_cancel_meal_new"
+                android:contentDescription="@string/app_name" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvPersonalTripItemAEDValue"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:gravity="center_vertical|right"
+            android:minLines="2"
+            android:paddingRight="12dp"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textsize_16" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvPersonalTripItemAmount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical|right"
+        android:minLines="2"
+        android:text="@string/Select"
+        android:textColor="@color/text_color_red"
+        android:textSize="@dimen/textsize_16"
+        android:visibility="visible" />
+
+</LinearLayout>

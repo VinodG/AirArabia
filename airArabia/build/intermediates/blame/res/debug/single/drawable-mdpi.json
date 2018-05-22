@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btnmodifysearch_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btnmodifysearch_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bgselect_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\bgselect_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_plus.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_plus.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_more_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_more_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\input_cardnum.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\input_cardnum.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rightarrow.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\rightarrow.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\insurance.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\insurance.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\return2.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\return2.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\input_year.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\input_year.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\check.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\check.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flight_connecting.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\flight_connecting.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_checkonline_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_checkonline_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_arrow_up.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_arrow_up.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flight_connecting_new.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\flight_connecting_new.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\reachus.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\reachus.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_managebooking_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_managebooking_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\normalbtnbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\normalbtnbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\meal_hover.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\meal_hover.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tblheaderbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\tblheaderbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btnbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btnbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redcircleplus.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redcircleplus.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_homebg_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_homebg_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\selectedbtnbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\selectedbtnbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\services_hover.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\services_hover.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_whitecircle.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_whitecircle.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\oneway1.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\oneway1.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\baggage.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\baggage.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_managebooking_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_managebooking_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_bookflight_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_bookflight_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\calmonthheader.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\calmonthheader.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_background_fenetre_jauge.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_background_fenetre_jauge.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_whitearrowright.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_whitearrowright.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_salalah.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_salalah.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\input.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\input.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\insurance_hover.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\insurance_hover.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\continue2.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\continue2.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_arrow_up1.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_arrow_up1.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_baby.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\icon_baby.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btnmodifysearch.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btnmodifysearch.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_visaassistance_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_visaassistance_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_bookflightbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_bookflightbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btseatselected.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btseatselected.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_reachus_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_reachus_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\baggage_hover.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\baggage_hover.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\arrow_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gry.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\gry.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\selectflightbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\selectflightbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_checkonline_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_checkonline_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_specialoffer_en.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_specialoffer_en.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_white.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\arrow_white.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_arrow_down.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_arrow_down.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redcircleminus.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redcircleminus.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_bg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_bg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flight_oneway.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\flight_oneway.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_plus_h.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_plus_h.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bluecal.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\bluecal.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seat_hover.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\seat_hover.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_cancel_pop_booking.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_cancel_pop_booking.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_text_btn.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\bg_text_btn.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_specialoffers.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_specialoffers.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_more_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_more_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_popupbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_popupbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_back.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btseatselected_x.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btseatselected_x.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_specialoffer_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_specialoffer_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redarrow1.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redarrow1.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\popupcenter.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\popupcenter.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redcircle.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redcircle.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tblbuttomcellbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\tblbuttomcellbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\iconretina.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\iconretina.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dot1.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\dot1.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\meal.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\meal.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_minus_h.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_minus_h.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flight.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\flight.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_reachus_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_reachus_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_calander.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\icon_calander.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_adult.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\icon_adult.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_separator.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_separator.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_inputfield.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_inputfield.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\leftarrow.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\leftarrow.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flight_return.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\flight_return.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_middleinput.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_middleinput.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redarrow_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redarrow_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tic.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\tic.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\graybtnbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\graybtnbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_navbar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_navbar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_bookflight_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_bookflight_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seat.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\seat.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_minus.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_minus.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_languagebg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_languagebg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sourcetodestibg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\sourcetodestibg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\input_month.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\input_month.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_datebg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_datebg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\uncheck.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\uncheck.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_whitearrowleft.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_whitearrowleft.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\services.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\services.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_arrow_down1.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_arrow_down1.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_redarrow.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_redarrow.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_visaassistance_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_visaassistance_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_home.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_dashboardbg.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\img_dashboardbg.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_homebg_ar.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\btn_homebg_ar.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bgselect.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\bgselect.png"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_child.png",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\drawable-mdpi\\icon_child.png"
+    }
+]

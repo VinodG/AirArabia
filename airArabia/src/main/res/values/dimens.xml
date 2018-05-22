@@ -1,0 +1,138 @@
+<resources>
+
+    <!-- Margin Sizes -->
+    <dimen name="margin_small">3dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_normal_big">16dp</dimen>
+    <dimen name="margin_9">20dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_ex_large">25dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="table_margin">35dp</dimen>
+    <!-- Text Sizes -->
+
+    <dimen name="text_size_extra_large">20sp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_very_small">10sp</dimen>
+    <dimen name="text_size_btn">14sp</dimen>
+    <dimen name="text_size_back_normal">10sp</dimen>
+    <dimen name="text_size_very_large">19sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+     <dimen name="text_size_11">11sp</dimen>
+    <!-- <dimen name="text_size_calendar">12sp</dimen> -->
+
+    <!-- Other Sizes -->
+    <dimen name="bookfilght_from_mar1">5dip</dimen>
+    <dimen name="bookfilght_from_mar">10dip</dimen>
+    <dimen name="meals_width">93dip</dimen>
+    <dimen name="meals_height">93dip</dimen>
+    <dimen name="home_lang_mar_top">40px</dimen>
+    <dimen name="home_lang_mar_bottom">28px</dimen>
+    <dimen name="spinner_baggage_height">30dp</dimen>
+    <dimen name="meal_item_height">60dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="pager_hieght">113dp</dimen>
+    <dimen name="margin_login_top">40dp</dimen>
+    <dimen name="size_header_btn">40dp</dimen>
+      <dimen name="meals_width_new">90dp</dimen>
+      <dimen name="meals_height_new">75dp</dimen>
+      
+      <!-- SearchBar Sizes -->
+    <dimen name="search_height">21sp</dimen>
+    
+   
+    <!-- BaseActivity -->
+    <dimen name="headersize">20sp</dimen>
+    <dimen name="backsize">14sp</dimen>
+    <dimen name="searchflightsize">21sp</dimen>
+
+    <!-- BookFlight Activity -->
+    
+    <dimen name="tiles_text">16sp</dimen>
+    <dimen name="top_fillform_text">10dp</dimen>
+    <dimen name="top_fillform_text_pad">2dp</dimen>
+    <dimen name="onewaysize">16sp</dimen>
+    <dimen name="arraivalsize">19sp</dimen>
+    <dimen name="passcountsize">28sp</dimen>
+    <dimen name="llretutn_top">11dp</dimen>
+    <dimen name="tvreturnedit_bot">8dp</dimen>
+
+  		<!-- View Pager Margin -->
+    <dimen name="pager_margin_top">15sp</dimen>
+    
+  		<!-- SelectFlightActivity Margins -->
+    <dimen name="tvTotal_size">16sp</dimen>
+    <dimen name="headder_size">13sp</dimen>
+    <dimen name="data_onheader_size">11sp</dimen>
+    <dimen name="calender_size">14sp</dimen>
+    
+    <!-- FlightOneWayAdapter Margins -->
+    <dimen name="textall_size">11sp</dimen>
+    <dimen name="onestop_size">12sp</dimen>
+
+    
+    <!-- SelectAirport Margins -->
+    <dimen name="text_origin_small">18sp</dimen>
+    <dimen name="text_origin">18sp</dimen>
+    <dimen name="text_airportname">17sp</dimen>
+    <dimen name="text_airportcountry">11sp</dimen>
+    <dimen name="appbar_headr_size">5dp</dimen>
+    <dimen name="expand_head_size">10dp</dimen>
+    <dimen name="curency_head_size">15dp</dimen>
+    <dimen name="totalprice_text_size">17dp</dimen>
+    
+    <!-- FlightOneWayAdapter Margins -->
+    <dimen name="promofairdetail_name">14sp</dimen>
+    <dimen name="promofairdetail">12sp</dimen>
+    <dimen name="promodetail_margn">5dp</dimen>
+    <dimen name="totalprice_traveldet">14sp</dimen>
+    <dimen name="totalprice_strip">25dp</dimen>
+    <dimen name="tvPersonsCount_size">15dp</dimen>
+    <dimen name="tvselectflight_size">16sp</dimen>
+    
+    
+    <dimen name="passeengerinfo_popup">4dp</dimen>
+    <dimen name="passeengerinfo_forlogintext">17sp</dimen>
+    <dimen name="passeengerinfo_fortiletag">13sp</dimen>
+    <dimen name="passeengercontactinfo_header">15sp</dimen>
+    <dimen name="passeengercontactinfo_header_bot">7sp</dimen>
+    <dimen name="select_nationality">17sp</dimen>
+    
+    <dimen name="title_popup_padding">8dp</dimen>
+    
+    <dimen name="textsize_33">33sp</dimen>
+    <dimen name="textsize_30">30sp</dimen>
+    <dimen name="textsize_27">27sp</dimen>
+    <dimen name="textsize_26">26sp</dimen>
+    <dimen name="textsize_24">24sp</dimen>
+    <dimen name="textsize_23">23sp</dimen>
+    <dimen name="textsize_22">22sp</dimen>
+    <dimen name="textsize_21">21sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="textsize_19">19sp</dimen>
+    <dimen name="textsize_18">18sp</dimen>
+    <dimen name="textsize_17">17sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_15">15sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_13">13sp</dimen>
+    <dimen name="textsize_12">12sp</dimen>
+    <dimen name="textsize_11">11sp</dimen>
+    <dimen name="textsize_10">10sp</dimen>
+    <dimen name="checkbox_text">14sp</dimen>
+    
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    
+    <dimen name="tiles_text_fr">12sp</dimen>
+    <dimen name="textsizecal_14">14sp</dimen>
+        <dimen name="meals_width1">90dip</dimen>
+    
+</resources>

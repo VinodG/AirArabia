@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.arabariademo.MainActivity" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_book_flight"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/iv1"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/airewards_cover" />
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/margin_ex_large"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="@dimen/margin_small"
+                android:text="@string/info"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_15" />
+
+            <Button
+                android:id="@+id/btnEarning"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_very_small"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="@dimen/margin_very_small"
+                android:background="@drawable/background_with_shadow"
+                android:drawableRight="@drawable/arrow"
+                android:gravity="start"
+                android:padding="@dimen/margin_normal"
+                android:text="@string/earning"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_16" />
+
+            <Button
+                android:id="@+id/btnRedeeming"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_very_small"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="@dimen/margin_very_small"
+                android:background="@drawable/background_with_shadow"
+                android:drawableRight="@drawable/arrow"
+                android:gravity="start"
+                android:padding="@dimen/margin_normal"
+                android:text="@string/redeeming"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_16" />
+
+            <Button
+                android:id="@+id/btnFaqs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_very_small"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="@dimen/margin_very_small"
+                android:background="@drawable/background_with_shadow"
+                android:drawableRight="@drawable/arrow"
+                android:gravity="start"
+                android:padding="@dimen/margin_normal"
+                android:text="@string/faq"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_16" />
+
+            <Button
+                android:id="@+id/btnJoinNow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_very_small"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="@dimen/margin_very_small"
+                android:background="@drawable/background_with_shadow"
+                android:drawableRight="@drawable/arrow"
+                android:gravity="start"
+                android:padding="@dimen/margin_normal"
+                android:text="@string/join_now"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_16" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

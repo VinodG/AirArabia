@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\empty_text.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\empty_text.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\edit_saved_passanger_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\edit_saved_passanger_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalize_seat_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalize_seat_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_meal_selectitem.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_meal_selectitem.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalize_trip_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalize_trip_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\email_us.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\email_us.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\citylistspinner.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\citylistspinner.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\seat_gate_error.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\seat_gate_error.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\calender.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\calender.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\fare_list_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\fare_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\reachus.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\reachus.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\bookflight.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\bookflight.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\class_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\class_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\payment.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\payment.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favourite_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_favourite_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\paymentnnew.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\paymentnnew.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\layoutcitycallcenterscell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\layoutcitycallcenterscell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\officelocation.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\officelocation.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flight_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flight_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_meal_item_sub_meal.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_meal_item_sub_meal.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AirArabia\\urlImageViewHelper\\build\\intermediates\\bundles\\default\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favourite_destination.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_favourite_destination.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_flight_list_item_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_flight_list_item_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\map.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\map.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_currency_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_currency_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\summary_person_info_item_sub.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\summary_person_info_item_sub.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\more.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\visarequirement.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\visarequirement.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\bookingsummary.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\bookingsummary.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\insurance_popup_bottom.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\insurance_popup_bottom.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\insurance_item_popup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\insurance_item_popup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\meal_sub_item_text_price.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\meal_sub_item_text_price.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_airewards_webviw.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_airewards_webviw.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_new_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_add_new_passenger.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\airportlistspinner_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\airportlistspinner_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\first_view.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\first_view.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_menu_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\drawer_menu_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_meal_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_meal_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_flight_list_item_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_flight_list_item_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_menu_list_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\drawer_menu_list_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_airewards.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_airewards.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\callcenters.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\callcenters.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\selectflight.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\selectflight.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_meal_mainmenu_gridcell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_meal_mainmenu_gridcell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\languagepopup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\languagepopup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\empty_layout.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\empty_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\4ab488a107847cebf010f18ebee4899cd76e9834\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\4ab488a107847cebf010f18ebee4899cd76e9834\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\airportlistspinner_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\airportlistspinner_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\currency_list.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\currency_list.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\calenderdob.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\calenderdob.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_airport_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_airport_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\second_view.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\second_view.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalize_travelinsurance_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalize_travelinsurance_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\loader.xml",
+        "source": "D:\\AirArabia\\urlImageViewHelper\\build\\intermediates\\bundles\\default\\res\\layout\\loader.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_main.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\calendar_main.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\passengerinformation_contact.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\passengerinformation_contact.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\selectflight_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\selectflight_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_title_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_title_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_num_picker.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\wheel_num_picker.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flight_seats_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flight_seats_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\payment_summary.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\payment_summary.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\visaassistance.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\visaassistance.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flight_names_stops_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flight_names_stops_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\airportlistspinner.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\airportlistspinner.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flightschedule.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flightschedule.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_seat_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_seat_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_airport.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_airport.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\saved_passanger_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\saved_passanger_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\termsndconditionspopup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\termsndconditionspopup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\gate_seat_notallowed_popup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\gate_seat_notallowed_popup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_currency.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_currency.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pre_login.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_pre_login.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_trip_details_item_sub.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_trip_details_item_sub.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saved_passenger_chooser.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_saved_passenger_chooser.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_user.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\feedback_user.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\base.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_myprofile.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flight_schedule_names_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flight_schedule_names_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saved_passenger.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_saved_passenger.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_meal_mainmenu.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_meal_mainmenu.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\no_data_found.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\meal_sub_item_text.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\meal_sub_item_text.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\favourite_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\favourite_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\layoutcitylocationcell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\layoutcitylocationcell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cover_images.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\cover_images.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_trip_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_trip_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\baggagelist_spinner_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\baggagelist_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\empty_layout_dialog.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\empty_layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_managebooking_webview.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_managebooking_webview.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_menu_footer.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\drawer_menu_footer.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\pay_sum_flight_details_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\pay_sum_flight_details_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flight_names_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flight_names_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_trip_details_item_sub_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_trip_details_item_sub_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalizeyourtrip.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalizeyourtrip.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\calender_month_header.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\calender_month_header.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalise_item_sub.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalise_item_sub.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_lang_first_screen.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\activity_choose_lang_first_screen.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\flightschedule_check.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\flightschedule_check.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\checkinonline.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\checkinonline.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_meal_sub_item_listcell.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_meal_sub_item_listcell.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\adult_info_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\adult_info_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\listitemairportlist.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\listitemairportlist.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\totalprice_flight_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\totalprice_flight_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\login_screen.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\div_flight_stops.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\div_flight_stops.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\passengerinformation.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\passengerinformation.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\4ab488a107847cebf010f18ebee4899cd76e9834\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\bookingseat_liststyle.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\bookingseat_liststyle.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_title_item_withcheck.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_title_item_withcheck.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\insurance_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\insurance_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\popup_titles.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\popup_titles.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalize_airportserv_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalize_airportserv_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\managebooking.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\managebooking.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\return_flight_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\return_flight_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\totalprice.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\totalprice.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\base_drawer.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\base_drawer.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\40f5753ce5077aea11caa1200d8a51e68c448fd6\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\0fafb1e54761ff33da30b293c76e7488d750794d\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\fare_details.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\fare_details.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\find_booking.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\find_booking.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\summary_person_info_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\summary_person_info_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\custom_popup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\custom_popup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\select_flight_list_item.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\select_flight_list_item.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalizeyourtrip_new.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalizeyourtrip_new.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\personalize_meal_details_selection.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\personalize_meal_details_selection.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\4ab488a107847cebf010f18ebee4899cd76e9834\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\layout\\text.xml"
+    }
+]

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_normal"
+        android:text="@string/SeatPopupHead"
+        android:textStyle="normal" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP1"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP2"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP3"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP4"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP5"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:background="@drawable/bluecal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SeatPopupP6"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

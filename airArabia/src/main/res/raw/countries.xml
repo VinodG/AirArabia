@@ -1,0 +1,206 @@
+<Countries>
+	<Country CountryId="500" CountryCode="" CountryName="(DR) Congolese"></Country>
+	<Country CountryId="501" CountryCode="" CountryName="Afghan"></Country>
+	<Country CountryId="502" CountryCode="" CountryName="Albanian"></Country>
+	<Country CountryId="503" CountryCode="" CountryName="Algerian"></Country>
+	<Country CountryId="504" CountryCode="" CountryName="American"></Country>
+	<Country CountryId="505" CountryCode="" CountryName="Andorran"></Country>
+	<Country CountryId="506" CountryCode="" CountryName="Angolan"></Country>
+	<Country CountryId="507" CountryCode="" CountryName="Aramean"></Country>
+	<Country CountryId="508" CountryCode="" CountryName="Argentine"></Country>
+	<Country CountryId="509" CountryCode="" CountryName="Armenian"></Country>
+	<Country CountryId="510" CountryCode="" CountryName="Assyrian"></Country>
+	<Country CountryId="511" CountryCode="" CountryName="Australian"></Country>
+	<Country CountryId="512" CountryCode="" CountryName="Austrian"></Country>
+	<Country CountryId="513" CountryCode="" CountryName="Azeri"></Country>
+	<Country CountryId="514" CountryCode="" CountryName="Bahamian"></Country>
+	<Country CountryId="515" CountryCode="" CountryName="Bahraini"></Country>
+	<Country CountryId="516" CountryCode="" CountryName="Bangladeshi"></Country>
+	<Country CountryId="517" CountryCode="" CountryName="Barbadian"></Country>
+	<Country CountryId="518" CountryCode="" CountryName="Basotho"></Country>
+	<Country CountryId="519" CountryCode="" CountryName="Basque"></Country>
+	<Country CountryId="520" CountryCode="" CountryName="Belarusian"></Country>
+	<Country CountryId="521" CountryCode="" CountryName="Belgian"></Country>
+	<Country CountryId="522" CountryCode="" CountryName="Belizean"></Country>
+	<Country CountryId="523" CountryCode="" CountryName="Beninese"></Country>
+	<Country CountryId="524" CountryCode="" CountryName="Bhutanese"></Country>
+	<Country CountryId="703" CountryCode="" CountryName="Bolivian"></Country>
+	<Country CountryId="525" CountryCode="" CountryName="Bosnian"></Country>
+	<Country CountryId="526" CountryCode="" CountryName="Botswanan"></Country>
+	<Country CountryId="527" CountryCode="" CountryName="Brazilian"></Country>
+	<Country CountryId="528" CountryCode="" CountryName="British"></Country>
+	<Country CountryId="529" CountryCode="" CountryName="Bruneian"></Country>
+	<Country CountryId="530" CountryCode="" CountryName="Bulgarian"></Country>
+	<Country CountryId="531" CountryCode="" CountryName="Burkinabè"></Country>
+	<Country CountryId="532" CountryCode="" CountryName="Burmese"></Country>
+	<Country CountryId="533" CountryCode="" CountryName="Burundian"></Country>
+	<Country CountryId="534" CountryCode="" CountryName="CAR national"></Country>
+	<Country CountryId="535" CountryCode="" CountryName="Cambodian"></Country>
+	<Country CountryId="536" CountryCode="" CountryName="Cameroonian"></Country>
+	<Country CountryId="537" CountryCode="" CountryName="Canadian"></Country>
+	<Country CountryId="538" CountryCode="" CountryName="Cape Verdean"></Country>
+	<Country CountryId="539" CountryCode="" CountryName="Cayman Islander"></Country>
+	<Country CountryId="540" CountryCode="" CountryName="Chadian"></Country>
+	<Country CountryId="541" CountryCode="" CountryName="Chilean"></Country>
+	<Country CountryId="542" CountryCode="" CountryName="Chinese"></Country>
+	<Country CountryId="543" CountryCode="" CountryName="Colombian"></Country>
+	<Country CountryId="544" CountryCode="" CountryName="Comorian"></Country>
+	<Country CountryId="545" CountryCode="" CountryName="Congolese"></Country>
+	<Country CountryId="546" CountryCode="" CountryName="Cook Islander"></Country>
+	<Country CountryId="547" CountryCode="" CountryName="Costa Rican"></Country>
+	<Country CountryId="548" CountryCode="" CountryName="Croatian"></Country>
+	<Country CountryId="549" CountryCode="" CountryName="Cuban"></Country>
+	<Country CountryId="550" CountryCode="" CountryName="Cypriot"></Country>
+	<Country CountryId="551" CountryCode="" CountryName="Czech"></Country>
+	<Country CountryId="552" CountryCode="" CountryName="Dane"></Country>
+	<Country CountryId="553" CountryCode="" CountryName="Djiboutian "></Country>
+	<Country CountryId="554" CountryCode="" CountryName="Dominican"></Country>
+	<Country CountryId="555" CountryCode="" CountryName="Dutch"></Country>
+	<Country CountryId="556" CountryCode="" CountryName="East Timorese"></Country>
+	<Country CountryId="557" CountryCode="" CountryName="Ecuadorian"></Country>
+	<Country CountryId="558" CountryCode="" CountryName="Egyptian"></Country>
+	<Country CountryId="559" CountryCode="" CountryName="Equatorial Guinea national"></Country>
+	<Country CountryId="560" CountryCode="" CountryName="Eritrean"></Country>
+	<Country CountryId="561" CountryCode="" CountryName="Estonian"></Country>
+	<Country CountryId="562" CountryCode="" CountryName="Ethiopian"></Country>
+	<Country CountryId="563" CountryCode="" CountryName="Faeroese"></Country>
+	<Country CountryId="564" CountryCode="" CountryName="Fijian"></Country>
+	<Country CountryId="565" CountryCode="" CountryName="Filipino"></Country>
+	<Country CountryId="566" CountryCode="" CountryName="Finn"></Country>
+	<Country CountryId="567" CountryCode="" CountryName="French"></Country>
+	<Country CountryId="568" CountryCode="" CountryName="Gabonese"></Country>
+	<Country CountryId="569" CountryCode="" CountryName="Gambian"></Country>
+	<Country CountryId="570" CountryCode="" CountryName="Georgian"></Country>
+	<Country CountryId="571" CountryCode="" CountryName="German"></Country>
+	<Country CountryId="572" CountryCode="" CountryName="Ghanaian"></Country>
+	<Country CountryId="573" CountryCode="" CountryName="Greek"></Country>
+	<Country CountryId="574" CountryCode="" CountryName="Greenlander"></Country>
+	<Country CountryId="575" CountryCode="" CountryName="Grenadian"></Country>
+	<Country CountryId="576" CountryCode="" CountryName="Guatemalan"></Country>
+	<Country CountryId="577" CountryCode="" CountryName="Guianese"></Country>
+	<Country CountryId="578" CountryCode="" CountryName="Guianese (French)"></Country>
+	<Country CountryId="579" CountryCode="" CountryName="Guinea-Bissau national"></Country>
+	<Country CountryId="580" CountryCode="" CountryName="Guyanese"></Country>
+	<Country CountryId="581" CountryCode="" CountryName="Haitian"></Country>
+	<Country CountryId="582" CountryCode="" CountryName="Honduran"></Country>
+	<Country CountryId="583" CountryCode="" CountryName="Hungarian"></Country>
+	<Country CountryId="584" CountryCode="" CountryName="Icelander"></Country>
+	<Country CountryId="585" CountryCode="" CountryName="Indian"></Country>
+	<Country CountryId="586" CountryCode="" CountryName="Indonesian"></Country>
+	<Country CountryId="587" CountryCode="" CountryName="Iranian"></Country>
+	<Country CountryId="588" CountryCode="" CountryName="Iraqi"></Country>
+	<Country CountryId="589" CountryCode="" CountryName="Irish "></Country>
+	<Country CountryId="590" CountryCode="" CountryName="Italian"></Country>
+	<Country CountryId="591" CountryCode="" CountryName="Ivorian"></Country>
+	<Country CountryId="592" CountryCode="" CountryName="Jamaican"></Country>
+	<Country CountryId="593" CountryCode="" CountryName="Japanese"></Country>
+	<Country CountryId="594" CountryCode="" CountryName="Jordanian"></Country>
+	<Country CountryId="595" CountryCode="" CountryName="Kazakh"></Country>
+	<Country CountryId="596" CountryCode="" CountryName="Kenyan"></Country>
+	<Country CountryId="597" CountryCode="" CountryName="Kiribatian"></Country>
+	<Country CountryId="598" CountryCode="" CountryName="Kittsians &amp; Nevisian"></Country>
+	<Country CountryId="599" CountryCode="" CountryName="Korean"></Country>
+	<Country CountryId="600" CountryCode="" CountryName="Kosovan"></Country>
+	<Country CountryId="601" CountryCode="" CountryName="Kurdish"></Country>
+	<Country CountryId="602" CountryCode="" CountryName="Kuwaiti"></Country>
+	<Country CountryId="603" CountryCode="" CountryName="Kyrgyz"></Country>
+	<Country CountryId="604" CountryCode="" CountryName="Lao"></Country>
+	<Country CountryId="605" CountryCode="" CountryName="Latvian"></Country>
+	<Country CountryId="606" CountryCode="" CountryName="Lebanese"></Country>
+	<Country CountryId="607" CountryCode="" CountryName="Libyan"></Country>
+	<Country CountryId="608" CountryCode="" CountryName="Lithuanian"></Country>
+	<Country CountryId="609" CountryCode="" CountryName="Luxembourgeoi"></Country>
+	<Country CountryId="610" CountryCode="" CountryName="Macedonian"></Country>
+	<Country CountryId="611" CountryCode="" CountryName="Malagasy"></Country>
+	<Country CountryId="612" CountryCode="" CountryName="Malawian"></Country>
+	<Country CountryId="613" CountryCode="" CountryName="Malaysian"></Country>
+	<Country CountryId="614" CountryCode="" CountryName="Maldivian"></Country>
+	<Country CountryId="615" CountryCode="" CountryName="Malian"></Country>
+	<Country CountryId="616" CountryCode="" CountryName="Maltese"></Country>
+	<Country CountryId="617" CountryCode="" CountryName="Marshallese"></Country>
+	<Country CountryId="618" CountryCode="" CountryName="Mauritanian"></Country>
+	<Country CountryId="619" CountryCode="" CountryName="Mauritian"></Country>
+	<Country CountryId="620" CountryCode="" CountryName="Mexican"></Country>
+	<Country CountryId="621" CountryCode="" CountryName="Micronesian"></Country>
+	<Country CountryId="622" CountryCode="" CountryName="Moldovan"></Country>
+	<Country CountryId="623" CountryCode="" CountryName="Monegasque people"></Country>
+	<Country CountryId="624" CountryCode="" CountryName="Mongolian"></Country>
+	<Country CountryId="625" CountryCode="" CountryName="Montserrian"></Country>
+	<Country CountryId="626" CountryCode="" CountryName="Moroccan"></Country>
+	<Country CountryId="627" CountryCode="" CountryName="Mozambican"></Country>
+	<Country CountryId="628" CountryCode="" CountryName="Namibian"></Country>
+	<Country CountryId="629" CountryCode="" CountryName="Nationals of C Dominica"></Country>
+	<Country CountryId="630" CountryCode="" CountryName="Nauruan"></Country>
+	<Country CountryId="631" CountryCode="" CountryName="Nepalese"></Country>
+	<Country CountryId="632" CountryCode="" CountryName="New Zealander"></Country>
+	<Country CountryId="633" CountryCode="" CountryName="Nicaraguan"></Country>
+	<Country CountryId="634" CountryCode="" CountryName="Nigerien"></Country>
+	<Country CountryId="635" CountryCode="" CountryName="Niuean"></Country>
+	<Country CountryId="636" CountryCode="" CountryName="Norwegian"></Country>
+	<Country CountryId="637" CountryCode="" CountryName="Omani"></Country>
+	<Country CountryId="638" CountryCode="" CountryName="Other"></Country>
+	<Country CountryId="639" CountryCode="" CountryName="Pakistani"></Country>
+	<Country CountryId="640" CountryCode="" CountryName="Palauan"></Country>
+	<Country CountryId="641" CountryCode="" CountryName="Palestinian"></Country>
+	<Country CountryId="642" CountryCode="" CountryName="Panamanian"></Country>
+	<Country CountryId="643" CountryCode="" CountryName="Papua New Guinean"></Country>
+	<Country CountryId="644" CountryCode="" CountryName="Paraguayan"></Country>
+	<Country CountryId="645" CountryCode="" CountryName="Peruvian"></Country>
+	<Country CountryId="646" CountryCode="" CountryName="Philippines"></Country>
+	<Country CountryId="647" CountryCode="" CountryName="Pole"></Country>
+	<Country CountryId="648" CountryCode="" CountryName="Portuguese"></Country>
+	<Country CountryId="649" CountryCode="" CountryName="Puerto Rican"></Country>
+	<Country CountryId="650" CountryCode="" CountryName="Qatari"></Country>
+	<Country CountryId="651" CountryCode="" CountryName="Romanian"></Country>
+	<Country CountryId="652" CountryCode="" CountryName="Russian"></Country>
+	<Country CountryId="653" CountryCode="" CountryName="Rwandan"></Country>
+	<Country CountryId="654" CountryCode="" CountryName="Sahrawi"></Country>
+	<Country CountryId="655" CountryCode="" CountryName="Salvadoran"></Country>
+	<Country CountryId="656" CountryCode="" CountryName="Samoan"></Country>
+	<Country CountryId="657" CountryCode="" CountryName="San Marinese"></Country>
+	<Country CountryId="658" CountryCode="" CountryName="Sao Toméan"></Country>
+	<Country CountryId="659" CountryCode="" CountryName="Saudi"></Country>
+	<Country CountryId="660" CountryCode="" CountryName="Senegalese"></Country>
+	<Country CountryId="661" CountryCode="" CountryName="Serb"></Country>
+	<Country CountryId="662" CountryCode="" CountryName="Seychelloi"></Country>
+	<Country CountryId="663" CountryCode="" CountryName="Sierra Leonean"></Country>
+	<Country CountryId="664" CountryCode="" CountryName="Singaporean"></Country>
+	<Country CountryId="665" CountryCode="" CountryName="Slovak"></Country>
+	<Country CountryId="666" CountryCode="" CountryName="Slovene"></Country>
+	<Country CountryId="667" CountryCode="" CountryName="Somali"></Country>
+	<Country CountryId="668" CountryCode="" CountryName="South African"></Country>
+	<Country CountryId="669" CountryCode="" CountryName="Spaniard"></Country>
+	<Country CountryId="670" CountryCode="" CountryName="Sri Lankan"></Country>
+	<Country CountryId="671" CountryCode="" CountryName="St Lucian"></Country>
+	<Country CountryId="672" CountryCode="" CountryName="Stateless person"></Country>
+	<Country CountryId="673" CountryCode="" CountryName="Sudani"></Country>
+	<Country CountryId="674" CountryCode="" CountryName="Surinamese"></Country>
+	<Country CountryId="675" CountryCode="" CountryName="Swazi"></Country>
+	<Country CountryId="676" CountryCode="" CountryName="Swedish"></Country>
+	<Country CountryId="677" CountryCode="" CountryName="Swiss people"></Country>
+	<Country CountryId="678" CountryCode="" CountryName="Syrian"></Country>
+	<Country CountryId="679" CountryCode="" CountryName="Taiwanese"></Country>
+	<Country CountryId="680" CountryCode="" CountryName="Tajik"></Country>
+	<Country CountryId="681" CountryCode="" CountryName="Tanzanian"></Country>
+	<Country CountryId="682" CountryCode="" CountryName="Thai"></Country>
+	<Country CountryId="683" CountryCode="" CountryName="Tibetian"></Country>
+	<Country CountryId="684" CountryCode="" CountryName="Togolese"></Country>
+	<Country CountryId="685" CountryCode="" CountryName="Tongan"></Country>
+	<Country CountryId="686" CountryCode="" CountryName="Trinidadians &amp; Tobagonian"></Country>
+	<Country CountryId="687" CountryCode="" CountryName="Tunisian"></Country>
+	<Country CountryId="688" CountryCode="" CountryName="Turkish"></Country>
+	<Country CountryId="689" CountryCode="" CountryName="Turkmen"></Country>
+	<Country CountryId="690" CountryCode="" CountryName="Tuvaluan"></Country>
+	<Country CountryId="691" CountryCode="" CountryName="UAE National"></Country>
+	<Country CountryId="692" CountryCode="" CountryName="Ugandan"></Country>
+	<Country CountryId="693" CountryCode="" CountryName="Ukrainian"></Country>
+	<Country CountryId="694" CountryCode="" CountryName="Uruguayan"></Country>
+	<Country CountryId="695" CountryCode="" CountryName="Uzbek"></Country>
+	<Country CountryId="696" CountryCode="" CountryName="Vanuatuan"></Country>
+	<Country CountryId="697" CountryCode="" CountryName="Venezuelan"></Country>
+	<Country CountryId="698" CountryCode="" CountryName="Vietnamese"></Country>
+	<Country CountryId="699" CountryCode="" CountryName="Vincentian"></Country>
+	<Country CountryId="700" CountryCode="" CountryName="Yemeni"></Country>
+	<Country CountryId="701" CountryCode="" CountryName="Zambian"></Country>
+	<Country CountryId="702" CountryCode="" CountryName="Zimbabwean"></Country>
+</Countries>

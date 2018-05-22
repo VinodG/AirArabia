@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- End current session if app sleeps for a period of time -->
+    <integer name="ga_sessionTimeout">300</integer>
+ 
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+ 
+    <!--  The property id associated with this analytics tracker -->
+   <!--  <string name="ga_trackingId">UA-85960825-1</string> -->
+   <!--  <string name="ga_trackingId">UA-86215039-1</string> --><!-- mithilesh -->
+  <!--   <string name="ga_trackingId">UA-86422724-1</string> --> <!-- murali sir -->
+    <string name="ga_trackingId">UA-68778288-1</string> <!--Given By client -->
+<!--     <string name="ga_trackingId">UA-86404821-1</string> Air Arabia PJSC -->
+ 
+    <string name="ga_sampleFrequency">100.0</string>
+ 
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+ 
+  <screenName name="com.winit.airarabia.SplashScreenActivity">Splash Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectLanguage">SelectLanguage Screen</screenName>
+  <screenName name="com.winit.airarabia.HomeActivity">DashBoard Screen</screenName>
+  <screenName name="com.winit.airarabia.BookFlightActivity">BookFlight Screen</screenName>
+  <screenName name="com.winit.airarabia.CheckinOnlineActivity">CheckinOnline Screen</screenName>
+  <screenName name="com.winit.airarabia.FlightScheduleActivity">FlightSchedule Screen</screenName>
+  <screenName name="com.winit.airarabia.ManageYourBookingActivity">ManageYourBooking Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectDateActivity">SelectDate Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectDateActivityOneWay">SelectDateActivityOneWay Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectFlightActivity">SelectFlight Screen</screenName>
+  <screenName name="com.winit.airarabia.BookingSummaryActivity">BookingSummary Screen</screenName>
+  <screenName name="com.winit.airarabia.PassengerInformationActivity">PassengerInformation Screen</screenName>
+  <screenName name="com.winit.airarabia.PaymentActivity">Payment Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonalizeyourTripActivity">PersonalizeyourTrip Screen</screenName>
+  <screenName name="com.winit.airarabia.TotalPriceActivity">TotalPrice Screen</screenName>
+  <screenName name="com.winit.airarabia.ApplyNowActivity">ApplyNow Screen</screenName>
+  <screenName name="com.winit.airarabia.ReachUsActivity">ReachUs Screen</screenName>
+  <screenName name="com.winit.airarabia.VisaAssistanceActivity">VisaAssistance Screen</screenName>
+  <screenName name="com.winit.airarabia.VisaRegulationsActivity">VisaRegulations Screen</screenName>
+  <screenName name="com.winit.airarabia.VisaRequirementActivity">VisaRequirement Screen</screenName>
+  <screenName name="com.winit.airarabia.CallcentersActivity">Callcenters Screen</screenName>
+  <screenName name="com.winit.airarabia.OfficeLocationActivity">OfficeLocation Screen</screenName>
+  <screenName name="com.winit.airarabia.CheckFlightScheduleActivity">CheckFlightSchedule Screen</screenName>
+  <screenName name="com.winit.airarabia.MapActivity">Map Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectDateDobActivity">SelectDateDob Screen</screenName>
+  <screenName name="com.winit.airarabia.LoginActivityScreen">Login Screen</screenName>
+  <screenName name="com.winit.airarabia.PreLogin">PreLogin Screen</screenName>
+  <screenName name="com.winit.airarabia.Register">Register Screen</screenName>
+  <screenName name="com.winit.airarabia.Airewards">Airewards Screen</screenName>
+  <screenName name="com.winit.airarabia.AirewardsWebActivity">AirewardsWeb Screen</screenName>
+  <screenName name="com.winit.airarabia.EmailUs">EmailUs Screen</screenName>
+  <screenName name="com.winit.airarabia.Settings">Settings Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectAirport">SelectAirport Screen</screenName>
+  <screenName name="com.winit.airarabia.MyProfileActivity">MyProfileActivity Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectFlightActivityNew">SelectFlightActivityNew Screen</screenName>
+  <screenName name="com.winit.airarabia.PaymentActivityNew">Payment Screen</screenName>
+  <screenName name="com.winit.airarabia.FavouriteDestinationActivity">FavouriteDestination Screen</screenName>
+  <screenName name="com.winit.airarabia.FavouriteListActivity">FavouriteList Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectFlightItemDetails">SelectFlightItemDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.PassengerInformationActivityNew">PassengerInformation Screen</screenName>
+  <screenName name="com.winit.airarabia.PassengerInformationContactActivity">PassengerInformationContact Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonalizeyourTripActivityNew">PersonalizeyourTrip Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonaliseBaggageDetailsActivity">PersonaliseBaggageDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonaliseSeatDetailsActivity">PersonaliseSeatDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonaliseInsuranceDetailsActivity">PersonaliseInsuranceDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonaliseMealDetailsActivity">PersonaliseMealDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.PersonaliseSSLServiceDetailsActivity">PersonaliseSSLServiceDetails Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectClassType">SelectClassType Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectCountryContacsNew">SelectCountryContacs Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectCountry">SelectCountry Screen</screenName>
+  <screenName name="com.winit.airarabia.RegisterDetailWebActivity">RegisterDetailWeb Screen</screenName>
+  <screenName name="com.winit.airarabia.CallcentersActivityNew">CallcentersActivity Screen</screenName>
+  <screenName name="com.winit.airarabia.OfficeLocationActivityNew">OfficeLocationActivity Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectOfficeLocationsCity">SelectOfficeLocationsCity Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectOfficeLocations">SelectOfficeLocations Screen</screenName>
+  <screenName name="com.winit.airarabia.Feedback">Feedback Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectDateActivityNew">SelectDateActivity Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectAirport_new">SelectAirport Screen</screenName>
+  <screenName name="com.winit.airarabia.ChooseLanguageFirstScreen">ChooseLanguageFirstScreen Screen</screenName>
+  <screenName name="com.winit.airarabia.returnflight.ReturnFlightActivityNew">ReturnFlightActivity Screen</screenName>
+  <screenName name="com.winit.airarabia.EditSavedPassengerActivity">EditSavedPassenger Screen</screenName>
+  <screenName name="com.winit.airarabia.AddNewPassenger">AddNewPassenger Screen</screenName>
+  <screenName name="com.winit.airarabia.PassengerActivityChoose">Passenger Choose Screen</screenName>
+  <screenName name="com.winit.airarabia.UpdateNewPassenger">UpdateNewPassenger Screen</screenName>
+  <screenName name="com.winit.airarabia.SelectCurrency">SelectCurrency Screen</screenName>
+ 
+</resources>

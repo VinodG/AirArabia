@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_book_flight"
+    android:orientation="vertical"
+    tools:context="com.example.arabariademo.MainActivity" >
+
+    <ImageView
+        android:id="@+id/iv1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pager_hieght"
+        android:layout_gravity="center_horizontal"
+        android:padding="@dimen/margin_normal"
+        android:scaleType="fitXY"
+        android:src="@drawable/contact_us" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+             android:layout_marginLeft="@dimen/margin_small"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal"
+        android:text="@string/registorinfo"
+        android:padding="@dimen/margin_normal"
+        android:typeface="sans" />
+
+    <Button
+        android:id="@+id/btnUAE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:background="@drawable/round_white_more_shaded_btn_bg"
+        android:drawableLeft="@drawable/arrow_ar"
+        android:gravity="start"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/i_travel_mainly_from_to_via_UAE" />
+
+    <Button
+        android:id="@+id/btnMorocco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@drawable/round_white_more_shaded_btn_bg"
+        android:drawableLeft="@drawable/arrow_ar"
+        android:gravity="start"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/i_travel_mainly_from_to_via_Morocco" />
+
+    <Button
+        android:id="@+id/btnEgypt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@drawable/round_white_more_shaded_btn_bg"
+        android:drawableLeft="@drawable/arrow_ar"
+        android:gravity="start"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/i_travel_mainly_from_to_via_Egypt" />
+
+    <Button
+        android:id="@+id/btnJordan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@drawable/round_white_more_shaded_btn_bg"
+        android:drawableLeft="@drawable/arrow_ar"
+        android:gravity="start"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_size_normal"
+        android:padding="@dimen/margin_normal"
+        android:text="@string/i_travel_mainly_from_to_via_Jordan" />
+
+</LinearLayout>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imgSlectediteminmeal"
+                android:layout_width="@dimen/meals_width"
+                android:layout_height="@dimen/meals_height"
+                android:background="@drawable/btn_languagebg" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin_normal"
+            android:layout_marginRight="@dimen/margin_very_small"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvTitleslectediteminmeal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fresh Fruit Salad"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textsize_16" />
+
+            <TextView
+                android:id="@+id/tvDescMeal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color_gray"
+                android:textSize="@dimen/textsize_14" />
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/tvPrice" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="Price:" -->
+            <!-- android:textColor="@color/text_color" -->
+            <!-- android:textSize="@dimen/text_size_normal" /> -->
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_normal"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:layout_marginTop="-5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivMinus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/margin_normal"
+            android:paddingBottom="@dimen/margin_small"
+            android:src="@drawable/minus_big" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="@string/quantity"
+            android:textColor="@color/text_color_gray"
+            android:textSize="@dimen/text_size_small"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tvQuantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_normal"
+            android:paddingRight="@dimen/margin_normal"
+            android:text="@string/zero"
+            android:textColor="@color/text_color_gray"
+            android:textSize="@dimen/textsize_16" />
+
+        <ImageView
+            android:id="@+id/ivPlus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_normal"
+            android:paddingBottom="@dimen/margin_small"
+            android:src="@drawable/plus_big" />
+
+        <TextView
+            android:id="@+id/tvPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_normal"
+            android:gravity="center_vertical"
+            android:text="Price:"
+            android:textColor="@color/text_color_gray"
+            android:textSize="@dimen/textsize_16" />
+    </LinearLayout>
+
+</LinearLayout>

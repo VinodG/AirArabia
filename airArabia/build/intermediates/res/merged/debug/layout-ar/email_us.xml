@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_book_flight"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1" >
+            
+            <TextView
+                android:id="@+id/tvTitleFeedack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_normal"
+                android:text="@string/email_us"
+                android:gravity="right|center_vertical"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/text_size_large"/>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:hint="@string/Name"
+                android:padding="@dimen/margin_normal"
+                android:textSize="@dimen/text_size_normal"
+                android:singleLine="true"
+                android:gravity="right|center_vertical"
+                android:textColorHint="@color/text_color_gray"
+                android:textColor="@color/gray" />
+
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:hint="@string/Email"
+                android:gravity="right|center_vertical"
+                android:padding="@dimen/margin_normal"
+                android:inputType="textEmailAddress"
+                android:textSize="@dimen/text_size_normal"
+                android:singleLine="true"
+                android:textColorHint="@color/text_color_gray"
+                android:textColor="@color/text_color" />
+
+            <EditText
+                android:id="@+id/etMobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:hint="@string/Mobile"
+                android:gravity="right|center_vertical"
+                android:padding="@dimen/margin_normal"
+                android:textSize="@dimen/text_size_normal"
+                android:singleLine="true"
+                android:textColorHint="@color/text_color_gray"
+                android:inputType="textPhonetic"
+                android:textColor="@color/text_color" />
+
+            <EditText
+                android:id="@+id/etSubject"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:hint="@string/Subject"
+                android:gravity="right|center_vertical"
+                android:padding="@dimen/margin_normal"
+                android:textSize="@dimen/text_size_normal"
+                android:singleLine="true"
+                android:textColorHint="@color/text_color_gray"
+                android:textColor="@color/text_color" />
+
+            <EditText
+                android:id="@+id/etMessage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:gravity="right"
+                android:textColorHint="@color/text_color_gray"
+                android:hint="@string/MessageError"
+                android:background="@drawable/round_white_more_shaded_btn_bg"
+                android:textSize="@dimen/text_size_normal"
+                android:padding="@dimen/margin_normal" />
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_book_flight"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:layout_marginLeft="5dp" -->
+<!--                 android:layout_marginRight="5dp" -->
+<!--                 android:layout_marginTop="10dp" -->
+<!--                 android:background="@drawable/selectflightbg" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:visibility="visible" > -->
+
+<!--                 <TextView -->
+<!--                     android:id="@+id/tv_selectflight1" -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:layout_gravity="center" -->
+<!--                     android:layout_margin="10dp" -->
+<!--                     android:layout_weight="1" -->
+<!--                     android:text="@string/AddServices" -->
+<!--                     android:textColor="@color/white" -->
+<!--                     android:textSize="@dimen/text_size_normal" -->
+<!--                     android:textStyle="bold" /> -->
+
+<!--                 <Button -->
+<!--                     android:id="@+id/btn_deatils1" -->
+<!--                     android:layout_width="30dp" -->
+<!--                     android:layout_height="30dp" -->
+<!--                     android:layout_gravity="center" -->
+<!--                     android:layout_marginLeft="40dp" -->
+<!--                     android:background="@drawable/img_whitecircle" -->
+<!--                     android:text="@string/one" -->
+<!--                     android:textSize="@dimen/text_size_small" -->
+<!--                     android:textStyle="bold" /> -->
+
+<!--                 <Button -->
+<!--                     android:id="@+id/btn_details2" -->
+<!--                     android:layout_width="30dp" -->
+<!--                     android:layout_height="30dp" -->
+<!--                     android:layout_gravity="center" -->
+<!--                     android:layout_marginLeft="5dp" -->
+<!--                     android:background="@drawable/img_whitecircle" -->
+<!--                     android:text="@string/two" -->
+<!--                     android:textSize="@dimen/text_size_small" -->
+<!--                     android:textStyle="bold" /> -->
+
+<!--                 <Button -->
+<!--                     android:id="@+id/btn_details3" -->
+<!--                     android:layout_width="30dp" -->
+<!--                     android:layout_height="30dp" -->
+<!--                     android:layout_gravity="center" -->
+<!--                     android:layout_marginLeft="5dp" -->
+<!--                     android:background="@drawable/img_redcircle" -->
+<!--                     android:text="@string/three" -->
+<!--                     android:textColor="@color/white" -->
+<!--                     android:textSize="@dimen/text_size_small" -->
+<!--                     android:textStyle="bold" /> -->
+
+<!--                 <Button -->
+<!--                     android:id="@+id/btn_details4" -->
+<!--                     android:layout_width="30dp" -->
+<!--                     android:layout_height="30dp" -->
+<!--                     android:layout_gravity="center" -->
+<!--                     android:layout_marginLeft="5dp" -->
+<!--                     android:layout_marginRight="5dp" -->
+<!--                     android:background="@drawable/img_whitecircle" -->
+<!--                     android:text="@string/four" -->
+<!--                     android:textSize="@dimen/text_size_small" -->
+<!--                     android:textStyle="bold" /> -->
+<!--             </LinearLayout> -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_vertical_small"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/tvSelectYourBaggage"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@null"
+                        android:gravity="start|center_vertical"
+                        android:padding="10dp"
+                        android:text="@string/SelectBaggage"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_size_btn"
+                        android:layout_weight="2.1" />
+
+                    <LinearLayout 
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="right|center_horizontal"
+                        android:layout_weight="1">
+                        
+                        <ImageView 
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/bag"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="center_horizontal"
+                            />
+                        <Button
+	                        android:layout_width="match_parent"
+	                        android:layout_height="wrap_content"
+	                        android:layout_marginTop="10dp"
+	                        android:text="ADD"
+	                        android:textColor="@color/white"
+	                        android:background="@drawable/addbutton" />
+                        
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llBaggageMain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:orientation="vertical"
+                    android:visibility="visible" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/btn_selectyourseat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tblheaderbg"
+                android:gravity="start|center_vertical"
+                android:padding="10dp"
+                android:text="@string/SelectSeat"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_btn"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <ImageView
+                        android:id="@+id/ivCheckseatbox"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/uncheck"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tvCheckseatbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/Yes"
+                        android:textSize="@dimen/text_size_normal"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <ImageView
+                        android:id="@+id/ivUnCheckseatbox"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/check"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tvUnCheckseatbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center"
+                        android:text="@string/NoThanks"
+                        android:textSize="@dimen/text_size_normal"
+                        android:textStyle="bold" >
+                    </TextView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llSeatMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvInsuranceHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tblheaderbg"
+                android:gravity="start|center_vertical"
+                android:padding="10dp"
+                android:text="@string/BuyTravelInsurance"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_btn"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/llInsuranceHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <ImageView
+                        android:id="@+id/ivChecktravelinsurance"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/uncheck"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tvChecktravelinsurance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/Yes"
+                        android:textSize="@dimen/text_size_normal"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <ImageView
+                        android:id="@+id/ivUnchecktravelinsurance"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/check"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tvUnchecktravelinsurance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center"
+                        android:text="@string/NoThanks"
+                        android:textSize="@dimen/text_size_normal"
+                        android:textStyle="bold" >
+                    </TextView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llInsuranceMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tblheaderbg"
+                android:gravity="start|center_vertical"
+                android:padding="10dp"
+                android:text="@string/SelectMeal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_btn"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <ImageView
+                            android:id="@+id/ivCheckmeal"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_margin="10dp"
+                            android:background="@drawable/uncheck"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/tvCheckmeal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="@string/Yes"
+                            android:textSize="@dimen/text_size_normal"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <ImageView
+                            android:id="@+id/ivUncheckmeal"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_margin="10dp"
+                            android:background="@drawable/check"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/tvUncheckmeal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:gravity="center"
+                            android:text="@string/NoThanks"
+                            android:textSize="@dimen/text_size_normal"
+                            android:textStyle="bold" >
+                        </TextView>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvMealText"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/MealsP1"
+                    android:textSize="@dimen/text_size_normal"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llMealMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/btn_selecthalaservices"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tblheaderbg"
+                android:gravity="start|center_vertical"
+                android:padding="10dp"
+                android:text="@string/SelectHala"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_btn"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <ImageView
+                            android:id="@+id/ivCheckhalaservices"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_margin="10dp"
+                            android:background="@drawable/uncheck"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/tvCheckhalaservices"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="@string/Yes"
+                            android:textSize="@dimen/text_size_normal"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <ImageView
+                            android:id="@+id/ivUncheckhalaservices"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_margin="10dp"
+                            android:background="@drawable/check"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/tvUncheckhalaservices"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:gravity="center"
+                            android:text="@string/NoThanks"
+                            android:textSize="@dimen/text_size_normal"
+                            android:textStyle="bold" >
+                        </TextView>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvHalaText"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/HalaP1"
+                    android:textSize="@dimen/text_size_normal"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/llHalaMain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

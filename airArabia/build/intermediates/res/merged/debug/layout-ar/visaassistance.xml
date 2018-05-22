@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_redbg"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/img_specialoffers" />
+
+    <TextView
+        android:id="@+id/tvVisaRequirements"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/btn_homebg_ar"
+        android:gravity="start|center"
+        android:paddingRight="15dp"
+        android:text="@string/VisaRequirements"
+        android:textSize="@dimen/text_size_normal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvVisaRegulation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_homebg_ar"
+        android:gravity="start|center"
+        android:paddingRight="15dp"
+        android:text="@string/VisaRegulations"
+        android:textSize="@dimen/text_size_normal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvVisaAssistanceApplynow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_homebg_ar"
+        android:gravity="start|center"
+        android:paddingRight="15dp"
+        android:text="@string/ApplyNow"
+        android:textSize="@dimen/text_size_normal"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_redbg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selectflightbg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_selectflight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:text="@string/SelectFlight"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_flight1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:background="@drawable/img_redcircle"
+            android:text="@string/one"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_small"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_flight2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/img_whitecircle"
+            android:text="@string/two"
+            android:textSize="@dimen/text_size_small"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_flight3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/img_whitecircle"
+            android:text="@string/three"
+            android:textSize="@dimen/text_size_small"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_flight4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/img_whitecircle"
+            android:text="@string/four"
+            android:textSize="@dimen/text_size_small"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selectflightbg"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivFlightselectleft"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="@drawable/img_whitearrowleft" />
+
+        <TextView
+            android:id="@+id/tv_Selectedflightdate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/ivFlighselecttright"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="@drawable/img_whitearrowright" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llSourceToDestFlightName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/sourcetodestibg"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/tvSourceFlight1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@drawable/img_redarrow" />
+
+        <TextView
+            android:id="@+id/tvDestFlight1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvNoDataAvailableSelectFlight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_custom_popup"
+        android:gravity="center"
+        android:text="@string/NoFlightsAvailable"
+        android:textColor="@color/black"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/lvSourceToDestflight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@color/transparent_color"
+        android:layout_marginLeft="10dp"
+        android:cacheColorHint="@null"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal"
+        android:visibility="gone" />
+
+</LinearLayout>

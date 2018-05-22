@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context="com.winit.airarabia.PreLogin" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margin_large"
+        android:src="@drawable/airarabia_name_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="150dp"
+        android:layout_marginLeft="@dimen/margin_large"
+        android:layout_marginRight="@dimen/margin_large"
+        android:layout_marginTop="@dimen/margin_xxx_large"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnEnglishLang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:background="@drawable/registerbutton"
+            android:padding="@dimen/margin_small"
+            android:text="@string/english"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_19"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnFrenchLang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:layout_marginTop="@dimen/margin_large"
+            android:background="@drawable/registerbutton"
+            android:padding="@dimen/margin_small"
+            android:text="@string/french_lang"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_19"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnArabicLang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:layout_marginTop="@dimen/margin_large"
+            android:background="@drawable/registerbutton"
+            android:padding="@dimen/margin_small"
+            android:text="@string/arabic_lang"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_19"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/btnRussianLang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:layout_marginTop="@dimen/margin_large"
+            android:background="@drawable/registerbutton"
+            android:padding="@dimen/margin_small"
+            android:text="@string/russian_lang"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_19"
+            android:textStyle="bold"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal|bottom"
+        android:text="Powered by WINIT."
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:typeface="sans" />
+
+</LinearLayout>

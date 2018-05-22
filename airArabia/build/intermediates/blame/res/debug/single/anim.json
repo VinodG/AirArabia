@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left_bodyone.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\slide_in_left_bodyone.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "D:\\AirArabia\\urlImageViewHelper\\build\\intermediates\\bundles\\default\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_top_popup_share.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\bottom_top_popup_share.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\mention_popup_scaleup.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\mention_popup_scaleup.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\top_bottom_popup_share.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\top_bottom_popup_share.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\mention_popup_scaledown.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\mention_popup_scaledown.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_x_axis.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\anim\\rotate_x_axis.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Vinod.Kumar\\.android\\build-cache\\fabe56bbad79ac4a53064324c4a127f6ac36c088\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

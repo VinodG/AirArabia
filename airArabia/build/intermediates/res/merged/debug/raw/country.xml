@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+	<MoreCountry value="2" name="India">
+		<city callcenter="0922 333 0060" name="Ahmedabad"></city>
+		<city callcenter="0922 333 0060" name="Bangalore"></city>
+		<city callcenter="0922 333 0060" name="Calicut"></city>
+	</MoreCountry>
+	<MoreCountry value="40" name="Afghanistan">
+		<city callcenter="0922 333 0060" name="jap"></city>
+		<city callcenter="0922 333 0060" name="ffdf"></city>
+		<city callcenter="0922 333 0060" name="ds"></city>
+	</MoreCountry>
+</countries>

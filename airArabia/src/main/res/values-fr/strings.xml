@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="InternetProblem">Pas de connexion Internet est disponible. S\'il vous plaît essayez de nouveau.</string>
+
+    <string-array name="title_adt">
+        <item>MR</item>
+        <item>Mme</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="title_chd">
+        <item>Mr</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="title_inf">
+        <item>Mr</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="title_adt_desc">
+        <item>Mr</item>
+        <item>Mme</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="title_chd_desc">
+        <item>Mr</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="title_inf_desc">
+        <item>Mr</item>
+        <item>Mlle</item>
+    </string-array>
+    <string-array name="ArrMonth">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>May</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+    <string-array name="ArrDays">
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+    </string-array>
+
+    <string name="January">    Janvier
+</string>
+    <string name="February">    Février
+</string>
+    <string name="March">    Mars
+</string>
+    <string name="April">    Avril
+</string>
+    <string name="May">    May
+</string>
+    <string name="June">    Juin
+</string>
+    <string name="July">    Juillet
+</string>
+    <string name="August">    Août
+</string>
+    <string name="September">    Septembre
+</string>
+    <string name="October">    Octobre
+</string>
+    <string name="November">    Novembre
+</string>
+    <string name="December">    Décembre
+</string>
+    <string name="Sunday">    Dimanche
+</string>
+    <string name="Monday">    Lundi
+</string>
+    <string name="Tuesday">    Mardi
+</string>
+    <string name="Wednessday">    Mercredi
+</string>
+    <string name="Thursday">    Jeudi
+</string>
+    <string name="Friday">    Vendredi
+</string>
+    <string name="Saturday">    Samedi
+</string>
+    <string name="alert_msg_fill_all_fields">S\'il vous plaît remplir tous les champs</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger">Veuillez remplir tous les champs.</string>
+    <string name="alert_msg_fill_all_fields_required_by_passenger_info">Veuillez remplir tous les champs obligatoires.</string>
+    <string name="Select_Date">Date</string>
+    <string name="Departing">Départ</string>
+    <string name="Departing_depart">Départ</string>
+    <string name="Arriving">Arrivée</string>
+    <string name="ArrivalDateErr">S \'il vous plaît sélectionnez la date d\'arrivée.</string>
+    <string name="AddServices">    Services supplémentaires
+</string>
+    <string name="Adult">Adulte</string>
+    <string name="adult_flight_summary">Adulte</string>
+    <string name="adult_flight_fareselection">Adulte</string>
+    <string name="Adultss">Adults(s)</string>
+    <string name="Adult_1">Adulte</string>
+    <string name="selectDate_dep">Date</string>
+    <string name="selectDate_return">Date</string>
+    <!-- <string name="selectCurrency">Devise</string> -->
+    <string name="selectCurrency">Selectionner la devise</string>
+    <string name="rememberMe">Garder ma session active</string>
+    <string name="remembered">Remembered</string>
+    <string name="categoryClass">Classe</string>
+    <string name="Passengers">    Passager(s)
+</string>
+    <string name="Passenger">    Passager(s)
+</string>
+    <string name="Flight_Timing">    Moment de vol
+</string>
+    <string name="Best_Fare">    Meilleur Fare
+</string>
+    <string name="AdultChildCountErrorMessage">    Personnes à mobilité réduite et mineurs.
+</string>
+    <string name="Arrival">    Arrivée
+</string>
+    <string name="Baggage">Bagage
+</string>
+    <string name="Baggages">Bagages
+</string>
+    <string name="BookAFlight">    Réserver un vol
+</string>
+    <string name="BookFlight">Réserver des vols</string>
+    <string name="CheckInOnline">Enregistrement
+</string>
+    <string name="CheckInOnline_title">Enregistrement en ligne
+</string>
+    <string name="airewards">AIR REWARDS</string>
+    <string name="Child">    Enfant
+</string>
+    <string name="Childs">    Enfants
+</string>
+    <string name="Child2to12Yrs">    Enfant (2 à 12 ans)
+</string>
+    <string name="Continue">    Continuer
+</string>
+    <string name="CopyRight">    © 2013 Air Arabia. Tous droits réservés.
+</string>
+    <string name="Country">Pays :</string>
+    <string name="Country_withoutColan">Pays</string>
+    <string name="CountryError">    Veuillez indiquer votre pays de résidence
+</string>
+    <string name="Depart">    Départ
+</string>
+    <string name="Departure">    Départ
+</string>
+    <string name="DaysOfOperation">Jours de \nfonctionnement</string>
+    <string name="FlightNumber">Numéro \nde vol</string>
+    <string name="DestinationErrorMessage">Veuillez sélectionner un aéroport.</string>
+    <string name="EmailId">    Adresse électronique
+</string>
+    <string name="EmailIdError">    Entrez votre adresse électronique.
+</string>
+    <string name="EnterDetails">    Vos informations
+</string>
+    <string name="EnterYourReservationDetails">Entrez les détails de votre réservation:</string>
+    <string name="Login_For_Faster_Booking">Connectez vous pour une réservation rapide</string>
+    <string name="FirstName">    Prénom
+</string>
+    <string name="FirstNameError">    Veuillez renseigner le prénom
+</string>
+    <string name="FlexiFare">Tarif flexi</string>
+    <string name="FlexiFare_details">Détails Tarif Flexi</string>
+    <string name="FlightNo">    Vol numéro:
+</string>
+    <string name="FlightSchedule">    Horaires des vols
+</string>
+    <string name="FlightSummary">Récapitulatif des vols</string>
+    <string name="TimeTable">Horaire des vols</string>
+    <string name="From">    Depuis
+</string>
+    <string name="FlyingFrom">Au départ de</string>
+    <string name="FlyingTo">Vers</string>
+    <string name="IAccept">    J\'accepte les
+</string>
+    <string name="Inbound">    Retour
+</string>
+    <string name="Infant">    Bébé
+</string>
+    <string name="InfantBelow2Yrs">    Bébé (moins de 2 ans)
+</string>
+    <string name="InvalidEmail">    Adresse mail incorrecte
+</string>
+    <string name="InvalidMobile">    Numéro de portable non valide
+</string>
+    <string name="ISDError">    Veuillez entrer l\'indicatif du pays
+</string>
+    <string name="ItMayTakeFewSeconds">    Cela peut prendre quelques secondes
+</string>
+    <string name="LastName">    Nom de famille
+</string>
+    <string name="LastNameError">    Veuillez saisir votre nom de famille
+</string>
+    <string name="EnterContactPersonsLastName">Nom de famille</string>
+    <string name="ContactPersonsLastName">Nom de la personne à contacter</string>
+    <string name="Loading">    Loading
+</string>
+    <string name="ManageYourBooking">    Gérer votre réservation</string>
+    <string name="MobileError">    Veuillez saisir un numéro de portable
+</string>
+    <string name="MobileError_10_digit">Please enter your 10 digits modile number.</string>
+    <string name="MobileNumber">    Numéro de téléphone
+</string>
+    <string name="ModifySearch">    Modifier la recherche
+</string>
+    <string name="More">    Plus
+</string>
+    <string name="EnterYourReservationDetails1">Veuillez entrer les infos de votre réservation.
+</string>
+    <string name="Name">    Nom
+</string>
+    <string name="Services">Services</string>
+    <string name="Address">Adresse</string>
+    <string name="Nationality">    Nationalité
+</string>
+    <string name="NationalityError">    Veuillez sélectionner la nationalité
+</string>
+    <string name="NoAirportsFound">    aucun aéroport correspondant
+</string>
+    <string name="NoBaggage">    Aucune franchise bagage disponible
+</string>
+    <string name="NoFlightsAvailable">    Aucun vol disponible
+</string>
+    <string name="NoSeat">    Aucune disponibilité de siège
+</string>
+    <string name="NoStops">    direct
+</string>
+    <string name="NotAvailable">    Non disponible
+</string>
+    <string name="NoThanks">    Non merci
+</string>
+    <string name="OneWay">    Aller simple
+</string>
+    <string name="OneWay_bookflight">    Aller simple
+</string>
+    <string name="OriginDestinationErrorMessage">    Veuillez choisir vos aéroports au départ et à l\'arrivée
+</string>
+    <string name="OriginErrorMessage">    Merci de renseigner l\'aéroport de départ en premier
+</string>
+    <string name="Outbound">    Aller
+</string>
+    <string name="PassengerInfo">    Infos passagers
+</string>
+    <string name="PersonaliseYourTrip">    Service Additionals
+</string>
+    <string name="PleaseDoNotRefresh">    Veuillez patienter svp
+</string>
+    <string name="PoweredBy">    Proposé par
+</string>
+    <string name="Price">    Prix
+</string>
+    <string name="PromoFare">Tarif promo
+</string>
+    <string name="PromoFare_details">Détails Tarif Promo</string>
+    <string name="Return">    Aller/Retour
+</string>
+    <string name="Return_bookflight">    Aller/Retour
+</string>
+    <string name="SearchFlight">    Rechercher des vols
+</string>
+    <string name="Show_Result_Based_On">    	Montrer les résultats sur la base
+</string>
+    <string name="Seat">    Siège
+</string>
+    <string name="SelectAirport">Sélectionnez un aéroport</string>
+    <string name="SelectBaggage">    Ajoutez bagage
+</string>
+    <string name="SelectSeat">    Choisissez votre siège
+</string>
+    <string name="Stops">Stop(s)
+</string>
+    <string name="TaxSurcharge">Taxes et surcharges
+</string>
+    <string name="TermsAndConditions">    conditions
+</string>
+    <string name="TermsErrorMessage">    Vous devez accepter nos termes et conditions.
+</string>
+    <string name="Title">    Titre
+</string>
+    <string name="TitleError">    Veuillez choisir la civilité
+</string>
+    <string name="To">    Vers
+</string>
+    <string name="To_colon">    Vers:
+</string>
+    <string name="TotalOutboundFlight">    Montant total de l\'Aller
+</string>
+    <string name="TotalPrice">    Prix total
+</string>
+    <string name="TotalPrice_payment">    Prix total
+</string>
+    <string name="ReturnDiscount">      Retour Booking Discount
+</string>
+    <string name="WinIT">    WINIT
+</string>
+    <string name="Yes">    Oui
+</string>
+    <string name="AdditionalServices">    Services supplémentaires
+</string>
+    <string name="AdminiFee">    Frais d\'administration
+</string>
+    <string name="Adults">    Adulte (s)
+</string>
+    <string name="AirportService">    Service aéroportuaire
+</string>
+    <string name="AirportServices">    services aéroportuaires
+</string>
+    <string name="ArrivalAirportErr">    Veuillez choisir votre aéroport d\'arrivée
+</string>
+    <string name="Available">    disponible
+</string>
+    <string name="Available_seatselection">Disponible
+</string>
+    <string name="Back">Retour</string>
+    <string name="Back_book_flight">Annuler</string>
+    <string name="BookingSummary">    Résumé de la réservation
+</string>
+    <string name="BuyTravelInsurance">    Ajoutez une assurance
+</string>
+    <string name="CardExpiryErr">    la validité de votre carte a expiré
+</string>
+    <string name="CardNameErr">    Veuillez renseigner le nom du titulaire de la carte
+</string>
+    <string name="CardNameInvalid">    Entrez le nom du titulaire tel qu\'il figure sur la carte
+</string>
+    <string name="CardNumErr">    Veuillez renseigner  votre numéro de carte
+</string>
+    <string name="CardNumInvalid">    Numéro de carte invalide
+</string>
+    <string name="CardSecurityErr">    Veuillez renseigner le code de sécurité
+</string>
+    <string name="CardSecurityInvalid">    votre code de sécurité doit comporter 3 ou 4 chiffres
+</string>
+    <string name="CardTypeErr">    S\'il vous plaît Sélectionnez le type de carte
+</string>
+    <string name="Children">    Enfant(s)
+</string>
+    <string name="Confirm">Confirmer
+</string>
+    <string name="ConfirmSeat">    Confirmer le siège
+</string>
+    <string name="Daily">    Quotidien
+</string>
+    <string name="DepartureAirportErr">Veuillez sélectionner un aéroport.
+</string>
+    <string name="DepartureDateErr">S \'il vous plaît choisir la date de départ.
+</string>
+    <string name="DOB">    Date de naissance.</string>
+    <string name="DOBError">    Entrez une date de naissance
+</string>
+    <string name="FlightDays">    Fréquences
+</string>
+    <string name="FlightScheduleDesc">    Air Arabia vous propose un large éventail de destinations passionnantes à travers le Moyen-Orient, l\'Afrique du Nord, l\'Europe, les pays de la CEE, le Subcontinent indien et l\'Asie centrale. Sélectionnez vos destinations au départ et à l\'arrivée pour afficher les horaires des vols sur le mois.
+</string>
+    <string name="FromTo">    De / Pour
+</string>
+    <string name="ImpNote">    Remarque importante
+</string>
+    <string name="Infants">    Bébé (s)
+</string>
+    <string name="InvalidVisaCard">    Numéro de carte Visa invalide
+</string>
+    <string name="InvlaidMasterCard">    Numéro de carte Master Card invalide
+</string>
+    <string name="Meals">Repas
+</string>
+    <string name="Menu">    Menu
+</string>
+    <string name="NaArr">    NA Arr
+</string>
+    <string name="NaDep">    NA Dep
+</string>
+    <string name="NoHala">    Aucun service Hala disponible
+</string>
+    <string name="NoInsurance">    Assurance indisponible
+</string>
+    <string name="NoMeals">    Pas de repas disponibles
+</string>
+    <string name="NoSeatMap">    Plan de cabine non disponible
+</string>
+    <string name="Occupied">Occupé
+</string>
+    <string name="Payment">    Paiement
+</string>
+    <string name="RoundTrip">    Aller Retour
+</string>
+    <string name="Route">    Trajet
+</string>
+    <string name="SeatNo">    N° de siège
+</string>
+    <string name="Seats">    Sièges
+</string>
+    <string name="SecuredCreditCard">    Paiement sécurisé par carte
+</string>
+    <string name="Selected">Sélectionné</string>
+    <string name="SelectHala">    Sélectionner les services Hala
+</string>
+    <string name="SelectMeal">    Sélectionnez votre repas
+</string>
+    <string name="SelectMenuCategory">    Sélectionnez la catégorie de Menu désirée.
+</string>
+    <string name="Time">    Horaire
+</string>
+    <string name="TotalAmount">    Montant total
+</string>
+    <string name="TotalAmount_Payment">    Montant total
+</string>
+    <string name="Total">Total
+</string>
+    <string name="TotalFlightsServices">    Total Vol + Services
+</string>
+    <string name="TotalFlightsServices_Payment">    Total Vol + Services
+</string>
+    <string name="TotalInboundFlight">    Montant total du Retour
+</string>
+    <string name="TravelSecure">    Assurance voyage
+</string>
+    <string name="TravelSecure_PriceSummmary">Assurance
+</string>
+    <string name="SelectFlight">    Sélectionnez un vol
+</string>
+    <string name="Stop">    Stop
+</string>
+    <string name="AirArabia">    Air Arabia
+</string>
+    <string name="AmjanSalesShop">    Agence de Ajman:
+</string>
+    <string name="AmjanSalesShopAddr">    Sahaikh Rashid Bin Humaid Street – Près de Dream Sea Discount Center
+</string>
+    <string name="AmjanSalesShopli1">    Service réservations: du Samedi au Jeudi de 8:00 à 22:00. Le Vendredi: de 17:00 à 21:00
+</string>
+    <string name="AmjanSalesShopli2">    Service Visa (demande ou retrait de visa): du Samedi au Jeudi de 8:00 à 22:00
+</string>
+    <string name="AmjanSalesShopli3">    Service Visa (Remboursement de dépôt de garantie et extension de visa): du Samedi au Jeudi de 8:00 à 13:00
+</string>
+    <string name="ApplyFromOutSideTheUAE">    Déposer une demande depuis l\'extérieur des Emirats Arabes Unis
+</string>
+    <string name="ApplyFromOutSideTheUAEDescription">    Pour déposer une demande de visa depuis un autre pays, veuillez contacter notre point de vente dans votre pays
+</string>
+    <string name="ApplyFromTheUAE">    Faire une demande depuis les Emirats Arabes Unis
+</string>
+    <string name="ApplyNow">    Faire une demande maintenant
+</string>
+    <string name="CallCenter">    Centre d\'appels
+</string>
+    <string name="CallCenterNumber">Numéro de télephone</string>
+    <string name="Timings">Horaires</string>
+    <string name="CallCentersIn">    Dans les centres d\'appels
+</string>
+    <string name="City">    Ville :
+</string>
+    <string name="ClosingDate">    Date de fin
+</string>
+    <string name="ContactInfo">    Informations du contact
+</string>
+    <string name="ChooseNumber">Choisissez numéro à composer</string>
+    <string name="ContactUs">Nous contacter</string>
+    <string name="Description">    description
+</string>
+    <string name="Details">    Détails
+</string>
+    <string name="DetailsDescription">    Return air tickets &amp; visa for 
+AED 1050
+</string>
+    <string name="DocumentsFromApplicant">    Documents du demandeur
+</string>
+    <string name="DocumentsFromApplicantDescription">    Le demandeur doit présenter les documents suivants en personne
+</string>
+    <string name="DubaiSalesShop">    Agence de Dubaï:
+</string>
+    <string name="DubaiSalesShopAddr">    Port Saeed Building, Next to Dubai Islamic Bank, Al Maktoum Street – Near Clock Tower – Deira.
+</string>
+    <string name="DubaiSalesShopli1">    Service réservations: du Samedi au Jeudi de 8:30 à 20:00. Le Vendredi: de 17:00 à 20:00
+</string>
+    <string name="DubaiSalesShopli2">    For Applying for a new visa &amp; Collecting the approved Visas: SAT – THR 0830 am to 0700 pm.
+</string>
+    <string name="DubaiSalesShopli3">    Service Visa (Remboursement de dépôt de garantie et extension de visa): du Samedi au Jeudi de 8:00 à 13:00
+</string>
+    <string name="ForFeedbacksOrSuggestions">    Remarques et Suggestions
+</string>
+    <string name="ForGeneralEnquiryAndFollowUp">    Pour tout renseignements et suivis
+</string>
+    <string name="ForGeneralEnquiryAndFollowUpDescription">    For general visa enquiries or for check on status of your visa application you may reach us on  06 523 71 00 (Sharjah) from Saturday to Thursday between 8.30 am and 05.00pm. Customers can also reach us at
+</string>
+    <string name="LatestOffers">    Dernières Offres
+</string>
+    <string name="LatestOffersDescription">    Air Arabia’s value-for-money offers are a sure catch – you don’t want to miss out on our unbeatable travel deals! Aside from the cheap airline tickets always on offer, our airline constantly launches special promotions almost every day! Subscribe now and keep yourself alerted of our exciting promotions and air travel discounts.
+</string>
+    <string name="Location">Emplacement</string>
+    <string name="Map">    carte
+</string>
+    <string name="OfficeLocation">Bureaux de vente</string>
+    <string name="OfficeLocationsIn">    Bureau situé à
+</string>
+    <string name="CallCenterLocationsIn">Call Center Implantations En</string>
+    <string name="OurOffersFromToSharjah">    Nos offres depuis/vers Sharjah
+</string>
+    <string name="Phone">    Numéro de téléphone 
+</string>
+    <string name="PNRNumber">    Numéro de réservation (PNR)
+</string>
+    <string name="RasAlKhaimahSalesShop">    Agence de RAS AL KHAIMAH:
+</string>
+    <string name="RasAlKhaimahSalesShopAddr">    Oman road, Al Nakheel Street (Derrière le supermarché Lulu Supermarket)
+</string>
+    <string name="RasAlKhaimahSalesShopli1">    Service réservations: du Samedi au Jeudi de 8:30 à 21:00. Le Vendredi: de 17:00 à 21:00
+</string>
+    <string name="RasAlKhaimahSalesShopli2">    Service Visa (demande ou retrait de visa): du Samedi au Jeudi de 8:30 à 21:00
+</string>
+    <string name="RasAlKhaimahSalesShopli3">    Service Visa (Remboursement de dépôt de garantie et extension de visa): du Samedi au Jeudi de 8:30 à 21:00
+</string>
+    <string name="ReachUs">    Nous contacter
+</string>
+    <string name="RegulationsForChildren">    Réglementation pour les enfants
+</string>
+    <string name="RegulationsForChildrenDescriptionli1">    L\'enfant accompagné de sa mère n\'a pas besoin de visa s\'il apparait sur le passeport de sa mère.
+</string>
+    <string name="Reset">    Recommencer
+</string>
+    <string name="SharjahRollaSalesShop">    Agence de Sharjah Rolla:
+</string>
+    <string name="SharjahRollaSalesShopAddr">    Al Arouba Street, Rolla – Umm Al Tarafa Area.
+</string>
+    <string name="SharjahRollaSalesShopli1">    Service réservations: du Samedi au Jeudi de 9:00 à 13:00 / de 16:30 à 21:00. Le Vendredi: de 16:30 à 21:00
+</string>
+    <string name="SharjahRollaSalesShopli2">    Service Visa (demande ou retrait de visa): du Samedi au Jeudi de 8:30 à 21:00
+</string>
+    <string name="SharjahRollaSalesShopli3">    Service Visa (Remboursement de dépôt de garantie et extension de visa): du Samedi au Jeudi de 9:00 à 13:00
+</string>
+    <string name="SharjaIndustrialSalesShop">    Agence, zone industriel de Sharjah:
+</string>
+    <string name="SharjaIndustrialSalesShopAddr">    Khan Saheb Building, Industrial area number 10 – près du rond point de Geeco, dans la zone industriel de Sharjah
+</string>
+    <string name="SharjaIndustrialSalesShopli1">    For Reservation : SAT – THR 0930 am – 0930 pm. / FRI: 0500 pm to 2100 pm.
+</string>
+    <string name="SharjaIndustrialSalesShopli2">    Service Visa (nouvelle demande - retrait ou extension de visa): du Samedi au Jeudi de 9:30 à 21:30
+</string>
+    <string name="SharjaSalesShop">    Agence de Sharjah
+</string>
+    <string name="SharjaSalesShopAddr">    TOWER 400 – Mina Road – Um Tarafa Area.
+</string>
+    <string name="SharjaSalesShopli1">    Service réservations: du Samedi au Jeudi de 8:00 à 22:00. Le Vendredi: de 17:00 à 21:00
+</string>
+    <string name="SharjaSalesShopli2">    Service Visa (demande ou retrait de visa): du Samedi au Jeudi de 8:00 à 22:00
+</string>
+    <string name="SharjaSalesShopli3">    Service Visa (Remboursement de dépôt de garantie et extension de visa): du Samedi au Jeudi de 8:00 à 13:00
+</string>
+    <string name="SpecialOffers">    Offres spéciales
+</string>
+    <string name="Subject">    Sujet
+</string>
+    <string name="Submit">    Soumettre
+</string>
+    <string name="TravelTill">    Voyagez jusqu\'au 30/06/2012
+</string>
+    <string name="UAEImmigrationAuthorityRegulations">    Réglementation des autorités d\'immigrations des Émirats arabes unis
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescription">    le visa est exigé pour tous les visiteurs à l\'exception des ressortissants des 33 pays suivants:
+</string>
+    <string name="VisaAssistance">    Assistance Visa
+</string>
+    <string name="VisaRegulations">    Règlement Visa
+</string>
+    <string name="VisaRegulationsDescription">    Vous résidez aux Émirats arabes unis et désirez faire une demande de visa pour votre famille, des proches ou des amis, Air Arabia à le plaisir de vous assister. Nous proposons une assistance visa depuis chacune de nos destinations, vous n\'avez plus qu\'à réservez votre billet retour.
+</string>
+    <string name="VisaRequirements">    Exigences relatives aux visas
+</string>
+    <string name="VisaRequirementsDescription">    Vous résidez aux Émirats arabes unis et désirez faire une demande de visa pour votre famille, des proches ou des amis, Air Arabia à le plaisir de vous assister. Nous proposons une assistance visa depuis chacune de nos destinations, vous n\'avez plus qu\'à réservez votre billet retour.
+</string>
+    <string name="VisaValidityDescription">    Validité et renouvellement:
+</string>
+    <string name="VisaValidityHead">    Validité du visa, renouvellement et annulation
+</string>
+    <string name="DocumentsFromApplicantDescription1">    Services d\'immigration "Dubaï et Sharjah" pour les membres directs de la famille, les amis et les parents
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli1">    Salaire minimum de 3,000AED
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli2">    Copie du passeport et visa de séjour avec un minimum de 3 mois de validité
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli3">    3 derniers relevés bancaires tamponnés par la banque OU 3 dernières fiches de paie certifiées + contrat de location valide pour encore au moins 3 mois
+</string>
+    <string name="DocumentsFromApplicationsDescriptionli4">    2 copies claires du passeport avec une validité minimale de six mois.
+</string>
+    <string name="RegulationsForChildrenDescriptionli2">    Les enfants dotés d\'un passeport devrons également être doté d\'un visa
+</string>
+    <string name="RegulationsForChildrenDescriptionli3">    Les enfants de moins de 10 ans font l\'objet d\'un dépôt de garantie de 7500AED
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli1">    Les ressortissants du GCC (Pays du Golfe membres du Conseil de Coopération): Bahreïn, Koweït, Oman, le Qatar et l\'Arabie saoudite.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli10">    Le détenteur d\'un visa de visite n\'est pas autorisé à travailler aux Émirats arabes unis
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli11">    Pénalités appliquées en cas de dépassement de la durée de séjour autorisée:
+- 1er jour = 200AED
+- Tous les jours suivants: 100AED/jour
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli2">    Europe occidentale: France, Italie, Allemagne, Hollande, Belgique, Luxembourg, Suisse, Autriche, Suède, Norvège, Danemark, Portugal, Irlande, Grèce, Finlande, Espagne, Monaco, Vatican, Islande, Andorre, San Mario et le Liechtenstein
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli3">    Royaume-Uni
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli4">    Amérique du Nord: Etats-Unis
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli5">    Australie et Nouvelle-Zélande
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli6">    Extrême-Orient: Japon, Brunei, Singapour, la Malaisie et Hong Kong
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli7">    Les visiteurs doivent entrer aux Émirats arabes unis dans les 2 mois suivant la date de délivrance du visa
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli8">    Une unique entrée est autorisée. Dès l\'instant que le visiteur quitte le territoire le visa s\'annule.
+</string>
+    <string name="UAEImmigrationAuthorityRegulationsDescriptionli9">    un retour aux EAU est autorisé 30 jours après la date de sortie.
+</string>
+    <string name="VisaCancellation">    Conditions d\'annulation du Visa:
+</string>
+    <string name="VisaCancellationli1">    l\'annulation d\'un visa déjà accordé et non utilisé ne peut avoir lieu qu\'après l\'expiration de celui-ci, soit 60 jours à partir de la date d\'émission.
+</string>
+    <string name="VisaCancellationli2">    Le demandeur devra s\'acquitter de 175 AED de frais d\'annulation. Les frais relatives à l\'obtention du visa ne sont pas remboursés si la demande a été rejetée, annulée ou approuvée.
+</string>
+    <string name="VisaCancellationli3">    Si la demande de visa est en cours mais doit être annulé, le demandeur devra payer 175 AED. L\'annulation ne sera effective que 5 à 6 jours après la date d\'application de l\'annulation.
+</string>
+    <string name="VisaValidityDescriptionli1">    Un visa touristique est valable 30 jours à compter de la date d\'entrée aux Émirats arabes unis et peut être prolongé de 30 jours avant son expiration.
+</string>
+    <string name="VisaValidityDescriptionli2">    Les demandes de prolongation de visa doivent être émises au moins 10 jours avant son expiration.
+</string>
+    <string name="VisaValidityDescriptionli3">    En cas de prolongation du visa, l\'assurance médicale (50AED) doit être renouvelée.
+</string>
+    <string name="VisaValidityDescriptionli4">    L\'original du passeport doit être fourni avec l\'original du visa. Le visa pour Dubaï ou Sharjah coûte 870 AED.
+</string>
+    <string name="AdditionalServiceDetails">    Détails des services supplémentaires
+</string>
+    <string name="AdminFee">    Frais d\'administration
+</string>
+    <string name="AirFare">    billet d\'avion
+</string>
+    <string name="AmountPaid">    Montant payé
+</string>
+    <string name="Arrive">    Arrivée
+</string>
+    <string name="BaggageSelection">    sélection des bagages
+</string>
+    <string name="BookingDetails">    Détails de la réservation
+</string>
+    <string name="BookingSuccess">    Votre réservation a été complété avec succès.
+</string>
+    <string name="CardExpiryDate">    Date d\'expiration
+</string>
+    <string name="Click">    Cliquez
+</string>
+    <string name="ConfirmPayment">    confirmer le paiement
+</string>
+    <string name="CountryOfResidence">    Pays de résidence
+</string>
+    <string name="Email">    Email
+</string>
+    <string name="Finish">    terminer
+</string>
+    <string name="HaveASafeJourney">    Bon voyage!
+</string>
+    <string name="Here">    Ici
+</string>
+    <string name="Insurance"> Assurance
+</string>
+    <string name="MealSelection">Sélection de repas
+</string>
+    <string name="Mobile">Télephone</string>
+    <string name="OtherTaxeFeeSurcharge">    Autre taxes/frais et surcharges
+</string>
+    <string name="otherPassengers">Autres passagers</string>
+    <string name="PassengersWhoBought">    Les passagers ayant confirmé leur réservation par carte de crédit se verront demander une preuve de paiement à l\'aéroport.
+</string>
+    <string name="PaymentDetails">    Détail du paiement
+</string>
+    <string name="PolicyCode">    Code de réglementation
+</string>
+    <string name="ReservationDate">    Date de réservation
+</string>
+    <string name="ReservationNumber">    Numéro de réservation
+</string>
+    <string name="EnterReservationNumber">Saisir le numéro de réservation</string>
+    <string name="ReservationSummary">    Résumé de votre réservation
+</string>
+    <string name="SeatSelection">Selection de sièges</string>
+    <string name="SecurityCode">    Cryptogramme
+</string>
+    <string name="Taxes">    Taxes
+</string>
+    <string name="ThankYou">    Merci!
+</string>
+    <string name="ThankYouForChoosing">    Merci d\'avoir choisi Air Arabia.
+</string>
+    <string name="ToReturnHomePage">    Retour à la page d\'accueil.
+</string>
+    <string name="TryAgain">    Veuillez recommencer
+</string>
+    <string name="YourBookingHasBeenSuccess">    Votre réservation a été effectuée avec succès et votre itinéraire a été envoyé par e-mail
+</string>
+    <string name="you_have_been_succesfully_logout">Vous avez été déconnecté avec succès.</string>
+    <string name="YourItinerary">    Votre itinéraire
+</string>
+    <string name="InvalidName">    Nom incorrect
+</string>
+    <string name="SeatSelectionError">Ce siège ne peut pas être réservé par un passager voyageant avec un bébé</string>
+    <string name="CallCentersDescription1">    Bien que nous encouragions toujours nos passagers à profiter de solutions en ligne pour leur réservations nous sommes  également joignable à tout moment de la journée.
+</string>
+    <string name="CallCentersDescription2">    Présents sur tout notre réseau, nos centres d\'appels sont à votre service pour vous assister, vous informer, et vous faire profiter de toutes nos offres
+</string>
+    <string name="CallCentersDescription3">    Sélectionnez votre pays de résidence et appeler le numéro indiqué ci-dessous. Toute l\'expertise de nos agents est à votre disposition.
+</string>
+    <string name="OfficeLocationDescription1">    Peu importe votre emplacement, nous sommes toujours là pour vous
+</string>
+    <string name="OfficeLocationDescription2">    Bien que nous vous encouragions à réserver en ligne, vous êtes toujours les bienvenus dans notre point de vente le plus proche de chez vous. Nos points de ventes couvrent l\'ensemble de notre réseau. Nos agents sont toujours disponibles pour vous aider, vous conseiller et vous informer.
+</string>
+    <string name="OfficeLocationDescription3">    Indiquez votre lieu de résidence et trouvez notre point de vente le plus proche.
+</string>
+    <string name="OfficeLocationDescription4">    Contactez-nous, nous nous occuperons de tout!
+</string>
+    <string name="CallCenters">    Centres d\'appels
+</string>
+    <string name="PNRError">    Veuillez entrer votre N° de réservation
+</string>
+    <string name="CategoryError">    Veuillez choisir une catégorie
+</string>
+    <string name="DepartureDate">Date de départ
+</string>
+    <string name="EnterDepartureDate">Date</string>
+    <string name="FlightScheduleDescription1">    Air Arabia vous propose un large choix de séjours à travers le Moyen-Orient, l\'Afrique du Nord, l\'Europe, les pays de la CEE, le Subcontinent indien et l\'Asie centrale. Sélectionnez vos destinations au départ et à l\'arrivée pour afficher les horaires des vols sur le mois.
+</string>
+    <string name="FlightScheduleDescription2">    Sélectionnez vos destinations au départ et à l\'arrivée pour afficher des informations mensuelles sur les vols Air Arabia
+</string>
+    <string name="InvalidPNR">    Numéro de réservation invalide (8 chiffres uniquement)
+</string>
+    <string name="MessageError">Veuillez taper votre message</string>
+    <string name="Search">Rechercher</string>
+    <string name="SubjectError">    Veuillez indiquer un sujet
+</string>
+    <string name="Cancel">Annuler</string>
+    <string name="ComingSoon">    Bientôt.
+</string>
+    <string name="HalaP1">    Améliorez votre voyage avec les services de Hala. Hala est une gamme unique de services à valeur ajoutée pour les passagers au départ de Sharjah comprenant accueil et assistance aux services d\'immigration, passage prioritaire à l\'immigration, au  Check-in et à la sortie, l\'accès au salon business Porterageâ
+</string>
+    <string name="InsFinalSelection">S\'il vous plaît prendre votre décision finale</string>
+    <string name="InsPopupHead">    Voyager sans assurance? Avant de vous décider, nous vous recommandons de prendre en considération certains faits.
+</string>
+    <string name="InsPopupNo">    Non, je ne souhaite pas d\'assurance voyage
+</string>
+    <string name="InsPopupP1">    1. Saviez-vous que TRAVEL Secure est l\'un des moyens les plus abordables et efficace pour vous prévenir des impondérables  tels que les accidents ou les retards de vol?
+</string>
+    <string name="InsPopupP2">    2. Saviez-vous que même si la plupart des cartes de crédit comprennent une assurance, la couverture qu\'elles proposent est souvent limitée?
+</string>
+    <string name="InsPopupP3">    3. TRAVEL Secure est l\'assurance voyage la plus complète, souscrivez et voyagez en toute sérénité
+</string>
+    <string name="InsPopupYes">    oui, je veux souscrire une assurance
+</string>
+    <string name="InsuranceP1_sub1">Tout voyage est incomplet sans une assurance voyage ...</string>
+    <string name="InsuranceP1_sub2">Quelque soit la raison de votre voyage, vacances ou affaires, nous voulons que vous ayez un voyagiez en toute tranquillité d\'esprit. Deleguez nous la gestion des soucis medicaux, des urgences et des désagrements du voyage. Tout ce que vous devez faire est de souscrire à la police d\'assurance TUNE PROTECT PLATINUM.</string>
+    <string name="InsuranceP1_sub3_1">Pour seulement</string>
+    <string name="InsuranceP1_sub3_2">par personne, vous serez couvert pour:</string>
+    <string name="InsuranceLi1">50000 USD pour remboursement des frais liés à un accident personnel ou des frais medicaux</string>
+    <string name="InsuranceLi2">20000 USD pour évacuation médicale d\'urgence et rapatriement</string>
+    <string name="InsuranceLi3">3000 USD pour annulation ou interuption du voyage</string>
+    <string name="InsuranceLi4">et bien plus ...​</string>
+    <string name="InsurancePurchaseYes">Oui, je voudrais acheter une assurance​</string>
+    <string name="MealsP1">    Personnalisez votre voyage. Sélectionnez le menu de votre choix sur notre sélection Sky Café
+</string>
+    <string name="MealsP2">    Pour faire votre sélection, cliquez d\'abord sur le passager puis sur le menu choisi
+</string>
+    <string name="Ok">    OK
+</string>
+    <string name="SeatPopupHead">    Pour occuper un siège près des issues de secours le passager doit remplir les conditions suivantes:
+</string>
+    <string name="SeatPopupP1">    Avoir plus de 15 ans
+</string>
+    <string name="SeatPopupP2">    Avoir la pleine capacité de ses sens visuels et auditifs et être en mesure de comprendre les instructions du personnel de cabine.
+</string>
+    <string name="SeatPopupP3">    Être en bonne santé et être en pleine capacité mentale et physique.
+</string>
+    <string name="SeatPopupP4">    Etre vif sans aucune difficulté liée à l\'âge, le poids ou la masse corporelle
+</string>
+    <string name="SeatPopupP5">    Ne pas être en détention ou déporté
+</string>
+    <string name="SeatPopupP6">    Être disposé à participer activement si besoin en ouvrant la porte de secours conformément aux indications de l\'équipage. Dans tous les cas, la compagnie se réserve le droit, pour des raisons opérationnelles ou de sécurité, d\'attribuer ou de réattribuer les sièges et ce à tout moment, même après embarquement. Pour toute réclamation liée à l\'attribution du siège, veuillez contacter notre service client. Nous vous indiquons, que pour des raisons de sécurité, les sièges de la rangée 11 ne s\'inclinent pas. J\'accepte les conditions relatives aux sièges situés près des issues de secours.
+</string>
+    <string name="TypeToSearch">    Saisissez votre requête
+</string>
+    <string name="Arr">    Arr
+</string>
+    <string name="Dep">    Dép.
+</string>
+    <string name="Select">Sélectionnez</string>
+    <string name="Alert">    Alerte
+</string>
+    <string name="CardType">    Type de carte
+</string>
+    <string name="ErrorWhileProcessing">    Erreur lors du traitement de votre demande.
+</string>
+    <string name="PaymentDescription">    Ok pour embarquement: les passagers en provenance d\'inde, du Pakistan ou du Bangladesh et à destination des émirats Arabe Unis en possession d\'un visa touriste, doivent se munir d\'une copie papier ou électronique du visa affichant la mention Ok pour embarquement. Faute de quoi ils ne pourront être acceptés sur les vols Air Arabia.
+</string>
+    <string name="SelectedFlightsCannot">    le vol sélectionné n\'est pas disponible à la réservation.
+</string>
+    <string name="SessionExpired">    Votre session a expiré.
+</string>
+    <string name="StartAgain">    Veuillez recommencer
+</string>
+    <string name="StartOver">    Recommencer
+</string>
+    <string name="TechProblem">    Le site à rencontré un problème lors de votre requête.
+</string>
+    <string name="TryAgainAfter">    Veuillez recommencer dans quelques instants
+</string>
+    <string name="CreditBalance">    Credit Balance
+</string>
+    <string name="DateOfBooking">    Date of Booking
+</string>
+    <string name="DepartureDateMismatch">    Date de départ invalide.
+</string>
+    <string name="Flight">    Vol
+</string>
+    <string name="InvalidPNRCB">    PNR invalide.
+</string>
+    <string name="LastNameMismatch">    Nom de famille invalide.
+</string>
+    <string name="ManageBooking">Gérer votre réservation</string>
+    <string name="ModifySegment">    Modifier le trajet
+</string>
+    <string name="Status">    Statut
+</string>
+    <string name="Surcharges">    Surcharges
+</string>
+    <string name="TotalCharges">    Total des charges
+</string>
+    <string name="TotalPaid">    Total payé
+</string>
+    <string name="BalanceToPay">    Solde à payer
+</string>
+    <string name="ReservationCredit">    Réservation de crédit
+</string>
+    <string name="CardHolderName">    Nom du titulaire de la carte
+</string>
+    <string name="CardNumber">    Numéro de carte
+</string>
+    <string name="ReturnJourney">    Aller/Retour
+</string>
+    <string name="language">Langue</string>
+    <string name="register">S\'INSCRIRE</string>
+    <string name="earning">Utilisation des points</string>
+    <string name="redeeming">Gain des points</string>
+    <string name="faq">Questions fréquentes</string>
+    <string name="join_now">Enregistrez-vous maintenant</string>
+    <string name="email_us">Nous écrire</string>
+    <!-- <string name="info1">Bienvenue à AIREWARDS, le programme de fidélité d\'Air Arabia. AIREWARDS est facile à utiliser et se base sur des règles simples pour accumuler et utiliser les points afin d\'enrichir votre expérience de voyage Air Arabia.</string> -->
+    <string name="info">Air Arabia vous souhaite la bienvenue sur le site de son nouveau programme de fidélité, conçu pour fournir une valeur ajoutée à tous nos clients dans l’air ou au sol. Facile à utiliser et basé sur un simple système d’accumulation et d’utilisation de points, Airewards rendra votre expérience de voyage avec Air Arabia encore plus enrichissante.</string>
+    <string name="currency">Devise</string>
+    <string name="settings">Paramètres</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="home">Accueil</string>
+    <string name="my_profile">Mon profil</string>
+    <string name="guest">Client</string>
+    <string name="login">SE CONNECTER</string>
+    <string name="register_caps">INSCRIPTION</string>
+    <string name="continue_as_guest">CONTINUER SANS SE CONNECTER</string>
+    <string name="SelectDestination">Choisissez une destination</string>
+    <string name="SelectOrigin">Sélectionnez origine</string>
+    <string name="done">Ok</string>
+    <string name="logged_in_succesfully">Connexion réussie ! Bienvenue</string>
+    <string name="success">Succès</string>
+    <string name="select_country">Choisissez le pays</string>
+    <string name="select_language">Choisir la langue</string>
+    <string name="direct">Direct</string>
+    <string name="fav_destinstion">Destinations préférées</string>
+    <string name="edit">Modifier</string>
+    <!-- Total Price -->
+    <string name="Select_Fare">Sélectionnez Fare</string>
+    <!-- Flight Details -->
+    <string name="SaverFare">Tarif Economique</string>
+    <string name="SaverFare_details">Tarif Economique</string>
+    <string name="SmartFare">Tarif Smart</string>
+    <string name="SmartFare_details">Tarif Smart</string>
+    <string name="SuperFare">Tarif Super</string>
+    <string name="SuperFare_details">Tarif Super</string>
+    <string name="BundleFare">Fare Bundle</string>
+    <string name="BundleFare_details">Fare Bundle</string>
+    <string name="smartFare">Tarif Smart</string>
+    <string name="basicFare">Basique</string>
+    <string name="ValueFare">Economique</string>
+    <string name="ExtraFare">Extra</string>
+    <string name="basicFare_details">Description du tarif Basique</string>
+    <string name="ValueFare_details">Description du tarif Economique</string>
+    <string name="ExtraFare_details">Description du tarif Extra</string>
+    <string name="add">Ajouter</string>
+    <!-- Passenger Info -->
+    <string name="Collect_points">Collecter des points</string>
+    <string name="Airewards_ID">Airewards ID</string>
+    <string name="ContactPerson">personne à contacter</string>
+    <string name="Please_enter_details">Veuillez entrer vos coordonnées</string>
+    <string name="Please_enter_all_details">S\'il vous plaît renseigner tous les champs.</string>
+    <string name="Please_enter">Entrez s\'il vous plait</string>
+    <string name="Please_select_passenger_type">S\'il vous plaît sélectionner un type de passagers.</string>
+    <string name="Passanger_one_contact_person">Passager 1 sera la personne de contact.</string>
+    <string name="selectClass">Sélectionner une classe</string>
+    <string name="class_name">Classe</string>
+    <string name="selectYourClass">Sélectionnez votre classe</string>
+    <string name="PriceSummary">Récapitulatif</string>
+    <string name="seatselection">Sélection de sièges</string>
+    <string name="mealselection">Sélection de repas</string>
+    <string name="travelinsurance">Assurance voyage</string>
+    <string name="airportservice">Services à l\'aéroport</string>
+    <string name="Baggageselection">Bagage Enregistré</string>
+    <string name="Select_Baggage">Ajoutez un bagage</string>
+    <string name="Select_Meal">Sélectionnez repas</string>
+    <string name="Select_seat">Sélectionnez Seat</string>
+    <string name="Select_travel_insurance">Assurance voyage</string>
+    <string name="Select_travel_insurance_header">Assurance voyage</string>
+    <string name="economy">Economique</string>
+    <string name="business">Entreprise</string>
+    <string name="FlexiDetails"> 1 Modification et annulation sans pénalité jusqu à 4 heures avant le départ .</string>
+    <string name="PromoDetails">Notre tarif le plus bas.</string>
+    <string name="PromoDetails_title">Promo fare details</string>
+    <string name="seatnumber">Siège</string>
+    <string name="meal">le menu</string>
+    <string name="seatdescription">Fenêtre ou couloir ? Choisissez votre siège préféré et garantissez qu’il est réservé pour vous.</string>
+    <string name="insurancedescription">Obtenez une couverture complète qui comprend les accidents personnels, la maladie, l\'évacuation, les inconvénients de voyage ...</string>
+    <string name="airportdescription">Choisissez parmi une gamme de services conçus pour améliorer votre expérience à l\'aéroport.</string>
+    <string name="mealdescription">Sélectionnez le repas de votre choix de nselect otre menu Sky Café avant votre vol.</string>
+    <string name="save_profile">Enregistrer le profil</string>
+    <string name="passenger_details_saved">Passager Détail sauvé.</string>
+    <string name="saved_passengers">Détails des passagers</string>
+    <string name="airewardsId_cap">AIREWARDS ID (facultatif)</string>
+    <string name="passPortNoOptional">Numéro de passeport (facultatif)</string>
+    <string name="countrycode">Code</string>
+    <string name="noCurrency">Aucune devise Trouvé.</string>
+    <string name="noLanguageFound">No Language Found.</string>
+    <string name="registorinfo">Choisissez une des options ci-dessous pour vous enregistrer à AIREWARDS.</string>
+    <string name="PassError">Veuillez entrer votre mot de passe.</string>
+    <string name="i_travel_mainly_from_to_via_UAE">Je voyage principalement au départ/vers/via les EAU</string>
+    <string name="i_travel_mainly_from_to_via_Morocco">Je voyage principalement au départ/vers/via le Maroc</string>
+    <string name="i_travel_mainly_from_to_via_Egypt">Je voyage principalement au départ/vers/via l\'Egypte</string>
+    <string name="i_travel_mainly_from_to_via_Jordan">Je voyage principalement au départ/vers/via la Jordanie</string>
+    <string name="registerNow">S\'enregistrer</string>
+    <string name="selectCountry">Sélectionnez un pays</string>
+    <string name="selectNationality">Sélectionnez Nationalité</string>
+    <string name="selectCity">Sélectionnez une ville</string>
+    <string name="OfficeLocationinfo">Sélectionnez votre pays et ville de résidence pour afficher les numéros de téléphone et l\'emplacement de nos bureaux de vente</string>
+    <string name="Colon"> : </string>
+    <string name="phonetext">Téléphone</string>
+    <string name="alert_msg_empty_city">S\'il vous plaît sélectionner une ville.</string>
+    <string name="alert_msg_empty_country">S\'il vous plaît sélectionner un pays d\'abord.</string>
+    <string name="select_u_origin">Sélectionnez une origine</string>
+    <string name="select_u_destination">Sélectionnez une destination</string>
+    <string name="message_colon">un message:</string>
+    <string name="message">un message</string>
+    <string name="Send">Envoyer</string>
+    <string name="closest_Airport">Aéroports à proximité</string>
+    <string name="recent_Airport">Aéroports récents</string>
+    <string name="all_Airport">Tous les aéroports</string>
+    <string name="favourite_Airport">Aéroports favorites</string>
+    <string name="please_select_your_flight">Veuillez sélectionner vos vols:</string>
+    <string name="invaild_email">Veuillez entrer une adresse email valide.</string>
+    <string name="invaild_airewards">S\'il vous plaît entrer un AIREWARDS pièce d\'identité valide ( e-mail ) .</string>
+    <string name="invaild_airewards_incomplete">S\'il vous plaît entrer un AIREWARDS pièce d\'identité( e-mail ).</string>
+    <string name="invaild_country_of_residence">S\'il vous plaît sélectionner le pays de résidence.</string>
+    <string name="PassengerDetails">Information des passagers</string>
+    <string name="Returning">Retour</string>
+    <!-- Login -->
+    <string name="Email_Address">Adresse email</string>
+    <string name="Password">Mot de passe</string>
+    <string name="callcenterinfo">Sélectionnez votre pays et ville de résidence et appelez le numéro indiqué ci-dessous. Nos agents sont prêts à vous aider.</string>
+    <string name="Subject_colon">Sujet:</string>
+    <string name="Cc_Bcc_no_colon">Cc\/Bcc</string>
+    <string name="AlertMsgSelectBaggage">S\'il vous plaît Choisissez votre bagage</string>
+    <string name="please_Select_Fare">Veuillez sélectionner un tarif:</string>
+    <string name="please_Select_Fare_error">Veuillez choisir un tarif pour continuer.</string>
+    <string name="calendar">Calendrier</string>
+    <string name="contact_details">détails du contact</string>
+    <string name="SelectBaggagesmall">sélectionner votre bagage.</string>
+    <string name="SelectSeatsmall">Sélectionnez votre siège</string>
+    <string name="SelectMealsmall">Sélectionnez votre repas</string>
+    <string name="choosecategory">Choisissez une catégorie</string>
+    <string name="ChooseItem">Choisissez un article</string>
+    <string name="save_and_continue">Sauvegarder et continuer</string>
+    <string name="noCountry">No Country Trouvé.</string>
+    <string name="noNationality">Non Nationalité Trouvé</string>
+    <string name="Baggagetext">Bagages</string>
+    <string name="mealText">Repas</string>
+    <string name="fare_note">Les prix ci-dessus sont pour un seul passager</string>
+    <string name="login_error">Connectez-vous s\'il vous plaît Erreur réessayer .</string>
+    <string name="SelectAirportServices">Sélectionnez vos services à l\'aéroport</string>
+    <string name="noCity">No City Trouvé.</string>
+    <string name="currency_exchange_not_avail">Les résultats pour l"itinéraire choisi ne peuvent pas être affichés en </string>
+    <string name="please_select_another_currency"> s"il vous plaît choisir une autre monnaie ou faire votre recherche dans </string>
+    <string name="Please_select_destination">S\'il vous plaît sélectionner toute destination préférée.</string>
+    <string name="NoDestination">Non Destination Trouvé.</string>
+    <string name="DOB_Optional">Date de naissance (facultatif)</string>
+    <string name="all_nationality">Tous Nationalité</string>
+    <string name="all_country">Tous Pays</string>
+    <string name="profile_saved">Profil enregistré avec succès.</string>
+    <string name="sure_to_logout">Etes-vous sûr de se déconnecter?</string>
+    <string name="please_enable_your_location">S\'il vous plaît permettre à votre emplacement.</string>
+    <string name="enable_location">Autoriser</string>
+    <string name="skip">Continuer</string>
+    <string name="SelectTravekInsurance">Sélectionnez votre Assurance Voyage</string>
+    <string name="add_new">Ajouter</string>
+    <string name="please_enable_your_location_for_closest_airport">Veuillez autoriser l\'utilisation de votre localisation.</string>
+    <string name="superFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 40 kg sans les bagages enregistrés , 1 repas chaud + 1 eau, un rang ou un siège de sortie et rapide check-in ou sortie rapide.</string>
+    <string name="saverFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 20 kg sans les bagages enregistrés , 1 sandwich et un siège réservé gratuit du rang 5 partir.</string>
+    <string name="smartFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , une rangée de sièges ou de sortie avant et rapide check-in ou sortie rapide.</string>
+    <string name="xFaredesc">Nos tarif le moins cher disponible , modifications et annulations sont possibles jusqu\'à 24 avant le départ et soumis à redevance.</string>
+    <string name="do_you_want_to_save_profile">Sauvegarder le profile?</string>
+    <string name="contactdetails">détails du contact</string>
+    <string name="contactdetails_myprofile">Coordonées</string>
+    <string name="preferences">Préférences</string>
+    <string name="noData">Aucune donnée disponible.</string>
+    <string name="CardNumberCapital">NUMERO DE CARTE</string>
+    <string name="cvvcodecapital">CODE CVV</string>
+    <string name="CardHolderNamecapital">Nom du titulaire de la carte</string>
+    <string name="CardExpiryDatecapital">MOIS</string>
+    <string name="CardNumErrNew">Le numéro de la carte devrait être de 16 chiffres.</string>
+    <string name="CardSecurityErrNew">Numéro CVV doit être de 3 ou 4 chiffres.</string>
+    <string name="please_select_country">S\'il vous plaît sélectionnez votre pays</string>
+    <string name="please_select_your_country">Veuillez sélectionner votre pays</string>
+    <string name="please_select_your_nationality">Sélectionnez un pays</string>
+    <string name="please_select_your_currancy">S\'il vous plaît sélectionnez votre monnaie</string>
+    <string name="btn_save">enregistrer</string>
+    <string name="guest_user">Visiteur</string>
+    <string name="settings_pop_msg">Paramètres sauvegardes avec succès.</string>
+    <string name="cur_head">Sélectionnez un pays</string>
+    <string name="Infantss">Bébé(s)</string>
+    <string name="detail">détail</string>
+    <string name="BookFlighta">Reserve des vols</string>
+    <string name="Adultc">ADULTE</string>
+    <string name="Childc">Enfant</string>
+    <string name="Infantc">BÉBÉ</string>
+    <string name="loader_msg">Loading. Cela peut prendre quelques secondes.</string>
+    <string name="from">Ã</string>
+    <string name="year">An</string>
+    <string name="no_flights">Pas de vols disponibles entre </string>
+    <string name="to"> et </string>
+    <string name="on"> le </string>
+    <string name="please_change_your_depart"> Veuillez changer votre date de depart via le calendrier ci-dessus.</string>
+    <string name="please_change_your_return"> Veuillez changer votre date de retour via le calendrier ci-dessus.</string>
+    <string name="change_flights">Il n\'y a pas de vols disponibles pour les dates sélectionnées. Veuillez changer vos dates ou sélectionner une nouvelle route.</string>
+    <string name="Alert_MSG_NoFlightAvailable1">Il n\'y a pas de vols disponibles pour les dates sélectionnées.</string>
+    <string name="Alert_MSG_NoFlightAvailable2">Veuillez changer vos dates ou sélectionner une nouvelle route.</string>
+    <string name="add_from_contact">Sélectionnez à partir de la liste de contacts</string>
+    <string name="select_from_saved">Sélectionnez à partir de la liste sauvegardé</string>
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="arabic">Arabe</string>
+    <string name="russion">russe</string>
+    <string name="Passengers_flight_summary">    Passager(s)
+</string>
+    <string name="g_PromoDetails">Notre tarif le plus bas.</string>
+    <string name="o_PromoDetails">Notre tarif le plus bas.</string>
+    <string name="e_PromoDetails">Notre tarif le plus bas.</string>
+    <string name="P_PromoDetails">Notre tarif le plus bas.</string>
+    <string name="g_FlexiDetails">1 modification et annulation sans penalité jusqu\'à 4h avant le vol</string>
+    <string name="o_FlexiDetails">1 modification sans penalité jusqu\'à 8h avant le vol</string>
+    <string name="e_FlexiDetails">1 Modification et annulation sans pénalité jusqu à 4 heures avant le départ .</string>
+    <string name="p_FlexiDetails">1 Modification et annulation sans pénalité jusqu à 4 heures avant le départ .</string>
+    <string name="g_saverFareDes">1 modification et annulation sans penalité jusqu\'à 4h avant le vol, 20 kg de bagages, 1 sandwich, 1 siège réservé à partir de la 5ème rangée.</string>
+    <string name="o_saverFareDes">1 modification sans penalité jusqu\'à 8h avant le vol, 20 kg de bagages, 1 sandwich, 1 siège réservé à partir de la 5ème rangée</string>
+    <string name="e_saverFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 20 kg sans les bagages enregistrés , 1 sandwich et un siège réservé gratuit du rang 5 partir.</string>
+    <string name="P_saverFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 20 kg sans les bagages enregistrés , 1 sandwich et un siège réservé gratuit du rang 5 partir.</string>
+    <string name="g_superFareDes">1 modification et annulation sans pénalité jusqu\'à 4h avant le vol, 40 kg de bagages gratuits, 1 repas chaud+ une bouteille d\'eau, 1 siège réservé à l\'avant ou près des issues de secours.</string>
+    <string name="o_superFareDes">1 modification sans pénalité jusqu\'à 8h avant le vol, 30 kg de bagages gratuits, 1 repas chaud, 1 siège réservé à l\'avant ou près des issues de secours.</string>
+    <string name="e_superFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 40 kg sans les bagages enregistrés , 1 repas chaud + 1 eau, un rang ou un siège de sortie et rapide check-in ou sortie rapide.</string>
+    <string name="P_superFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , 40 kg sans les bagages enregistrés , 1 repas chaud + 1 eau, un rang ou un siège de sortie et rapide check-in ou sortie rapide.</string>
+    <string name="g_smartFareDes">20 kg de bagages, 1 sandwich + 1 bouteille d\'eau </string>
+    <string name="o_smartFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , une rangée de sièges ou de sortie avant et rapide check-in ou sortie rapide</string>
+    <string name="e_smartFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , une rangée de sièges ou de sortie avant et rapide check-in ou sortie rapide</string>
+    <string name="P_smartFareDes">1 modification et l\'annulation sans pénalité jusqu\'à 4 heures avant le départ , une rangée de sièges ou de sortie avant et rapide check-in ou sortie rapide</string>
+    <!-- newly added -->
+    <string name="basicDec">Notre tarif le plus bas</string>
+    <string name="g_ValueDes">20-40 Kg bagage enregistré inclus (selon la destination) avec un sandwich et une bouteille d\'eau</string>
+    <string name="g_ExtraDes">40 Kg bagage enregistré, repas chaud ou sandwich, siège réservé, 1 modification et 1 annulation sans frais jusqu\'à 4 heures avant le départ</string>
+    <string name="o_ValueDes">15 Kg bagage enregistré inclus avec un sandwich</string>
+    <string name="o_ExtraDes">30 Kg bagage enregistré, repas chaud, siège réservé, 2 modifications sans frais jusqu\'à 8 heures avant le départ</string>
+    <string name="e_ValueDes">40 Kg bagage enregistré inclus avec un sandwich</string>
+    <string name="e_ExtraDes">40 Kg bagage enregistré, repas chaud, siège réservé, 1 modification et 1 annulation sans frais jusqu\'à 8 heures avant le départ</string>
+    <string name="p_ValueDes">20 Kg bagage enregistré inclus avec un sandwich</string>
+    <string name="p_ExtraDes">30 Kg bagage enregistré, repas chaud, siège réservé, 1 modification et 1 annulation sans frais jusqu\'à 4 heures avant le départ</string>
+    <string name="payment_currency_mad">Nous acceptons les paiements par carte bancaire marocaine.  Si vous souhaitez effectuer votre paiement par une carte internationale,  veuillez refaire votre réservation en choisissant l’Euro comme devise.</string>
+    <string name="payment_currency_EUR">Nous acceptons les paiements par carte bancaire internationale. Si vous souhaitez effectuer votre paiement par une carte marocaine, veuillez refaire votre réservation en choisissant  le MAD comme devise.</string>
+    <string name="payment_currency_other">Nous acceptons les paiements par carte bancaire internationale.</string>
+    <string name="payment_accept">Le paiement sera effectué en %s</string>
+    <string name="under_dev">Cette fonction est en cours de développement. Pour gérer votre réservation, prière d\'utiliser la version de notre site web disponible sur ordinateur</string>
+
+</resources>

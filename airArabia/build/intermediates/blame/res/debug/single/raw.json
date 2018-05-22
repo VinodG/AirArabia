@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\airports_data.json",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\airports_data.json"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\officelocations.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\officelocations.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\countrynames.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\countrynames.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\countryisdcodes.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\countryisdcodes.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\city.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\city.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\country_codes.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\country_codes.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\country.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\country.xml"
+    },
+    {
+        "merged": "D:\\AirArabia\\airArabia\\build\\intermediates\\res\\merged\\debug\\raw\\countries.xml",
+        "source": "D:\\AirArabia\\airArabia\\src\\main\\res\\raw\\countries.xml"
+    }
+]

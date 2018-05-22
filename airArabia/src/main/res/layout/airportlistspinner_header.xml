@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gray_lightest"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/appbar_headr_size"
+        android:paddingBottom="@dimen/appbar_headr_size"
+        android:paddingLeft="@dimen/margin_normal"
+        android:paddingRight="@dimen/margin_normal"
+        android:textColor="@color/text_color_gray"
+        android:textSize="@dimen/textsize_15"/>
+
+</LinearLayout>

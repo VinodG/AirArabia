@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rect_bg_white"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/InsuranceP1_sub1"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/InsuranceP1_sub2"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:id="@+id/tvInsurance2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="right"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/dot_black_new"
+        android:gravity="right"
+        android:text="@string/InsuranceLi1"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/dot_black_new"
+        android:gravity="right"
+        android:text="@string/InsuranceLi2"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/dot_black_new"
+        android:gravity="right"
+        android:text="@string/InsuranceLi3"
+        android:textSize="@dimen/textsize_16" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/InsuranceLi4"
+        android:textSize="@dimen/textsize_16" />
+    
+    <LinearLayout
+        android:id="@+id/llInsuranceCheckPurchase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/tvInsuranceSub4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="@string/InsurancePurchaseYes"
+            android:textSize="@dimen/textsize_16" />
+
+        <ImageView
+            android:id="@+id/ivInsuranceCheckPurchase"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/uncheck" />
+    </LinearLayout>
+
+</LinearLayout>
